@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User account profile for parents/guardians",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "email": { "type": "string", "format": "email", "maxLength": 256 },
+        "name": { "type": "string", "maxLength": 100 },
+        "provider": { "type": "string", "enum": ["google", "apple", "email"] },
+        "role": { "type": "string", "enum": ["user", "admin"] },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "lastLoginAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "email", "name", "provider", "role", "createdAt"]
+    },
+    "ChildProgress": {
+      "title": "ChildProgress",
+      "description": "Child learning journey progress, stars, and mastered Arabic letters and words",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "maxLength": 128 },
+        "completedLetters": { "type": "array", "description": "Array of completed alphabet letter IDs" },
+        "completedWords": { "type": "array", "description": "Array of learned Arabic vocabulary words" },
+        "spellingScore": { "type": "number" },
+        "starsCount": { "type": "number" },
+        "storiesRead": { "type": "array", "description": "Array of completed story IDs" },
+        "mathScore": { "type": "number" },
+        "lastSyncedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "completedLetters", "completedWords", "spellingScore", "starsCount", "lastSyncedAt"]
+    },
+    "SubscriptionRecord": {
+      "title": "SubscriptionRecord",
+      "description": "Subscription receipt and entitlement status for Google Play and Apple App Store",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "maxLength": 128 },
+        "plan": { "type": "string", "enum": ["monthly", "annual"] },
+        "platform": { "type": "string", "enum": ["android", "ios", "web"] },
+        "status": { "type": "string", "enum": ["active", "cancelled", "expired"] },
+        "sku": { "type": "string", "maxLength": 128 },
+        "startDate": { "type": "string", "format": "date-time" },
+        "expirationDate": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "plan", "platform", "status", "startDate"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/UserProfile" },
+      "description": "Parent user profile documents"
+    },
+    "/users/{userId}/progress/data": {
+      "schema": { "$ref": "#/entities/ChildProgress" },
+      "description": "Child educational progress linked to the parent account"
+    },
+    "/users/{userId}/subscriptions/current": {
+      "schema": { "$ref": "#/entities/SubscriptionRecord" },
+      "description": "Active subscription entitlement details"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default-deny catch-all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Security Primitives
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email == 'alilitooo.83@gmail.com' ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    // Validation Helpers
+    function isValidUser(data) {
+      return data.keys().hasAll(['id', 'email', 'name', 'provider', 'role', 'createdAt']) &&
+        data.keys().hasOnly(['id', 'email', 'name', 'provider', 'role', 'createdAt', 'lastLoginAt', 'avatarUrl']) &&
+        data.id is string && data.id.size() <= 128 &&
+        data.email is string && data.email.size() <= 256 &&
+        data.name is string && data.name.size() <= 100 &&
+        data.provider in ['google', 'apple', 'email'] &&
+        data.role in ['user', 'admin'] &&
+        data.createdAt is string;
+    }
+
+    function isValidProgress(data) {
+      return data.keys().hasAll(['userId', 'completedLetters', 'completedWords', 'spellingScore', 'starsCount', 'lastSyncedAt']) &&
+        data.userId is string && data.userId.size() <= 128 &&
+        data.completedLetters is list && data.completedLetters.size() <= 50 &&
+        data.completedWords is list && data.completedWords.size() <= 200 &&
+        data.spellingScore is number &&
+        data.starsCount is number &&
+        data.lastSyncedAt is string;
+    }
+
+    function isValidSubscription(data) {
+      return data.keys().hasAll(['userId', 'plan', 'platform', 'status', 'startDate']) &&
+        data.userId is string && data.userId.size() <= 128 &&
+        data.plan in ['monthly', 'annual'] &&
+        data.platform in ['android', 'ios', 'web'] &&
+        data.status in ['active', 'cancelled', 'expired'] &&
+        data.startDate is string;
+    }
+
+    // Connection Healthcheck Document (Read-Only)
+    match /test/connection {
+      allow get: if true;
+    }
+
+    // User Profile Documents
+    match /users/{userId} {
+      allow get: if isOwner(userId) || isAdmin();
+      allow list: if isAdmin();
+      allow create: if isOwner(userId) && isValidId(userId) && isValidUser(incoming());
+      allow update: if isOwner(userId) && isValidId(userId) && isValidUser(incoming()) &&
+        incoming().id == existing().id &&
+        incoming().createdAt == existing().createdAt;
+      allow delete: if isOwner(userId) || isAdmin();
+
+      // Subcollection: Educational Progress
+      match /progress/{progressDoc} {
+        allow get: if isOwner(userId) || isAdmin();
+        allow list: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId) && isValidProgress(incoming()) && incoming().userId == userId;
+        allow delete: if isOwner(userId) || isAdmin();
+      }
+
+      // Subcollection: Subscriptions & Entitlements
+      match /subscriptions/{subDoc} {
+        allow get: if isOwner(userId) || isAdmin();
+        allow list: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId) && isValidSubscription(incoming()) && incoming().userId == userId;
+        allow delete: if isOwner(userId) || isAdmin();
+      }
+    }
+  }
+}

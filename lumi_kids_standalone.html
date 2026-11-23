@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+  <title>لُومِي - تَعَلَّمْ وَامْرَحْ | Lumi Kids</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600;700;800;900&family=Noto+Naskh+Arabic:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Cairo', 'Noto Naskh Arabic', sans-serif;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .tashkeel {
+      font-family: 'Noto Naskh Arabic', 'Cairo', serif;
+      line-height: 2.2;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+    .animate-float {
+      animation: float 2.5s ease-in-out infinite;
+    }
+  </style>
+</head>
+<body class="bg-amber-50/50 text-slate-800 min-h-screen flex flex-col">
+  <!-- Header -->
+  <header class="bg-white border-b-2 border-amber-200/80 sticky top-0 z-30 shadow-xs px-4 py-3">
+    <div class="max-w-4xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-11 h-11 bg-amber-400 text-white rounded-2xl flex items-center justify-center text-2xl font-black shadow-md border-2 border-white animate-float">
+          ⭐
+        </div>
+        <div>
+          <h1 class="text-xl font-black text-amber-600 leading-tight">لُومِي</h1>
+          <p class="text-xs text-amber-500 font-bold">تَعَلَّمْ وَامْرَحْ مَعَ لُومِي</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <span id="score-badge" class="bg-amber-100 text-amber-800 font-extrabold text-sm px-3 py-1.5 rounded-full border border-amber-300 flex items-center gap-1 shadow-xs">
+          ⭐ <span id="stars-count">0</span> نُجُوم
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="bg-amber-100/70 border-b border-amber-200 px-3 py-2">
+    <div class="max-w-4xl mx-auto flex gap-2 justify-center overflow-x-auto">
+      <button onclick="switchTab('letters')" id="tab-letters" class="px-4 py-2 rounded-xl font-black text-sm transition-all bg-amber-500 text-white shadow-md">
+        🔤 الحُرُوفُ
+      </button>
+      <button onclick="switchTab('words')" id="tab-words" class="px-4 py-2 rounded-xl font-black text-sm transition-all bg-white text-slate-700 hover:bg-amber-50">
+        📖 الكَلِمَاتُ
+      </button>
+      <button onclick="switchTab('math')" id="tab-math" class="px-4 py-2 rounded-xl font-black text-sm transition-all bg-white text-slate-700 hover:bg-amber-50">
+        🔢 الحِسَابُ
+      </button>
+      <button onclick="switchTab('animals')" id="tab-animals" class="px-4 py-2 rounded-xl font-black text-sm transition-all bg-white text-slate-700 hover:bg-amber-50">
+        🦁 الحَيَوَانَاتُ
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Content Container -->
+  <main class="flex-1 max-w-4xl w-full mx-auto p-4">
+    <!-- 1. LETTERS MODULE -->
+    <section id="view-letters" class="space-y-4">
+      <div class="bg-gradient-to-r from-amber-400 to-orange-400 text-white p-4 rounded-3xl shadow-sm flex items-center justify-between">
+        <div>
+          <h2 class="text-xl font-black">حُرُوفُ الهِجَاءِ العَرَبِيَّة</h2>
+          <p class="text-xs font-semibold opacity-90">انقر على الحرف لتستمع إلى نطقه الجميل!</p>
+        </div>
+        <span class="text-4xl animate-bounce">🎈</span>
+      </div>
+
+      <div id="letters-grid" class="grid grid-cols-4 sm:grid-cols-7 gap-3"></div>
+    </section>
+
+    <!-- 2. WORDS MODULE -->
+    <section id="view-words" class="hidden space-y-4">
+      <div class="bg-gradient-to-r from-emerald-400 to-teal-500 text-white p-4 rounded-3xl shadow-sm flex items-center justify-between">
+        <div>
+          <h2 class="text-xl font-black">قَامُوسُ الكَلِمَاتِ المُصَوَّرَة</h2>
+          <p class="text-xs font-semibold opacity-90">تعلّم الكلمات مع التشكيل والنطق السليم</p>
+        </div>
+        <span class="text-4xl">📚</span>
+      </div>
+
+      <div id="words-grid" class="grid grid-cols-2 sm:grid-cols-3 gap-4"></div>
+    </section>
+
+    <!-- 3. MATH MODULE -->
+    <section id="view-math" class="hidden space-y-4">
+      <div class="bg-gradient-to-r from-sky-400 to-blue-500 text-white p-4 rounded-3xl shadow-sm flex items-center justify-between">
+        <div>
+          <h2 class="text-xl font-black">لُعْبَةُ الحِسَابِ الذَّكِي</h2>
+          <p class="text-xs font-semibold opacity-90">اختر الإجابة الصحيحة واكسب نجوماً جديدة!</p>
+        </div>
+        <span class="text-4xl">🧮</span>
+      </div>
+
+      <div class="bg-white rounded-3xl border-2 border-sky-100 p-6 text-center shadow-sm max-w-md mx-auto space-y-6">
+        <div id="math-question" class="text-4xl font-black text-sky-600 tracking-wider">
+          3 + 2 = ؟
+        </div>
+        <div id="math-options" class="grid grid-cols-3 gap-3"></div>
+        <div id="math-feedback" class="text-sm font-bold min-h-6"></div>
+      </div>
+    </section>
+
+    <!-- 4. ANIMALS MODULE -->
+    <section id="view-animals" class="hidden space-y-4">
+      <div class="bg-gradient-to-r from-purple-400 to-pink-500 text-white p-4 rounded-3xl shadow-sm flex items-center justify-between">
+        <div>
+          <h2 class="text-xl font-black">عَالَمُ الحَيَوَانَاتِ الأَلِيفَة</h2>
+          <p class="text-xs font-semibold opacity-90">استكشف أصوات وأسماء أصدقائنا اللطيفين</p>
+        </div>
+        <span class="text-4xl">🐾</span>
+      </div>
+
+      <div id="animals-grid" class="grid grid-cols-2 sm:grid-cols-4 gap-3"></div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-amber-200/80 py-3 text-center text-xs text-amber-700 font-bold">
+    🌟 لُومِي - تطبيق تفاعلي للأطفال آمن 100% وخالٍ من الإعلانات المتطفلة
+  </footer>
+
+  <script>
+    // State
+    let stars = 0;
+    const arabicLetters = [
+      { char: 'أ', name: 'أَلِف', word: 'أَسَد', emoji: '🦁' },
+      { char: 'ب', name: 'بَاء', word: 'بَطَّة', emoji: '🦆' },
+      { char: 'ت', name: 'تَاء', word: 'تُفَّاح', emoji: '🍎' },
+      { char: 'ث', name: 'ثَاء', word: 'ثَعْلَب', emoji: '🦊' },
+      { char: 'ج', name: 'جِيم', word: 'جَمَل', emoji: '🐪' },
+      { char: 'ح', name: 'حَاء', word: 'حِصَان', emoji: '🐴' },
+      { char: 'خ', name: 'خَاء', word: 'خَرُوف', emoji: '🐑' },
+      { char: 'د', name: 'دَال', word: 'دُب', emoji: '🐻' },
+      { char: 'ذ', name: 'ذَال', word: 'ذِئْب', emoji: '🐺' },
+      { char: 'ر', name: 'رَاء', word: 'رُمَّان', emoji: '🍇' },
+      { char: 'ز', name: 'زَاي', word: 'زَرَافَة', emoji: '🦒' },
+      { char: 'س', name: 'سِين', word: 'سَمَكَة', emoji: '🐟' },
+      { char: 'ش', name: 'شِين', word: 'شَمْس', emoji: '☀️' },
+      { char: 'ص', name: 'صَاد', word: 'صَقْر', emoji: '🦅' },
+      { char: 'ض', name: 'ضَاد', word: 'ضِفْدَع', emoji: '🐸' },
+      { char: 'ط', name: 'طَاء', word: 'طَيَّارَة', emoji: '✈️' },
+      { char: 'ظ', name: 'ظَاء', word: 'ظَبْي', emoji: '🦌' },
+      { char: 'ع', name: 'عَيْن', word: 'عُصْفُور', emoji: '🐦' },
+      { char: 'غ', name: 'غَيْن', word: 'غَزَال', emoji: '🦌' },
+      { char: 'ف', name: 'فَاء', word: 'فِيل', emoji: '🐘' },
+      { char: 'ق', name: 'قَاف', word: 'قَمَر', emoji: '🌙' },
+      { char: 'ك', name: 'كَاف', word: 'كِتَاب', emoji: '📖' },
+      { char: 'ل', name: 'لَام', word: 'لَيْمُون', emoji: '🍋' },
+      { char: 'م', name: 'مِيم', word: 'مَوْز', emoji: '🍌' },
+      { char: 'ن', name: 'نُون', word: 'نَجْمَة', emoji: '⭐' },
+      { char: 'هـ', name: 'هَاء', word: 'هِرَّة', emoji: '🐱' },
+      { char: 'و', name: 'وَاو', word: 'وَرْدَة', emoji: '🌹' },
+      { char: 'ي', name: 'يَاء', word: 'يَد', emoji: '✋' },
+    ];
+
+    const wordsData = [
+      { text: 'كَلْبٌ لَطِيف', emoji: '🐶', category: 'حيوان' },
+      { text: 'سَيَّارَةٌ سَرِيعَة', emoji: '🚗', category: 'مركبات' },
+      { text: 'بَيْتٌ جَمِيل', emoji: '🏡', category: 'أماكن' },
+      { text: 'كِتَابٌ مُفِيد', emoji: '📘', category: 'أدوات' },
+      { text: 'شَجَرَةٌ خَضْرَاء', emoji: '🌳', category: 'طبيعة' },
+      { text: 'طَيَّارَةٌ تَعْلُو', emoji: '✈️', category: 'مركبات' },
+    ];
+
+    const animalsData = [
+      { name: 'أَسَد', sound: 'زَئِير', emoji: '🦁' },
+      { name: 'قِطَّة', sound: 'مُوَاء', emoji: '🐱' },
+      { name: 'كَلْب', sound: 'نُبَاح', emoji: '🐶' },
+      { name: 'عُصْفُور', sound: 'تَغْرِيد', emoji: '🐦' },
+      { name: 'خَرُوف', sound: 'ثُغَاء', emoji: '🐑' },
+      { name: 'بَقَرَة', sound: 'خُوَار', emoji: '🐮' },
+      { name: 'ضِفْدَع', sound: 'نَقِيق', emoji: '🐸' },
+      { name: 'فِيل', sound: 'نَهِيم', emoji: '🐘' },
+    ];
+
+    function speak(text) {
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const u = new SpeechSynthesisUtterance(text);
+        u.lang = 'ar-SA';
+        u.rate = 0.8;
+        window.speechSynthesis.speak(u);
+      }
+    }
+
+    function addStar() {
+      stars++;
+      document.getElementById('stars-count').textContent = stars;
+      if (typeof confetti === 'function') {
+        confetti({
+          particleCount: 40,
+          spread: 60,
+          origin: { y: 0.8 }
+        });
+      }
+    }
+
+    function switchTab(tab) {
+      ['letters', 'words', 'math', 'animals'].forEach(t => {
+        document.getElementById(`view-${t}`).classList.add('hidden');
+        const btn = document.getElementById(`tab-${t}`);
+        btn.className = 'px-4 py-2 rounded-xl font-black text-sm transition-all bg-white text-slate-700 hover:bg-amber-50';
+      });
+      document.getElementById(`view-${tab}`).classList.remove('hidden');
+      const activeBtn = document.getElementById(`tab-${tab}`);
+      activeBtn.className = 'px-4 py-2 rounded-xl font-black text-sm transition-all bg-amber-500 text-white shadow-md';
+    }
+
+    function renderLetters() {
+      const container = document.getElementById('letters-grid');
+      container.innerHTML = '';
+      arabicLetters.forEach(l => {
+        const btn = document.createElement('button');
+        btn.className = 'bg-white hover:bg-amber-50 active:scale-95 border-2 border-amber-200 rounded-2xl p-3 flex flex-col items-center justify-center transition-all shadow-xs';
+        btn.innerHTML = `
+          <span class="text-3xl font-black text-amber-600 tashkeel">${l.char}</span>
+          <span class="text-lg">${l.emoji}</span>
+          <span class="text-xs font-bold text-slate-500 mt-1">${l.word}</span>
+        `;
+        btn.onclick = () => {
+          speak(`${l.char} ... ${l.word}`);
+          addStar();
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function renderWords() {
+      const container = document.getElementById('words-grid');
+      container.innerHTML = '';
+      wordsData.forEach(w => {
+        const card = document.createElement('div');
+        card.className = 'bg-white border-2 border-emerald-100 rounded-3xl p-5 text-center shadow-xs hover:border-emerald-300 transition-all cursor-pointer';
+        card.innerHTML = `
+          <div class="text-5xl mb-2">${w.emoji}</div>
+          <div class="text-xl font-black text-slate-800 tashkeel mb-1">${w.text}</div>
+          <span class="text-xs font-bold bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full">${w.category}</span>
+        `;
+        card.onclick = () => {
+          speak(w.text);
+          addStar();
+        };
+        container.appendChild(card);
+      });
+    }
+
+    function renderAnimals() {
+      const container = document.getElementById('animals-grid');
+      container.innerHTML = '';
+      animalsData.forEach(a => {
+        const card = document.createElement('button');
+        card.className = 'bg-white border-2 border-purple-100 rounded-2xl p-4 text-center shadow-xs hover:bg-purple-50 transition-all flex flex-col items-center';
+        card.innerHTML = `
+          <div class="text-4xl mb-1">${a.emoji}</div>
+          <div class="text-base font-black text-slate-800">${a.name}</div>
+          <div class="text-xs font-bold text-purple-600">${a.sound}</div>
+        `;
+        card.onclick = () => {
+          speak(`${a.name}، صَوْتُهُ ${a.sound}`);
+          addStar();
+        };
+        container.appendChild(card);
+      });
+    }
+
+    let num1 = 2, num2 = 3, correctAnswer = 5;
+    function nextMath() {
+      num1 = Math.floor(Math.random() * 5) + 1;
+      num2 = Math.floor(Math.random() * 5) + 1;
+      correctAnswer = num1 + num2;
+      document.getElementById('math-question').textContent = `${num1} + ${num2} = ؟`;
+      
+      const options = [correctAnswer, correctAnswer + 1, Math.max(1, correctAnswer - 1)].sort(() => Math.random() - 0.5);
+      const optsContainer = document.getElementById('math-options');
+      optsContainer.innerHTML = '';
+      const feedback = document.getElementById('math-feedback');
+      feedback.textContent = '';
+
+      options.forEach(opt => {
+        const btn = document.createElement('button');
+        btn.className = 'bg-sky-50 hover:bg-sky-100 border-2 border-sky-300 rounded-2xl py-3 text-2xl font-black text-sky-700 transition-all';
+        btn.textContent = opt;
+        btn.onclick = () => {
+          if (opt === correctAnswer) {
+            feedback.innerHTML = '<span class="text-emerald-600">🎉 أَحْسَنْتَ! إِجَابَةٌ صَحِيحَة!</span>';
+            speak('أَحْسَنْتَ! إِجَابَةٌ صَحِيحَة');
+            addStar();
+            setTimeout(nextMath, 1500);
+          } else {
+            feedback.innerHTML = '<span class="text-rose-500">حَاوِلْ مَرَّةً أُخْرَى يَا بَطَل! ❤️</span>';
+            speak('حَاوِلْ مَرَّةً أُخْرَى');
+          }
+        };
+        optsContainer.appendChild(btn);
+      });
+    }
+
+    renderLetters();
+    renderWords();
+    renderAnimals();
+    nextMath();
+  </script>
+</body>
+</html>

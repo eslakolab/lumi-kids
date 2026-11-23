@@ -1,0 +1,33 @@
+{
+  "packageId": "com.lumi.kids",
+  "host": "lumi-kids-learning-2026.ai.studio",
+  "name": "لُومِي - تَعَلَّمْ وَامْرَحْ | Lumi Kids",
+  "launcherName": "لُومِي",
+  "themeColor": "#F59E0B",
+  "navigationColor": "#F59E0B",
+  "backgroundColor": "#FFFBEB",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://lumi-kids-learning-2026.ai.studio/pwa-512x512.png",
+  "maskableIconUrl": "https://lumi-kids-learning-2026.ai.studio/pwa-maskable-512x512.png",
+  "appVersionName": "1.0.1",
+  "appVersion": "1.0.1",
+  "appVersionCode": 2,
+  "splashScreenFadeOutDuration": 300,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://lumi-kids-learning-2026.ai.studio/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "minSdkVersion": 24
+}

@@ -1,0 +1,5910 @@
+[
+  {
+    "id": "ar_welcome_1304046068c0",
+    "file": "/audio/ar_welcome_1304046068c0.mp3",
+    "lang": "ar",
+    "category": "welcome",
+    "text": "مَرْحَبًا بِكَ يَا بَطَلِي فِي لُومِي! اخْتَرْ قِسْمَكَ الْمُفَضَّلَ لِنَبْدَأَ التَّعَلُّمَ!"
+  },
+  {
+    "id": "ar_mascot_8b7a1ca56f40",
+    "file": "/audio/ar_mascot_8b7a1ca56f40.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "مَرْحَبًا بِكَ يَا بَطَل! أَنَا نَجْمُور صَدِيقُكَ اللَّطِيف!"
+  },
+  {
+    "id": "ar_mascot_918538c42295",
+    "file": "/audio/ar_mascot_918538c42295.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "أَنْتَ ذَكِيٌّ وَرَائِعٌ، وَأَنَا فَخُورٌ بِكَ!"
+  },
+  {
+    "id": "ar_mascot_ae2fc120d9ce",
+    "file": "/audio/ar_mascot_ae2fc120d9ce.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "هَيَّا نَتَعَلَّمْ مَعًا خُطْوَةً بِخُطْوَةٍ بِكُلِّ فَرَح!"
+  },
+  {
+    "id": "ar_mascot_7c94b1091b5e",
+    "file": "/audio/ar_mascot_7c94b1091b5e.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "كُلُّ شَيْءٍ سَهْلٌ عِنْدَمَا نُحَاوِلُ بِابْتِسَامَة!"
+  },
+  {
+    "id": "ar_mascot_2f5fe27c31a4",
+    "file": "/audio/ar_mascot_2f5fe27c31a4.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "أَنْتَ نَجْمٌ حَقِيقِيٌّ يُضِيءُ فِي سَمَائِنَا!"
+  },
+  {
+    "id": "ar_mascot_a8e352894885",
+    "file": "/audio/ar_mascot_a8e352894885.mp3",
+    "lang": "ar",
+    "category": "mascot",
+    "text": "خُذْ وَقْتَكَ يَا صَدِيقِي، أَنَا مَعَكَ دَائِمًا!"
+  },
+  {
+    "id": "ar_letter_name_95fe58b46ccf",
+    "file": "/audio/ar_letter_name_95fe58b46ccf.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "أَلِف"
+  },
+  {
+    "id": "ar_letter_intro_6c7d6b9f31cd",
+    "file": "/audio/ar_letter_intro_6c7d6b9f31cd.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "أَلِف .. أَ"
+  },
+  {
+    "id": "ar_letter_sound_804260684188",
+    "file": "/audio/ar_letter_sound_804260684188.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَ .. أَرْنَبٌ"
+  },
+  {
+    "id": "ar_letter_example_d9b695d7016f",
+    "file": "/audio/ar_letter_example_d9b695d7016f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "أَرْنَبٌ"
+  },
+  {
+    "id": "ar_letter_intro_59a1c434cd2d",
+    "file": "/audio/ar_letter_intro_59a1c434cd2d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "أَلِف .. أُ"
+  },
+  {
+    "id": "ar_letter_sound_f81108777b41",
+    "file": "/audio/ar_letter_sound_f81108777b41.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أُ .. أُذُنٌ"
+  },
+  {
+    "id": "ar_letter_example_65b4f820eddf",
+    "file": "/audio/ar_letter_example_65b4f820eddf.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "أُذُنٌ"
+  },
+  {
+    "id": "ar_letter_intro_988526f5e2d6",
+    "file": "/audio/ar_letter_intro_988526f5e2d6.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "أَلِف .. إِ"
+  },
+  {
+    "id": "ar_letter_sound_b95065ae715f",
+    "file": "/audio/ar_letter_sound_b95065ae715f.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "إِ .. إِبْرِيقٌ"
+  },
+  {
+    "id": "ar_letter_example_a81f9a186d09",
+    "file": "/audio/ar_letter_example_a81f9a186d09.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "إِبْرِيقٌ"
+  },
+  {
+    "id": "ar_letter_intro_84cc464d0c65",
+    "file": "/audio/ar_letter_intro_84cc464d0c65.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "أَلِف .. أَءْ"
+  },
+  {
+    "id": "ar_letter_sound_ebe57f81ca7e",
+    "file": "/audio/ar_letter_sound_ebe57f81ca7e.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَءْ .. فَأْرٌ"
+  },
+  {
+    "id": "ar_letter_example_4ccaf9656c42",
+    "file": "/audio/ar_letter_example_4ccaf9656c42.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "فَأْرٌ"
+  },
+  {
+    "id": "ar_letter_name_15c581f08ed6",
+    "file": "/audio/ar_letter_name_15c581f08ed6.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "بَاء"
+  },
+  {
+    "id": "ar_letter_intro_b7285f5434b1",
+    "file": "/audio/ar_letter_intro_b7285f5434b1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "بَاء .. بَ"
+  },
+  {
+    "id": "ar_letter_sound_6b17d7b7065a",
+    "file": "/audio/ar_letter_sound_6b17d7b7065a.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "بَ .. بَيْتٌ"
+  },
+  {
+    "id": "ar_letter_example_90869081ead2",
+    "file": "/audio/ar_letter_example_90869081ead2.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بَيْتٌ"
+  },
+  {
+    "id": "ar_letter_intro_fd21f9ac5aca",
+    "file": "/audio/ar_letter_intro_fd21f9ac5aca.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "بَاء .. بُ"
+  },
+  {
+    "id": "ar_letter_sound_ea108f8f2190",
+    "file": "/audio/ar_letter_sound_ea108f8f2190.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "بُ .. بُرْتُقَالٌ"
+  },
+  {
+    "id": "ar_letter_example_a3ca0c49100c",
+    "file": "/audio/ar_letter_example_a3ca0c49100c.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بُرْتُقَالٌ"
+  },
+  {
+    "id": "ar_letter_intro_0f7abd756b95",
+    "file": "/audio/ar_letter_intro_0f7abd756b95.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "بَاء .. بِ"
+  },
+  {
+    "id": "ar_letter_sound_5cc34ccfc1c0",
+    "file": "/audio/ar_letter_sound_5cc34ccfc1c0.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "بِ .. بِنْتٌ"
+  },
+  {
+    "id": "ar_letter_example_bc9c3304601d",
+    "file": "/audio/ar_letter_example_bc9c3304601d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بِنْتٌ"
+  },
+  {
+    "id": "ar_letter_intro_7f4c00820832",
+    "file": "/audio/ar_letter_intro_7f4c00820832.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "بَاء .. أَبْ"
+  },
+  {
+    "id": "ar_letter_sound_37e666bd2b81",
+    "file": "/audio/ar_letter_sound_37e666bd2b81.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَبْ .. حَبْلٌ"
+  },
+  {
+    "id": "ar_letter_example_8c6e04926222",
+    "file": "/audio/ar_letter_example_8c6e04926222.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "حَبْلٌ"
+  },
+  {
+    "id": "ar_letter_name_022211368e79",
+    "file": "/audio/ar_letter_name_022211368e79.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "تَاء"
+  },
+  {
+    "id": "ar_letter_intro_5b65ff7ae702",
+    "file": "/audio/ar_letter_intro_5b65ff7ae702.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "تَاء .. تَ"
+  },
+  {
+    "id": "ar_letter_sound_a1914bffd7eb",
+    "file": "/audio/ar_letter_sound_a1914bffd7eb.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "تَ .. تَمْرٌ"
+  },
+  {
+    "id": "ar_letter_example_55118df0831d",
+    "file": "/audio/ar_letter_example_55118df0831d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "تَمْرٌ"
+  },
+  {
+    "id": "ar_letter_intro_83341bc850f0",
+    "file": "/audio/ar_letter_intro_83341bc850f0.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "تَاء .. تُ"
+  },
+  {
+    "id": "ar_letter_sound_097bb5d79132",
+    "file": "/audio/ar_letter_sound_097bb5d79132.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "تُ .. تُفَّاحٌ"
+  },
+  {
+    "id": "ar_letter_example_41e059d5d6ca",
+    "file": "/audio/ar_letter_example_41e059d5d6ca.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "تُفَّاحٌ"
+  },
+  {
+    "id": "ar_letter_intro_961b79e28fbe",
+    "file": "/audio/ar_letter_intro_961b79e28fbe.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "تَاء .. تِ"
+  },
+  {
+    "id": "ar_letter_sound_0084deefc583",
+    "file": "/audio/ar_letter_sound_0084deefc583.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "تِ .. تِمْسَاحٌ"
+  },
+  {
+    "id": "ar_letter_example_39e7bcb821f3",
+    "file": "/audio/ar_letter_example_39e7bcb821f3.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "تِمْسَاحٌ"
+  },
+  {
+    "id": "ar_letter_intro_80635d1d6706",
+    "file": "/audio/ar_letter_intro_80635d1d6706.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "تَاء .. أَتْ"
+  },
+  {
+    "id": "ar_letter_sound_2d494d6dc520",
+    "file": "/audio/ar_letter_sound_2d494d6dc520.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَتْ .. كَتْكُوتٌ"
+  },
+  {
+    "id": "ar_letter_example_4e3fa25ed102",
+    "file": "/audio/ar_letter_example_4e3fa25ed102.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "كَتْكُوتٌ"
+  },
+  {
+    "id": "ar_letter_name_a11136adee7e",
+    "file": "/audio/ar_letter_name_a11136adee7e.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "ثَاء"
+  },
+  {
+    "id": "ar_letter_intro_7e2457628711",
+    "file": "/audio/ar_letter_intro_7e2457628711.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ثَاء .. ثَ"
+  },
+  {
+    "id": "ar_letter_sound_943174b7ec11",
+    "file": "/audio/ar_letter_sound_943174b7ec11.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ثَ .. ثَعْلَبٌ"
+  },
+  {
+    "id": "ar_letter_example_01893977b598",
+    "file": "/audio/ar_letter_example_01893977b598.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ثَعْلَبٌ"
+  },
+  {
+    "id": "ar_letter_intro_dca79150f9e2",
+    "file": "/audio/ar_letter_intro_dca79150f9e2.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ثَاء .. ثُ"
+  },
+  {
+    "id": "ar_letter_sound_232941d10b57",
+    "file": "/audio/ar_letter_sound_232941d10b57.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ثُ .. ثُعْبَانٌ"
+  },
+  {
+    "id": "ar_letter_example_3d3ac4a1add5",
+    "file": "/audio/ar_letter_example_3d3ac4a1add5.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ثُعْبَانٌ"
+  },
+  {
+    "id": "ar_letter_intro_cc7a50f93ca9",
+    "file": "/audio/ar_letter_intro_cc7a50f93ca9.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ثَاء .. ثِ"
+  },
+  {
+    "id": "ar_letter_sound_fac2142cf911",
+    "file": "/audio/ar_letter_sound_fac2142cf911.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ثِ .. ثِيَابٌ"
+  },
+  {
+    "id": "ar_letter_example_edc012581cea",
+    "file": "/audio/ar_letter_example_edc012581cea.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ثِيَابٌ"
+  },
+  {
+    "id": "ar_letter_intro_728fefcbe905",
+    "file": "/audio/ar_letter_intro_728fefcbe905.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ثَاء .. أَثْ"
+  },
+  {
+    "id": "ar_letter_sound_89d0fc609d48",
+    "file": "/audio/ar_letter_sound_89d0fc609d48.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَثْ .. مِثْقَالٌ"
+  },
+  {
+    "id": "ar_letter_example_9a244af7c8e3",
+    "file": "/audio/ar_letter_example_9a244af7c8e3.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مِثْقَالٌ"
+  },
+  {
+    "id": "ar_letter_name_927deb0d4669",
+    "file": "/audio/ar_letter_name_927deb0d4669.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "جِيم"
+  },
+  {
+    "id": "ar_letter_intro_6364d94bd20e",
+    "file": "/audio/ar_letter_intro_6364d94bd20e.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "جِيم .. جَ"
+  },
+  {
+    "id": "ar_letter_sound_d94f43f5104b",
+    "file": "/audio/ar_letter_sound_d94f43f5104b.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "جَ .. جَمَلٌ"
+  },
+  {
+    "id": "ar_letter_example_7a61baefed4d",
+    "file": "/audio/ar_letter_example_7a61baefed4d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "جَمَلٌ"
+  },
+  {
+    "id": "ar_letter_intro_d48fd7687d91",
+    "file": "/audio/ar_letter_intro_d48fd7687d91.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "جِيم .. جُ"
+  },
+  {
+    "id": "ar_letter_sound_0f734da6a3bb",
+    "file": "/audio/ar_letter_sound_0f734da6a3bb.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "جُ .. جُبْنٌ"
+  },
+  {
+    "id": "ar_letter_example_a60dc73cf25f",
+    "file": "/audio/ar_letter_example_a60dc73cf25f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "جُبْنٌ"
+  },
+  {
+    "id": "ar_letter_intro_427567f5c37d",
+    "file": "/audio/ar_letter_intro_427567f5c37d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "جِيم .. جِ"
+  },
+  {
+    "id": "ar_letter_sound_3283f410f82a",
+    "file": "/audio/ar_letter_sound_3283f410f82a.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "جِ .. جِدَارٌ"
+  },
+  {
+    "id": "ar_letter_example_aadd8bfd7095",
+    "file": "/audio/ar_letter_example_aadd8bfd7095.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "جِدَارٌ"
+  },
+  {
+    "id": "ar_letter_intro_36211024ae55",
+    "file": "/audio/ar_letter_intro_36211024ae55.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "جِيم .. أَجْ"
+  },
+  {
+    "id": "ar_letter_sound_59525cc97917",
+    "file": "/audio/ar_letter_sound_59525cc97917.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَجْ .. نَجْمٌ"
+  },
+  {
+    "id": "ar_letter_example_313f630e52b4",
+    "file": "/audio/ar_letter_example_313f630e52b4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "نَجْمٌ"
+  },
+  {
+    "id": "ar_letter_name_348541940a41",
+    "file": "/audio/ar_letter_name_348541940a41.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "حَاء"
+  },
+  {
+    "id": "ar_letter_intro_c89484559ffa",
+    "file": "/audio/ar_letter_intro_c89484559ffa.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "حَاء .. حَ"
+  },
+  {
+    "id": "ar_letter_sound_483c8eb99607",
+    "file": "/audio/ar_letter_sound_483c8eb99607.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "حَ .. حَلِيبٌ"
+  },
+  {
+    "id": "ar_letter_example_2b30a5d9931f",
+    "file": "/audio/ar_letter_example_2b30a5d9931f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "حَلِيبٌ"
+  },
+  {
+    "id": "ar_letter_intro_914a3fe7376f",
+    "file": "/audio/ar_letter_intro_914a3fe7376f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "حَاء .. حُ"
+  },
+  {
+    "id": "ar_letter_sound_815b3c418c14",
+    "file": "/audio/ar_letter_sound_815b3c418c14.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "حُ .. حُوتٌ"
+  },
+  {
+    "id": "ar_letter_example_3a68dfeb2cbe",
+    "file": "/audio/ar_letter_example_3a68dfeb2cbe.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "حُوتٌ"
+  },
+  {
+    "id": "ar_letter_intro_19f474974af1",
+    "file": "/audio/ar_letter_intro_19f474974af1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "حَاء .. حِ"
+  },
+  {
+    "id": "ar_letter_sound_667122281ab1",
+    "file": "/audio/ar_letter_sound_667122281ab1.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "حِ .. حِصَانٌ"
+  },
+  {
+    "id": "ar_letter_example_9e462f26f1ee",
+    "file": "/audio/ar_letter_example_9e462f26f1ee.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "حِصَانٌ"
+  },
+  {
+    "id": "ar_letter_intro_71418d76ae8d",
+    "file": "/audio/ar_letter_intro_71418d76ae8d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "حَاء .. أَحْ"
+  },
+  {
+    "id": "ar_letter_sound_7c5a223fcc02",
+    "file": "/audio/ar_letter_sound_7c5a223fcc02.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَحْ .. بَحْرٌ"
+  },
+  {
+    "id": "ar_letter_example_0cb06f00c9c4",
+    "file": "/audio/ar_letter_example_0cb06f00c9c4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بَحْرٌ"
+  },
+  {
+    "id": "ar_letter_name_60ef29b86f14",
+    "file": "/audio/ar_letter_name_60ef29b86f14.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "خَاء"
+  },
+  {
+    "id": "ar_letter_intro_d7070267acdd",
+    "file": "/audio/ar_letter_intro_d7070267acdd.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "خَاء .. خَ"
+  },
+  {
+    "id": "ar_letter_sound_cf9a24ef73d2",
+    "file": "/audio/ar_letter_sound_cf9a24ef73d2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "خَ .. خَرُوفٌ"
+  },
+  {
+    "id": "ar_letter_example_c1e875738318",
+    "file": "/audio/ar_letter_example_c1e875738318.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "خَرُوفٌ"
+  },
+  {
+    "id": "ar_letter_intro_dd872f90b075",
+    "file": "/audio/ar_letter_intro_dd872f90b075.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "خَاء .. خُ"
+  },
+  {
+    "id": "ar_letter_sound_baedb5c50f4a",
+    "file": "/audio/ar_letter_sound_baedb5c50f4a.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "خُ .. خُبْزٌ"
+  },
+  {
+    "id": "ar_letter_example_00fcb21ab825",
+    "file": "/audio/ar_letter_example_00fcb21ab825.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "خُبْزٌ"
+  },
+  {
+    "id": "ar_letter_intro_51e753e6935f",
+    "file": "/audio/ar_letter_intro_51e753e6935f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "خَاء .. خِ"
+  },
+  {
+    "id": "ar_letter_sound_e953380ad17b",
+    "file": "/audio/ar_letter_sound_e953380ad17b.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "خِ .. خِيَارٌ"
+  },
+  {
+    "id": "ar_letter_example_fb0020b6603b",
+    "file": "/audio/ar_letter_example_fb0020b6603b.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "خِيَارٌ"
+  },
+  {
+    "id": "ar_letter_intro_93ad8ffc121f",
+    "file": "/audio/ar_letter_intro_93ad8ffc121f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "خَاء .. أَخْ"
+  },
+  {
+    "id": "ar_letter_sound_0c77a6ee9d23",
+    "file": "/audio/ar_letter_sound_0c77a6ee9d23.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَخْ .. نَخْلَةٌ"
+  },
+  {
+    "id": "ar_letter_example_c20e1569013d",
+    "file": "/audio/ar_letter_example_c20e1569013d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "نَخْلَةٌ"
+  },
+  {
+    "id": "ar_letter_name_01fcea31a9ec",
+    "file": "/audio/ar_letter_name_01fcea31a9ec.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "دَال"
+  },
+  {
+    "id": "ar_letter_intro_d578d2fe4f15",
+    "file": "/audio/ar_letter_intro_d578d2fe4f15.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "دَال .. دَ"
+  },
+  {
+    "id": "ar_letter_sound_fa354a158eb3",
+    "file": "/audio/ar_letter_sound_fa354a158eb3.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "دَ .. دَرَّاجَةٌ"
+  },
+  {
+    "id": "ar_letter_example_67f73dc8e079",
+    "file": "/audio/ar_letter_example_67f73dc8e079.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "دَرَّاجَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_2f606fe72785",
+    "file": "/audio/ar_letter_intro_2f606fe72785.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "دَال .. دُ"
+  },
+  {
+    "id": "ar_letter_sound_ba0aa0642fd2",
+    "file": "/audio/ar_letter_sound_ba0aa0642fd2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "دُ .. دُبٌّ"
+  },
+  {
+    "id": "ar_letter_example_7af453000db9",
+    "file": "/audio/ar_letter_example_7af453000db9.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "دُبٌّ"
+  },
+  {
+    "id": "ar_letter_intro_cfe696564c28",
+    "file": "/audio/ar_letter_intro_cfe696564c28.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "دَال .. دِ"
+  },
+  {
+    "id": "ar_letter_sound_6ec41928aed9",
+    "file": "/audio/ar_letter_sound_6ec41928aed9.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "دِ .. دِيكٌ"
+  },
+  {
+    "id": "ar_letter_example_92d949c12e76",
+    "file": "/audio/ar_letter_example_92d949c12e76.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "دِيكٌ"
+  },
+  {
+    "id": "ar_letter_intro_2194891d8b8e",
+    "file": "/audio/ar_letter_intro_2194891d8b8e.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "دَال .. أَدْ"
+  },
+  {
+    "id": "ar_letter_sound_e4679d09de66",
+    "file": "/audio/ar_letter_sound_e4679d09de66.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَدْ .. هَدْهَدٌ"
+  },
+  {
+    "id": "ar_letter_example_7e1397bfea9e",
+    "file": "/audio/ar_letter_example_7e1397bfea9e.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "هَدْهَدٌ"
+  },
+  {
+    "id": "ar_letter_name_d5db3f5dafdb",
+    "file": "/audio/ar_letter_name_d5db3f5dafdb.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "ذَال"
+  },
+  {
+    "id": "ar_letter_intro_aa0b35d2c2e9",
+    "file": "/audio/ar_letter_intro_aa0b35d2c2e9.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ذَال .. ذَ"
+  },
+  {
+    "id": "ar_letter_sound_a79da4473061",
+    "file": "/audio/ar_letter_sound_a79da4473061.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ذَ .. ذَهَبٌ"
+  },
+  {
+    "id": "ar_letter_example_5ea738f729ce",
+    "file": "/audio/ar_letter_example_5ea738f729ce.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ذَهَبٌ"
+  },
+  {
+    "id": "ar_letter_intro_9f9d8ef82bba",
+    "file": "/audio/ar_letter_intro_9f9d8ef82bba.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ذَال .. ذُ"
+  },
+  {
+    "id": "ar_letter_sound_fceaf6f145ea",
+    "file": "/audio/ar_letter_sound_fceaf6f145ea.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ذُ .. ذُرَةٌ"
+  },
+  {
+    "id": "ar_letter_example_cc469d65c885",
+    "file": "/audio/ar_letter_example_cc469d65c885.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ذُرَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_280d47ccbc17",
+    "file": "/audio/ar_letter_intro_280d47ccbc17.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ذَال .. ذِ"
+  },
+  {
+    "id": "ar_letter_sound_e1da517232d7",
+    "file": "/audio/ar_letter_sound_e1da517232d7.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ذِ .. ذِئْبٌ"
+  },
+  {
+    "id": "ar_letter_example_eaf3944e9a43",
+    "file": "/audio/ar_letter_example_eaf3944e9a43.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ذِئْبٌ"
+  },
+  {
+    "id": "ar_letter_intro_cbecf88c4038",
+    "file": "/audio/ar_letter_intro_cbecf88c4038.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ذَال .. أَذْ"
+  },
+  {
+    "id": "ar_letter_sound_572beb0797ef",
+    "file": "/audio/ar_letter_sound_572beb0797ef.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَذْ .. بَذْرَةٌ"
+  },
+  {
+    "id": "ar_letter_example_e2de5856286b",
+    "file": "/audio/ar_letter_example_e2de5856286b.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بَذْرَةٌ"
+  },
+  {
+    "id": "ar_letter_name_be04596eac77",
+    "file": "/audio/ar_letter_name_be04596eac77.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "رَاء"
+  },
+  {
+    "id": "ar_letter_intro_a153360bc119",
+    "file": "/audio/ar_letter_intro_a153360bc119.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "رَاء .. رَ"
+  },
+  {
+    "id": "ar_letter_sound_d5e698fc393c",
+    "file": "/audio/ar_letter_sound_d5e698fc393c.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "رَ .. رَجُلٌ"
+  },
+  {
+    "id": "ar_letter_example_2db20a925178",
+    "file": "/audio/ar_letter_example_2db20a925178.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "رَجُلٌ"
+  },
+  {
+    "id": "ar_letter_intro_97365a1f8b7d",
+    "file": "/audio/ar_letter_intro_97365a1f8b7d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "رَاء .. رُ"
+  },
+  {
+    "id": "ar_letter_sound_5d59c3702ccc",
+    "file": "/audio/ar_letter_sound_5d59c3702ccc.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "رُ .. رُمَّانٌ"
+  },
+  {
+    "id": "ar_letter_example_baf39abd5cbc",
+    "file": "/audio/ar_letter_example_baf39abd5cbc.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "رُمَّانٌ"
+  },
+  {
+    "id": "ar_letter_intro_79a3b9281562",
+    "file": "/audio/ar_letter_intro_79a3b9281562.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "رَاء .. رِ"
+  },
+  {
+    "id": "ar_letter_sound_73df9b6aefd1",
+    "file": "/audio/ar_letter_sound_73df9b6aefd1.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "رِ .. رِيشَةٌ"
+  },
+  {
+    "id": "ar_letter_example_b78be6e7b99c",
+    "file": "/audio/ar_letter_example_b78be6e7b99c.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "رِيشَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_ffb853917fb6",
+    "file": "/audio/ar_letter_intro_ffb853917fb6.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "رَاء .. أَرْ"
+  },
+  {
+    "id": "ar_letter_sound_c3d5346155ba",
+    "file": "/audio/ar_letter_sound_c3d5346155ba.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَرْ .. بَرْقٌ"
+  },
+  {
+    "id": "ar_letter_example_35f6c0efe611",
+    "file": "/audio/ar_letter_example_35f6c0efe611.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "بَرْقٌ"
+  },
+  {
+    "id": "ar_letter_name_4ecdbb263411",
+    "file": "/audio/ar_letter_name_4ecdbb263411.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "زَاي"
+  },
+  {
+    "id": "ar_letter_intro_acbb5ee1e011",
+    "file": "/audio/ar_letter_intro_acbb5ee1e011.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "زَاي .. زَ"
+  },
+  {
+    "id": "ar_letter_sound_3a2b2f1037cd",
+    "file": "/audio/ar_letter_sound_3a2b2f1037cd.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "زَ .. زَهْرَةٌ"
+  },
+  {
+    "id": "ar_letter_example_2110ea25430f",
+    "file": "/audio/ar_letter_example_2110ea25430f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "زَهْرَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_7efeb968ec3f",
+    "file": "/audio/ar_letter_intro_7efeb968ec3f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "زَاي .. زُ"
+  },
+  {
+    "id": "ar_letter_sound_ddb49a91a4b7",
+    "file": "/audio/ar_letter_sound_ddb49a91a4b7.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "زُ .. زُبْدَةٌ"
+  },
+  {
+    "id": "ar_letter_example_ff62866e5324",
+    "file": "/audio/ar_letter_example_ff62866e5324.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "زُبْدَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_53a95702c254",
+    "file": "/audio/ar_letter_intro_53a95702c254.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "زَاي .. زِ"
+  },
+  {
+    "id": "ar_letter_sound_aa582a8e1976",
+    "file": "/audio/ar_letter_sound_aa582a8e1976.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "زِ .. زِرٌّ"
+  },
+  {
+    "id": "ar_letter_example_abedb0ec4dfb",
+    "file": "/audio/ar_letter_example_abedb0ec4dfb.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "زِرٌّ"
+  },
+  {
+    "id": "ar_letter_intro_aa3595c3dd02",
+    "file": "/audio/ar_letter_intro_aa3595c3dd02.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "زَاي .. أَزْ"
+  },
+  {
+    "id": "ar_letter_sound_121733bd8039",
+    "file": "/audio/ar_letter_sound_121733bd8039.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَزْ .. مَزْرَعَةٌ"
+  },
+  {
+    "id": "ar_letter_example_2e777fc03489",
+    "file": "/audio/ar_letter_example_2e777fc03489.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مَزْرَعَةٌ"
+  },
+  {
+    "id": "ar_letter_name_2de8ade9ab17",
+    "file": "/audio/ar_letter_name_2de8ade9ab17.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "سِين"
+  },
+  {
+    "id": "ar_letter_intro_5bea3d33c150",
+    "file": "/audio/ar_letter_intro_5bea3d33c150.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "سِين .. سَ"
+  },
+  {
+    "id": "ar_letter_sound_e1a7ef09d004",
+    "file": "/audio/ar_letter_sound_e1a7ef09d004.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "سَ .. سَمَكَةٌ"
+  },
+  {
+    "id": "ar_letter_example_cf9ac8165410",
+    "file": "/audio/ar_letter_example_cf9ac8165410.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "سَمَكَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_6a87cd31dbd4",
+    "file": "/audio/ar_letter_intro_6a87cd31dbd4.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "سِين .. سُ"
+  },
+  {
+    "id": "ar_letter_sound_7506af629ef9",
+    "file": "/audio/ar_letter_sound_7506af629ef9.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "سُ .. سُلَحْفَاةٌ"
+  },
+  {
+    "id": "ar_letter_example_a6ba15df59dd",
+    "file": "/audio/ar_letter_example_a6ba15df59dd.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "سُلَحْفَاةٌ"
+  },
+  {
+    "id": "ar_letter_intro_a399c2940a99",
+    "file": "/audio/ar_letter_intro_a399c2940a99.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "سِين .. سِ"
+  },
+  {
+    "id": "ar_letter_sound_f6920a0bf6dc",
+    "file": "/audio/ar_letter_sound_f6920a0bf6dc.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "سِ .. سِتَارٌ"
+  },
+  {
+    "id": "ar_letter_example_ee333ea6fa59",
+    "file": "/audio/ar_letter_example_ee333ea6fa59.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "سِتَارٌ"
+  },
+  {
+    "id": "ar_letter_intro_d55610af0216",
+    "file": "/audio/ar_letter_intro_d55610af0216.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "سِين .. أَسْ"
+  },
+  {
+    "id": "ar_letter_sound_58cdf584e303",
+    "file": "/audio/ar_letter_sound_58cdf584e303.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَسْ .. شَمْسٌ"
+  },
+  {
+    "id": "ar_letter_example_2e8a0c329236",
+    "file": "/audio/ar_letter_example_2e8a0c329236.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "شَمْسٌ"
+  },
+  {
+    "id": "ar_letter_name_01ed403b3ddb",
+    "file": "/audio/ar_letter_name_01ed403b3ddb.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "شِين"
+  },
+  {
+    "id": "ar_letter_intro_c01856a33f82",
+    "file": "/audio/ar_letter_intro_c01856a33f82.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "شِين .. شَ"
+  },
+  {
+    "id": "ar_letter_sound_f59871c6da69",
+    "file": "/audio/ar_letter_sound_f59871c6da69.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "شَ .. شَجَرَةٌ"
+  },
+  {
+    "id": "ar_letter_example_db3db53ff88d",
+    "file": "/audio/ar_letter_example_db3db53ff88d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "شَجَرَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_46934eff4f10",
+    "file": "/audio/ar_letter_intro_46934eff4f10.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "شِين .. شُ"
+  },
+  {
+    "id": "ar_letter_sound_457e445ae26b",
+    "file": "/audio/ar_letter_sound_457e445ae26b.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "شُ .. شُرْطِيٌّ"
+  },
+  {
+    "id": "ar_letter_example_6f1b1be4f6cb",
+    "file": "/audio/ar_letter_example_6f1b1be4f6cb.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "شُرْطِيٌّ"
+  },
+  {
+    "id": "ar_letter_intro_c41f6793e1bb",
+    "file": "/audio/ar_letter_intro_c41f6793e1bb.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "شِين .. شِ"
+  },
+  {
+    "id": "ar_letter_sound_2e90f07c3aa8",
+    "file": "/audio/ar_letter_sound_2e90f07c3aa8.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "شِ .. شِبْلٌ"
+  },
+  {
+    "id": "ar_letter_example_29cb26da3ae4",
+    "file": "/audio/ar_letter_example_29cb26da3ae4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "شِبْلٌ"
+  },
+  {
+    "id": "ar_letter_intro_3859e2c55d09",
+    "file": "/audio/ar_letter_intro_3859e2c55d09.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "شِين .. أَشْ"
+  },
+  {
+    "id": "ar_letter_sound_50220d7c853f",
+    "file": "/audio/ar_letter_sound_50220d7c853f.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَشْ .. عُشٌّ"
+  },
+  {
+    "id": "ar_letter_example_6c2f2182f067",
+    "file": "/audio/ar_letter_example_6c2f2182f067.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عُشٌّ"
+  },
+  {
+    "id": "ar_letter_name_2ec94d1b9b66",
+    "file": "/audio/ar_letter_name_2ec94d1b9b66.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "صَاد"
+  },
+  {
+    "id": "ar_letter_intro_4e70805fddeb",
+    "file": "/audio/ar_letter_intro_4e70805fddeb.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "صَاد .. صَ"
+  },
+  {
+    "id": "ar_letter_sound_d1893c5e1894",
+    "file": "/audio/ar_letter_sound_d1893c5e1894.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "صَ .. صَقْرٌ"
+  },
+  {
+    "id": "ar_letter_example_7ea9784a6945",
+    "file": "/audio/ar_letter_example_7ea9784a6945.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "صَقْرٌ"
+  },
+  {
+    "id": "ar_letter_intro_009b3374e439",
+    "file": "/audio/ar_letter_intro_009b3374e439.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "صَاد .. صُ"
+  },
+  {
+    "id": "ar_letter_sound_daf3196c863a",
+    "file": "/audio/ar_letter_sound_daf3196c863a.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "صُ .. صُنْدُوقٌ"
+  },
+  {
+    "id": "ar_letter_example_0ed6a6ad1202",
+    "file": "/audio/ar_letter_example_0ed6a6ad1202.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "صُنْدُوقٌ"
+  },
+  {
+    "id": "ar_letter_intro_f4b17b841eb5",
+    "file": "/audio/ar_letter_intro_f4b17b841eb5.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "صَاد .. صِ"
+  },
+  {
+    "id": "ar_letter_sound_786031f4eb60",
+    "file": "/audio/ar_letter_sound_786031f4eb60.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "صِ .. صِنَّارَةٌ"
+  },
+  {
+    "id": "ar_letter_example_d0632ee80548",
+    "file": "/audio/ar_letter_example_d0632ee80548.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "صِنَّارَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_3058369efca8",
+    "file": "/audio/ar_letter_intro_3058369efca8.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "صَاد .. أَصْ"
+  },
+  {
+    "id": "ar_letter_sound_534635b096f7",
+    "file": "/audio/ar_letter_sound_534635b096f7.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَصْ .. قَصْرٌ"
+  },
+  {
+    "id": "ar_letter_example_69d3af733648",
+    "file": "/audio/ar_letter_example_69d3af733648.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قَصْرٌ"
+  },
+  {
+    "id": "ar_letter_name_784cfb53d354",
+    "file": "/audio/ar_letter_name_784cfb53d354.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "ضَاد"
+  },
+  {
+    "id": "ar_letter_intro_7825a53f51ed",
+    "file": "/audio/ar_letter_intro_7825a53f51ed.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ضَاد .. ضَ"
+  },
+  {
+    "id": "ar_letter_sound_9d4a1401c333",
+    "file": "/audio/ar_letter_sound_9d4a1401c333.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ضَ .. ضَوْءٌ"
+  },
+  {
+    "id": "ar_letter_example_1ae6983cb769",
+    "file": "/audio/ar_letter_example_1ae6983cb769.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ضَوْءٌ"
+  },
+  {
+    "id": "ar_letter_intro_f7d97040a262",
+    "file": "/audio/ar_letter_intro_f7d97040a262.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ضَاد .. ضُ"
+  },
+  {
+    "id": "ar_letter_sound_4b3bccc666b9",
+    "file": "/audio/ar_letter_sound_4b3bccc666b9.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ضُ .. ضُيُوفٌ"
+  },
+  {
+    "id": "ar_letter_example_5e3b936eb338",
+    "file": "/audio/ar_letter_example_5e3b936eb338.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ضُيُوفٌ"
+  },
+  {
+    "id": "ar_letter_intro_ecfb8a557e88",
+    "file": "/audio/ar_letter_intro_ecfb8a557e88.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ضَاد .. ضِ"
+  },
+  {
+    "id": "ar_letter_sound_dca17ad300d1",
+    "file": "/audio/ar_letter_sound_dca17ad300d1.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ضِ .. ضِرْسٌ"
+  },
+  {
+    "id": "ar_letter_example_64be975348f4",
+    "file": "/audio/ar_letter_example_64be975348f4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ضِرْسٌ"
+  },
+  {
+    "id": "ar_letter_intro_283ddc241d94",
+    "file": "/audio/ar_letter_intro_283ddc241d94.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ضَاد .. أَضْ"
+  },
+  {
+    "id": "ar_letter_sound_1e7b529a9622",
+    "file": "/audio/ar_letter_sound_1e7b529a9622.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَضْ .. حَوْضٌ"
+  },
+  {
+    "id": "ar_letter_example_c83fc58df02a",
+    "file": "/audio/ar_letter_example_c83fc58df02a.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "حَوْضٌ"
+  },
+  {
+    "id": "ar_letter_name_0a786e4c33f1",
+    "file": "/audio/ar_letter_name_0a786e4c33f1.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "طَاء"
+  },
+  {
+    "id": "ar_letter_intro_bdedf81de8de",
+    "file": "/audio/ar_letter_intro_bdedf81de8de.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "طَاء .. طَ"
+  },
+  {
+    "id": "ar_letter_sound_e72321d5cf0c",
+    "file": "/audio/ar_letter_sound_e72321d5cf0c.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "طَ .. طَيَّارَةٌ"
+  },
+  {
+    "id": "ar_letter_example_5192cb4a0bf4",
+    "file": "/audio/ar_letter_example_5192cb4a0bf4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "طَيَّارَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_475bba31bdd1",
+    "file": "/audio/ar_letter_intro_475bba31bdd1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "طَاء .. طُ"
+  },
+  {
+    "id": "ar_letter_sound_b672b4752c85",
+    "file": "/audio/ar_letter_sound_b672b4752c85.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "طُ .. طُيُورٌ"
+  },
+  {
+    "id": "ar_letter_example_5b21f1798827",
+    "file": "/audio/ar_letter_example_5b21f1798827.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "طُيُورٌ"
+  },
+  {
+    "id": "ar_letter_intro_5fd2f8cfef83",
+    "file": "/audio/ar_letter_intro_5fd2f8cfef83.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "طَاء .. طِ"
+  },
+  {
+    "id": "ar_letter_sound_2fc4747f80c2",
+    "file": "/audio/ar_letter_sound_2fc4747f80c2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "طِ .. طِفْلٌ"
+  },
+  {
+    "id": "ar_letter_example_c980545771f9",
+    "file": "/audio/ar_letter_example_c980545771f9.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "طِفْلٌ"
+  },
+  {
+    "id": "ar_letter_intro_0ea0c8666ffc",
+    "file": "/audio/ar_letter_intro_0ea0c8666ffc.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "طَاء .. أَطْ"
+  },
+  {
+    "id": "ar_letter_sound_96e049a67c99",
+    "file": "/audio/ar_letter_sound_96e049a67c99.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَطْ .. قِطْفٌ"
+  },
+  {
+    "id": "ar_letter_example_2e4d78b30f47",
+    "file": "/audio/ar_letter_example_2e4d78b30f47.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قِطْفٌ"
+  },
+  {
+    "id": "ar_letter_name_ee18d383cf79",
+    "file": "/audio/ar_letter_name_ee18d383cf79.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "ظَاء"
+  },
+  {
+    "id": "ar_letter_intro_2da0df31fad2",
+    "file": "/audio/ar_letter_intro_2da0df31fad2.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ظَاء .. ظَ"
+  },
+  {
+    "id": "ar_letter_sound_55b72a8bdb48",
+    "file": "/audio/ar_letter_sound_55b72a8bdb48.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ظَ .. ظَبْيٌ"
+  },
+  {
+    "id": "ar_letter_example_2d7c1e2a32d4",
+    "file": "/audio/ar_letter_example_2d7c1e2a32d4.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ظَبْيٌ"
+  },
+  {
+    "id": "ar_letter_intro_55c9c81743ba",
+    "file": "/audio/ar_letter_intro_55c9c81743ba.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ظَاء .. ظُ"
+  },
+  {
+    "id": "ar_letter_sound_76763fbeb2c4",
+    "file": "/audio/ar_letter_sound_76763fbeb2c4.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ظُ .. ظُفْرٌ"
+  },
+  {
+    "id": "ar_letter_example_dfd718df4fa1",
+    "file": "/audio/ar_letter_example_dfd718df4fa1.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ظُفْرٌ"
+  },
+  {
+    "id": "ar_letter_intro_f235c42c78c0",
+    "file": "/audio/ar_letter_intro_f235c42c78c0.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ظَاء .. ظِ"
+  },
+  {
+    "id": "ar_letter_sound_4ba6e18324fc",
+    "file": "/audio/ar_letter_sound_4ba6e18324fc.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "ظِ .. ظِلٌّ"
+  },
+  {
+    "id": "ar_letter_example_8fb6ddf71e67",
+    "file": "/audio/ar_letter_example_8fb6ddf71e67.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "ظِلٌّ"
+  },
+  {
+    "id": "ar_letter_intro_d18cbdd438a4",
+    "file": "/audio/ar_letter_intro_d18cbdd438a4.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "ظَاء .. أَظْ"
+  },
+  {
+    "id": "ar_letter_sound_3a258ed026d8",
+    "file": "/audio/ar_letter_sound_3a258ed026d8.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَظْ .. عَظْمٌ"
+  },
+  {
+    "id": "ar_letter_example_93c2793e631b",
+    "file": "/audio/ar_letter_example_93c2793e631b.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عَظْمٌ"
+  },
+  {
+    "id": "ar_letter_name_bc27552eb4b8",
+    "file": "/audio/ar_letter_name_bc27552eb4b8.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "عَيْن"
+  },
+  {
+    "id": "ar_letter_intro_1a1614a4d4c1",
+    "file": "/audio/ar_letter_intro_1a1614a4d4c1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "عَيْن .. عَ"
+  },
+  {
+    "id": "ar_letter_sound_11e418b4a6c1",
+    "file": "/audio/ar_letter_sound_11e418b4a6c1.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "عَ .. عَسَلٌ"
+  },
+  {
+    "id": "ar_letter_example_e23d17c36a32",
+    "file": "/audio/ar_letter_example_e23d17c36a32.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عَسَلٌ"
+  },
+  {
+    "id": "ar_letter_intro_624e7a85adb0",
+    "file": "/audio/ar_letter_intro_624e7a85adb0.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "عَيْن .. عُ"
+  },
+  {
+    "id": "ar_letter_sound_a92ddfbc7658",
+    "file": "/audio/ar_letter_sound_a92ddfbc7658.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "عُ .. عُصْفُورٌ"
+  },
+  {
+    "id": "ar_letter_example_7557f2e647ca",
+    "file": "/audio/ar_letter_example_7557f2e647ca.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عُصْفُورٌ"
+  },
+  {
+    "id": "ar_letter_intro_a9dd2c298bd7",
+    "file": "/audio/ar_letter_intro_a9dd2c298bd7.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "عَيْن .. عِ"
+  },
+  {
+    "id": "ar_letter_sound_11b857187743",
+    "file": "/audio/ar_letter_sound_11b857187743.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "عِ .. عِنَبٌ"
+  },
+  {
+    "id": "ar_letter_example_819fe35d4503",
+    "file": "/audio/ar_letter_example_819fe35d4503.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عِنَبٌ"
+  },
+  {
+    "id": "ar_letter_intro_36cefb63f8ff",
+    "file": "/audio/ar_letter_intro_36cefb63f8ff.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "عَيْن .. أَعْ"
+  },
+  {
+    "id": "ar_letter_sound_61b74043d3e9",
+    "file": "/audio/ar_letter_sound_61b74043d3e9.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَعْ .. ثَعْلَبٌ"
+  },
+  {
+    "id": "ar_letter_name_7b992398eae5",
+    "file": "/audio/ar_letter_name_7b992398eae5.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "غَيْن"
+  },
+  {
+    "id": "ar_letter_intro_ae021552f72d",
+    "file": "/audio/ar_letter_intro_ae021552f72d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "غَيْن .. غَ"
+  },
+  {
+    "id": "ar_letter_sound_4c950fc295b7",
+    "file": "/audio/ar_letter_sound_4c950fc295b7.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "غَ .. غَزَالٌ"
+  },
+  {
+    "id": "ar_letter_example_902cdf541a94",
+    "file": "/audio/ar_letter_example_902cdf541a94.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "غَزَالٌ"
+  },
+  {
+    "id": "ar_letter_intro_424d3a1fd31a",
+    "file": "/audio/ar_letter_intro_424d3a1fd31a.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "غَيْن .. غُ"
+  },
+  {
+    "id": "ar_letter_sound_5fe62a514c86",
+    "file": "/audio/ar_letter_sound_5fe62a514c86.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "غُ .. غُرَابٌ"
+  },
+  {
+    "id": "ar_letter_example_16c218c02713",
+    "file": "/audio/ar_letter_example_16c218c02713.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "غُرَابٌ"
+  },
+  {
+    "id": "ar_letter_intro_0e44215039e5",
+    "file": "/audio/ar_letter_intro_0e44215039e5.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "غَيْن .. غِ"
+  },
+  {
+    "id": "ar_letter_sound_c49488c07d34",
+    "file": "/audio/ar_letter_sound_c49488c07d34.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "غِ .. غِطَاءٌ"
+  },
+  {
+    "id": "ar_letter_example_d5d750015db2",
+    "file": "/audio/ar_letter_example_d5d750015db2.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "غِطَاءٌ"
+  },
+  {
+    "id": "ar_letter_intro_5b636d140a10",
+    "file": "/audio/ar_letter_intro_5b636d140a10.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "غَيْن .. أَغْ"
+  },
+  {
+    "id": "ar_letter_sound_70496009fa02",
+    "file": "/audio/ar_letter_sound_70496009fa02.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَغْ .. مَغْرِبٌ"
+  },
+  {
+    "id": "ar_letter_example_785c5c3f9de6",
+    "file": "/audio/ar_letter_example_785c5c3f9de6.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مَغْرِبٌ"
+  },
+  {
+    "id": "ar_letter_name_659b1d346ef7",
+    "file": "/audio/ar_letter_name_659b1d346ef7.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "فَاء"
+  },
+  {
+    "id": "ar_letter_intro_94ac60b2c901",
+    "file": "/audio/ar_letter_intro_94ac60b2c901.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "فَاء .. فَ"
+  },
+  {
+    "id": "ar_letter_sound_2a20ac5cfe07",
+    "file": "/audio/ar_letter_sound_2a20ac5cfe07.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "فَ .. فَرَاشَةٌ"
+  },
+  {
+    "id": "ar_letter_example_e11ac8719c27",
+    "file": "/audio/ar_letter_example_e11ac8719c27.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "فَرَاشَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_d046bb96f513",
+    "file": "/audio/ar_letter_intro_d046bb96f513.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "فَاء .. فُ"
+  },
+  {
+    "id": "ar_letter_sound_20321e36f229",
+    "file": "/audio/ar_letter_sound_20321e36f229.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "فُ .. فُرْشَاةٌ"
+  },
+  {
+    "id": "ar_letter_example_3fb15943149e",
+    "file": "/audio/ar_letter_example_3fb15943149e.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "فُرْشَاةٌ"
+  },
+  {
+    "id": "ar_letter_intro_5414a7885c9e",
+    "file": "/audio/ar_letter_intro_5414a7885c9e.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "فَاء .. فِ"
+  },
+  {
+    "id": "ar_letter_sound_4e574de9bcc6",
+    "file": "/audio/ar_letter_sound_4e574de9bcc6.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "فِ .. فِيلٌ"
+  },
+  {
+    "id": "ar_letter_example_f46cb9a9fe89",
+    "file": "/audio/ar_letter_example_f46cb9a9fe89.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "فِيلٌ"
+  },
+  {
+    "id": "ar_letter_intro_ce643a3d4ccb",
+    "file": "/audio/ar_letter_intro_ce643a3d4ccb.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "فَاء .. أَفْ"
+  },
+  {
+    "id": "ar_letter_sound_f47bba029b56",
+    "file": "/audio/ar_letter_sound_f47bba029b56.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَفْ .. طِفْلٌ"
+  },
+  {
+    "id": "ar_letter_name_602282a96872",
+    "file": "/audio/ar_letter_name_602282a96872.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "قَاف"
+  },
+  {
+    "id": "ar_letter_intro_974276e8b39e",
+    "file": "/audio/ar_letter_intro_974276e8b39e.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "قَاف .. قَ"
+  },
+  {
+    "id": "ar_letter_sound_8a97acac14df",
+    "file": "/audio/ar_letter_sound_8a97acac14df.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "قَ .. قَلَمٌ"
+  },
+  {
+    "id": "ar_letter_example_17863ab516d5",
+    "file": "/audio/ar_letter_example_17863ab516d5.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قَلَمٌ"
+  },
+  {
+    "id": "ar_letter_intro_13bb2f0241f1",
+    "file": "/audio/ar_letter_intro_13bb2f0241f1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "قَاف .. قُ"
+  },
+  {
+    "id": "ar_letter_sound_7b7021f2b821",
+    "file": "/audio/ar_letter_sound_7b7021f2b821.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "قُ .. قُبَّعَةٌ"
+  },
+  {
+    "id": "ar_letter_example_2bc96d4436e5",
+    "file": "/audio/ar_letter_example_2bc96d4436e5.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قُبَّعَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_316bb806c6d9",
+    "file": "/audio/ar_letter_intro_316bb806c6d9.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "قَاف .. قِ"
+  },
+  {
+    "id": "ar_letter_sound_e90298a27a90",
+    "file": "/audio/ar_letter_sound_e90298a27a90.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "قِ .. قِطَارٌ"
+  },
+  {
+    "id": "ar_letter_example_3e4940d74c67",
+    "file": "/audio/ar_letter_example_3e4940d74c67.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قِطَارٌ"
+  },
+  {
+    "id": "ar_letter_intro_bfad63cf83ae",
+    "file": "/audio/ar_letter_intro_bfad63cf83ae.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "قَاف .. أَقْ"
+  },
+  {
+    "id": "ar_letter_sound_2e465d00eab2",
+    "file": "/audio/ar_letter_sound_2e465d00eab2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَقْ .. صَقْرٌ"
+  },
+  {
+    "id": "ar_letter_name_119cdc81e5a6",
+    "file": "/audio/ar_letter_name_119cdc81e5a6.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "كَاف"
+  },
+  {
+    "id": "ar_letter_intro_56fa43b4c695",
+    "file": "/audio/ar_letter_intro_56fa43b4c695.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "كَاف .. كَ"
+  },
+  {
+    "id": "ar_letter_sound_8e1ffb4a470d",
+    "file": "/audio/ar_letter_sound_8e1ffb4a470d.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "كَ .. كِتَابٌ"
+  },
+  {
+    "id": "ar_letter_example_04ef6a300040",
+    "file": "/audio/ar_letter_example_04ef6a300040.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "كِتَابٌ"
+  },
+  {
+    "id": "ar_letter_intro_1a611228530e",
+    "file": "/audio/ar_letter_intro_1a611228530e.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "كَاف .. كُ"
+  },
+  {
+    "id": "ar_letter_sound_f20ffba2f92b",
+    "file": "/audio/ar_letter_sound_f20ffba2f92b.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "كُ .. كُرَةٌ"
+  },
+  {
+    "id": "ar_letter_example_740fcff8e597",
+    "file": "/audio/ar_letter_example_740fcff8e597.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "كُرَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_cb2465d46b99",
+    "file": "/audio/ar_letter_intro_cb2465d46b99.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "كَاف .. كِ"
+  },
+  {
+    "id": "ar_letter_sound_313e970aa58a",
+    "file": "/audio/ar_letter_sound_313e970aa58a.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "كِ .. كِتَابَةٌ"
+  },
+  {
+    "id": "ar_letter_example_0c1bdd9437d9",
+    "file": "/audio/ar_letter_example_0c1bdd9437d9.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "كِتَابَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_e91a7256fd19",
+    "file": "/audio/ar_letter_intro_e91a7256fd19.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "كَاف .. أَكْ"
+  },
+  {
+    "id": "ar_letter_sound_61ede9ec1944",
+    "file": "/audio/ar_letter_sound_61ede9ec1944.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَكْ .. مَكْتَبٌ"
+  },
+  {
+    "id": "ar_letter_example_b569dc4268a9",
+    "file": "/audio/ar_letter_example_b569dc4268a9.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مَكْتَبٌ"
+  },
+  {
+    "id": "ar_letter_name_f76b1f880bcf",
+    "file": "/audio/ar_letter_name_f76b1f880bcf.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "لَام"
+  },
+  {
+    "id": "ar_letter_intro_57506c77878f",
+    "file": "/audio/ar_letter_intro_57506c77878f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "لَام .. لَ"
+  },
+  {
+    "id": "ar_letter_sound_c33e798f50b3",
+    "file": "/audio/ar_letter_sound_c33e798f50b3.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "لَ .. لَيْمُونٌ"
+  },
+  {
+    "id": "ar_letter_example_5a27765bfd83",
+    "file": "/audio/ar_letter_example_5a27765bfd83.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "لَيْمُونٌ"
+  },
+  {
+    "id": "ar_letter_intro_3f0c7eabfe6f",
+    "file": "/audio/ar_letter_intro_3f0c7eabfe6f.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "لَام .. لُ"
+  },
+  {
+    "id": "ar_letter_sound_26e93b5ebd72",
+    "file": "/audio/ar_letter_sound_26e93b5ebd72.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "لُ .. لُعْبَةٌ"
+  },
+  {
+    "id": "ar_letter_example_8b7fda2a413d",
+    "file": "/audio/ar_letter_example_8b7fda2a413d.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "لُعْبَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_b690aa100079",
+    "file": "/audio/ar_letter_intro_b690aa100079.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "لَام .. لِ"
+  },
+  {
+    "id": "ar_letter_sound_8274009165e6",
+    "file": "/audio/ar_letter_sound_8274009165e6.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "لِ .. لِسَانٌ"
+  },
+  {
+    "id": "ar_letter_example_3d82355fb0e9",
+    "file": "/audio/ar_letter_example_3d82355fb0e9.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "لِسَانٌ"
+  },
+  {
+    "id": "ar_letter_intro_9b42d0d4039d",
+    "file": "/audio/ar_letter_intro_9b42d0d4039d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "لَام .. أَلْ"
+  },
+  {
+    "id": "ar_letter_sound_90fb23235026",
+    "file": "/audio/ar_letter_sound_90fb23235026.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَلْ .. قَلْبٌ"
+  },
+  {
+    "id": "ar_letter_example_95d6ea7c2f2f",
+    "file": "/audio/ar_letter_example_95d6ea7c2f2f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "قَلْبٌ"
+  },
+  {
+    "id": "ar_letter_name_873be65efc5d",
+    "file": "/audio/ar_letter_name_873be65efc5d.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "مِيم"
+  },
+  {
+    "id": "ar_letter_intro_49c07ba31288",
+    "file": "/audio/ar_letter_intro_49c07ba31288.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "مِيم .. مَ"
+  },
+  {
+    "id": "ar_letter_sound_d23b099b48be",
+    "file": "/audio/ar_letter_sound_d23b099b48be.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "مَ .. مَدْرَسَةٌ"
+  },
+  {
+    "id": "ar_letter_example_62cfc70f984f",
+    "file": "/audio/ar_letter_example_62cfc70f984f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مَدْرَسَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_e6ff71c3ff29",
+    "file": "/audio/ar_letter_intro_e6ff71c3ff29.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "مِيم .. مُ"
+  },
+  {
+    "id": "ar_letter_sound_bc0f2e800b63",
+    "file": "/audio/ar_letter_sound_bc0f2e800b63.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "مُ .. مُعَلِّمٌ"
+  },
+  {
+    "id": "ar_letter_example_22bc24c58ae6",
+    "file": "/audio/ar_letter_example_22bc24c58ae6.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مُعَلِّمٌ"
+  },
+  {
+    "id": "ar_letter_intro_ebbcdf42df7d",
+    "file": "/audio/ar_letter_intro_ebbcdf42df7d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "مِيم .. مِ"
+  },
+  {
+    "id": "ar_letter_sound_92b3a5147994",
+    "file": "/audio/ar_letter_sound_92b3a5147994.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "مِ .. مِقَصٌّ"
+  },
+  {
+    "id": "ar_letter_example_b24de5982998",
+    "file": "/audio/ar_letter_example_b24de5982998.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مِقَصٌّ"
+  },
+  {
+    "id": "ar_letter_intro_5b34c7824158",
+    "file": "/audio/ar_letter_intro_5b34c7824158.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "مِيم .. أَمْ"
+  },
+  {
+    "id": "ar_letter_sound_ef8114f598e2",
+    "file": "/audio/ar_letter_sound_ef8114f598e2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَمْ .. شَمْسٌ"
+  },
+  {
+    "id": "ar_letter_name_d93f48907b5e",
+    "file": "/audio/ar_letter_name_d93f48907b5e.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "نُون"
+  },
+  {
+    "id": "ar_letter_intro_8f1c3a486ab9",
+    "file": "/audio/ar_letter_intro_8f1c3a486ab9.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "نُون .. نَ"
+  },
+  {
+    "id": "ar_letter_sound_cc7f09076c27",
+    "file": "/audio/ar_letter_sound_cc7f09076c27.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "نَ .. نَجْمَةٌ"
+  },
+  {
+    "id": "ar_letter_example_8f495db7f17e",
+    "file": "/audio/ar_letter_example_8f495db7f17e.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "نَجْمَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_e5e311122536",
+    "file": "/audio/ar_letter_intro_e5e311122536.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "نُون .. نُ"
+  },
+  {
+    "id": "ar_letter_sound_8d1e65c654c0",
+    "file": "/audio/ar_letter_sound_8d1e65c654c0.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "نُ .. نُورٌ"
+  },
+  {
+    "id": "ar_letter_example_b35f1f028bb2",
+    "file": "/audio/ar_letter_example_b35f1f028bb2.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "نُورٌ"
+  },
+  {
+    "id": "ar_letter_intro_913f6b4d7189",
+    "file": "/audio/ar_letter_intro_913f6b4d7189.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "نُون .. نِ"
+  },
+  {
+    "id": "ar_letter_sound_b9b95721f786",
+    "file": "/audio/ar_letter_sound_b9b95721f786.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "نِ .. نِسْرٌ"
+  },
+  {
+    "id": "ar_letter_example_14a498a20f8f",
+    "file": "/audio/ar_letter_example_14a498a20f8f.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "نِسْرٌ"
+  },
+  {
+    "id": "ar_letter_intro_7a7161ffe425",
+    "file": "/audio/ar_letter_intro_7a7161ffe425.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "نُون .. أَنْ"
+  },
+  {
+    "id": "ar_letter_sound_27b511a63bed",
+    "file": "/audio/ar_letter_sound_27b511a63bed.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَنْ .. عَيْنٌ"
+  },
+  {
+    "id": "ar_letter_example_93d434dc8e81",
+    "file": "/audio/ar_letter_example_93d434dc8e81.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "عَيْنٌ"
+  },
+  {
+    "id": "ar_letter_name_ccf6a225e7ed",
+    "file": "/audio/ar_letter_name_ccf6a225e7ed.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "هَاء"
+  },
+  {
+    "id": "ar_letter_intro_456f94c8d32d",
+    "file": "/audio/ar_letter_intro_456f94c8d32d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "هَاء .. هَـ"
+  },
+  {
+    "id": "ar_letter_sound_28220eafefac",
+    "file": "/audio/ar_letter_sound_28220eafefac.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "هَـ .. هَرَمٌ"
+  },
+  {
+    "id": "ar_letter_example_472d18c55452",
+    "file": "/audio/ar_letter_example_472d18c55452.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "هَرَمٌ"
+  },
+  {
+    "id": "ar_letter_intro_905acd9bd13b",
+    "file": "/audio/ar_letter_intro_905acd9bd13b.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "هَاء .. هُـ"
+  },
+  {
+    "id": "ar_letter_sound_f6d10b7d681b",
+    "file": "/audio/ar_letter_sound_f6d10b7d681b.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "هُـ .. هُدْهُدٌ"
+  },
+  {
+    "id": "ar_letter_example_a4ebea3a1dc7",
+    "file": "/audio/ar_letter_example_a4ebea3a1dc7.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "هُدْهُدٌ"
+  },
+  {
+    "id": "ar_letter_intro_8a69c260889c",
+    "file": "/audio/ar_letter_intro_8a69c260889c.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "هَاء .. هِـ"
+  },
+  {
+    "id": "ar_letter_sound_beb4880566a3",
+    "file": "/audio/ar_letter_sound_beb4880566a3.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "هِـ .. هِلَالٌ"
+  },
+  {
+    "id": "ar_letter_example_745de3c587a3",
+    "file": "/audio/ar_letter_example_745de3c587a3.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "هِلَالٌ"
+  },
+  {
+    "id": "ar_letter_intro_93abf62e2ae9",
+    "file": "/audio/ar_letter_intro_93abf62e2ae9.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "هَاء .. أَهْ"
+  },
+  {
+    "id": "ar_letter_sound_d9deb3ed59fe",
+    "file": "/audio/ar_letter_sound_d9deb3ed59fe.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَهْ .. فَهْدٌ"
+  },
+  {
+    "id": "ar_letter_example_8c6f54e6c123",
+    "file": "/audio/ar_letter_example_8c6f54e6c123.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "فَهْدٌ"
+  },
+  {
+    "id": "ar_letter_name_515c1a0a5043",
+    "file": "/audio/ar_letter_name_515c1a0a5043.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "وَاو"
+  },
+  {
+    "id": "ar_letter_intro_3b39bcf481cf",
+    "file": "/audio/ar_letter_intro_3b39bcf481cf.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "وَاو .. وَ"
+  },
+  {
+    "id": "ar_letter_sound_60d7da9f4139",
+    "file": "/audio/ar_letter_sound_60d7da9f4139.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "وَ .. وَرْدَةٌ"
+  },
+  {
+    "id": "ar_letter_example_97e56b88edb8",
+    "file": "/audio/ar_letter_example_97e56b88edb8.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "وَرْدَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_9625c97e58de",
+    "file": "/audio/ar_letter_intro_9625c97e58de.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "وَاو .. وُ"
+  },
+  {
+    "id": "ar_letter_sound_f0c496bb88ff",
+    "file": "/audio/ar_letter_sound_f0c496bb88ff.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "وُ .. وُجُوهٌ"
+  },
+  {
+    "id": "ar_letter_example_9b6710380c4c",
+    "file": "/audio/ar_letter_example_9b6710380c4c.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "وُجُوهٌ"
+  },
+  {
+    "id": "ar_letter_intro_b567bdf935e7",
+    "file": "/audio/ar_letter_intro_b567bdf935e7.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "وَاو .. وِ"
+  },
+  {
+    "id": "ar_letter_sound_151ba08a925d",
+    "file": "/audio/ar_letter_sound_151ba08a925d.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "وِ .. وِسَادَةٌ"
+  },
+  {
+    "id": "ar_letter_example_93650731adba",
+    "file": "/audio/ar_letter_example_93650731adba.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "وِسَادَةٌ"
+  },
+  {
+    "id": "ar_letter_intro_e96ca63ed455",
+    "file": "/audio/ar_letter_intro_e96ca63ed455.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "وَاو .. أَوْ"
+  },
+  {
+    "id": "ar_letter_sound_131cb6ce9b7f",
+    "file": "/audio/ar_letter_sound_131cb6ce9b7f.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَوْ .. مَوْزٌ"
+  },
+  {
+    "id": "ar_letter_example_3bbb963d4298",
+    "file": "/audio/ar_letter_example_3bbb963d4298.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "مَوْزٌ"
+  },
+  {
+    "id": "ar_letter_name_adc5937fe637",
+    "file": "/audio/ar_letter_name_adc5937fe637.mp3",
+    "lang": "ar",
+    "category": "letter_name",
+    "text": "يَاء"
+  },
+  {
+    "id": "ar_letter_intro_4de4fc6ef1de",
+    "file": "/audio/ar_letter_intro_4de4fc6ef1de.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "يَاء .. يَ"
+  },
+  {
+    "id": "ar_letter_sound_be42e7a85937",
+    "file": "/audio/ar_letter_sound_be42e7a85937.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "يَ .. يَدٌ"
+  },
+  {
+    "id": "ar_letter_example_391d855c82ab",
+    "file": "/audio/ar_letter_example_391d855c82ab.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "يَدٌ"
+  },
+  {
+    "id": "ar_letter_intro_3ef9f6676b43",
+    "file": "/audio/ar_letter_intro_3ef9f6676b43.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "يَاء .. يُ"
+  },
+  {
+    "id": "ar_letter_sound_0ec1725338b3",
+    "file": "/audio/ar_letter_sound_0ec1725338b3.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "يُ .. يُوسُفِيٌّ"
+  },
+  {
+    "id": "ar_letter_example_9afb78f66d62",
+    "file": "/audio/ar_letter_example_9afb78f66d62.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "يُوسُفِيٌّ"
+  },
+  {
+    "id": "ar_letter_intro_8605e45cf26d",
+    "file": "/audio/ar_letter_intro_8605e45cf26d.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "يَاء .. يِ"
+  },
+  {
+    "id": "ar_letter_sound_4752662b72c2",
+    "file": "/audio/ar_letter_sound_4752662b72c2.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "يِ .. يَنَابِيعُ"
+  },
+  {
+    "id": "ar_letter_example_09a90a885c4e",
+    "file": "/audio/ar_letter_example_09a90a885c4e.mp3",
+    "lang": "ar",
+    "category": "letter_example",
+    "text": "يَنَابِيعُ"
+  },
+  {
+    "id": "ar_letter_intro_67b337bc91a1",
+    "file": "/audio/ar_letter_intro_67b337bc91a1.mp3",
+    "lang": "ar",
+    "category": "letter_intro",
+    "text": "يَاء .. أَيْ"
+  },
+  {
+    "id": "ar_letter_sound_e04f96413dca",
+    "file": "/audio/ar_letter_sound_e04f96413dca.mp3",
+    "lang": "ar",
+    "category": "letter_sound",
+    "text": "أَيْ .. بَيْتٌ"
+  },
+  {
+    "id": "ar_letter_praise_1a9eccfd0836",
+    "file": "/audio/ar_letter_praise_1a9eccfd0836.mp3",
+    "lang": "ar",
+    "category": "letter_praise",
+    "text": "أَحْسَنْتَ يَا بَطَل! كِتَابَةٌ رَائِعَةٌ!"
+  },
+  {
+    "id": "ar_spelling_word_8a1673dc2c16",
+    "file": "/audio/ar_spelling_word_8a1673dc2c16.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "فَتْحٌ"
+  },
+  {
+    "id": "ar_spelling_praise_fd5de445c29e",
+    "file": "/audio/ar_spelling_praise_fd5de445c29e.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ فَتْحٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_ffcf5e43db09",
+    "file": "/audio/ar_spelling_chunk_ffcf5e43db09.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "فَ"
+  },
+  {
+    "id": "ar_spelling_chunk_fd165cff8831",
+    "file": "/audio/ar_spelling_chunk_fd165cff8831.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَتْ"
+  },
+  {
+    "id": "ar_spelling_chunk_7834512f31ee",
+    "file": "/audio/ar_spelling_chunk_7834512f31ee.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "حٌ"
+  },
+  {
+    "id": "ar_spelling_praise_2a7fa05c8817",
+    "file": "/audio/ar_spelling_praise_2a7fa05c8817.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ بَيْتٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_df736725fcfb",
+    "file": "/audio/ar_spelling_chunk_df736725fcfb.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "بَ"
+  },
+  {
+    "id": "ar_spelling_chunk_53db2f30b704",
+    "file": "/audio/ar_spelling_chunk_53db2f30b704.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَيْ"
+  },
+  {
+    "id": "ar_spelling_chunk_b621f155307b",
+    "file": "/audio/ar_spelling_chunk_b621f155307b.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "تٌ"
+  },
+  {
+    "id": "ar_spelling_praise_3f3483103e6d",
+    "file": "/audio/ar_spelling_praise_3f3483103e6d.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ تَمْرٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_f790e3ea7cde",
+    "file": "/audio/ar_spelling_chunk_f790e3ea7cde.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "تَ"
+  },
+  {
+    "id": "ar_spelling_chunk_8e33b2ce8ba8",
+    "file": "/audio/ar_spelling_chunk_8e33b2ce8ba8.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَمْ"
+  },
+  {
+    "id": "ar_spelling_chunk_789ad9732562",
+    "file": "/audio/ar_spelling_chunk_789ad9732562.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "رٌ"
+  },
+  {
+    "id": "ar_spelling_praise_c41376f5d098",
+    "file": "/audio/ar_spelling_praise_c41376f5d098.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ بَحْرٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_83b9e2bbc1fa",
+    "file": "/audio/ar_spelling_chunk_83b9e2bbc1fa.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَحْ"
+  },
+  {
+    "id": "ar_spelling_praise_f221ff58b548",
+    "file": "/audio/ar_spelling_praise_f221ff58b548.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ نَجْمٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_f1f1c1190a7f",
+    "file": "/audio/ar_spelling_chunk_f1f1c1190a7f.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "نَ"
+  },
+  {
+    "id": "ar_spelling_chunk_a03a51a6da52",
+    "file": "/audio/ar_spelling_chunk_a03a51a6da52.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَجْ"
+  },
+  {
+    "id": "ar_spelling_chunk_9afe5324318c",
+    "file": "/audio/ar_spelling_chunk_9afe5324318c.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "مٌ"
+  },
+  {
+    "id": "ar_spelling_praise_d72816491059",
+    "file": "/audio/ar_spelling_praise_d72816491059.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ حَبْلٌ!"
+  },
+  {
+    "id": "ar_spelling_chunk_af3a61406d6d",
+    "file": "/audio/ar_spelling_chunk_af3a61406d6d.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "حَ"
+  },
+  {
+    "id": "ar_spelling_chunk_82c40e1667e0",
+    "file": "/audio/ar_spelling_chunk_82c40e1667e0.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَبْ"
+  },
+  {
+    "id": "ar_spelling_chunk_709783b8d561",
+    "file": "/audio/ar_spelling_chunk_709783b8d561.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "لٌ"
+  },
+  {
+    "id": "ar_spelling_word_3fc9f663a681",
+    "file": "/audio/ar_spelling_word_3fc9f663a681.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "فَتَحَ"
+  },
+  {
+    "id": "ar_spelling_praise_00cbd7550853",
+    "file": "/audio/ar_spelling_praise_00cbd7550853.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ فَتَحَ!"
+  },
+  {
+    "id": "ar_spelling_word_a111edaf4a1e",
+    "file": "/audio/ar_spelling_word_a111edaf4a1e.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "كُتِبَ"
+  },
+  {
+    "id": "ar_spelling_praise_be07a82940e8",
+    "file": "/audio/ar_spelling_praise_be07a82940e8.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ كُتِبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_c66c0931f5c4",
+    "file": "/audio/ar_spelling_chunk_c66c0931f5c4.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "كُ"
+  },
+  {
+    "id": "ar_spelling_chunk_28d1a5324a9a",
+    "file": "/audio/ar_spelling_chunk_28d1a5324a9a.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "تِ"
+  },
+  {
+    "id": "ar_spelling_word_8ac506daa2ba",
+    "file": "/audio/ar_spelling_word_8ac506daa2ba.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "شَرِبَ"
+  },
+  {
+    "id": "ar_spelling_praise_3fe2802df5c3",
+    "file": "/audio/ar_spelling_praise_3fe2802df5c3.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ شَرِبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_6de6551b76ad",
+    "file": "/audio/ar_spelling_chunk_6de6551b76ad.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "شَ"
+  },
+  {
+    "id": "ar_spelling_chunk_32f1164dff09",
+    "file": "/audio/ar_spelling_chunk_32f1164dff09.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "رِ"
+  },
+  {
+    "id": "ar_spelling_word_2577e596c9a0",
+    "file": "/audio/ar_spelling_word_2577e596c9a0.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "قَرَأَ"
+  },
+  {
+    "id": "ar_spelling_praise_4e78b0e742d0",
+    "file": "/audio/ar_spelling_praise_4e78b0e742d0.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ قَرَأَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_f7ed39bb0ef7",
+    "file": "/audio/ar_spelling_chunk_f7ed39bb0ef7.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "قَ"
+  },
+  {
+    "id": "ar_spelling_chunk_c535cd6b815b",
+    "file": "/audio/ar_spelling_chunk_c535cd6b815b.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "رَ"
+  },
+  {
+    "id": "ar_spelling_chunk_951cf8f19af4",
+    "file": "/audio/ar_spelling_chunk_951cf8f19af4.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "أَ"
+  },
+  {
+    "id": "ar_spelling_word_3eb194ae6d3d",
+    "file": "/audio/ar_spelling_word_3eb194ae6d3d.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "كَتَبَ"
+  },
+  {
+    "id": "ar_spelling_praise_f5f1e6e0c772",
+    "file": "/audio/ar_spelling_praise_f5f1e6e0c772.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ كَتَبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_c9265a711881",
+    "file": "/audio/ar_spelling_chunk_c9265a711881.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "كَ"
+  },
+  {
+    "id": "ar_spelling_word_8aa6383057c2",
+    "file": "/audio/ar_spelling_word_8aa6383057c2.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "جَلَسَ"
+  },
+  {
+    "id": "ar_spelling_praise_c7e52c3c4367",
+    "file": "/audio/ar_spelling_praise_c7e52c3c4367.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ جَلَسَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_cd62834a44c1",
+    "file": "/audio/ar_spelling_chunk_cd62834a44c1.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "جَ"
+  },
+  {
+    "id": "ar_spelling_chunk_62a6358b4aa0",
+    "file": "/audio/ar_spelling_chunk_62a6358b4aa0.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "لَ"
+  },
+  {
+    "id": "ar_spelling_chunk_a4acde7ae566",
+    "file": "/audio/ar_spelling_chunk_a4acde7ae566.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "سَ"
+  },
+  {
+    "id": "ar_spelling_word_65e5eef9e668",
+    "file": "/audio/ar_spelling_word_65e5eef9e668.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "لَعِبَ"
+  },
+  {
+    "id": "ar_spelling_praise_002886406281",
+    "file": "/audio/ar_spelling_praise_002886406281.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ لَعِبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_9d26c6038001",
+    "file": "/audio/ar_spelling_chunk_9d26c6038001.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "عِ"
+  },
+  {
+    "id": "ar_spelling_word_8bc870bd1ddd",
+    "file": "/audio/ar_spelling_word_8bc870bd1ddd.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "رَسَمَ"
+  },
+  {
+    "id": "ar_spelling_praise_ac9d7b222ed1",
+    "file": "/audio/ar_spelling_praise_ac9d7b222ed1.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ رَسَمَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_13d70482128c",
+    "file": "/audio/ar_spelling_chunk_13d70482128c.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "مَ"
+  },
+  {
+    "id": "ar_spelling_word_0a9a886e09bf",
+    "file": "/audio/ar_spelling_word_0a9a886e09bf.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "أَكَلَ"
+  },
+  {
+    "id": "ar_spelling_praise_a1ccfe828e38",
+    "file": "/audio/ar_spelling_praise_a1ccfe828e38.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ أَكَلَ!"
+  },
+  {
+    "id": "ar_spelling_word_fdb292f8747f",
+    "file": "/audio/ar_spelling_word_fdb292f8747f.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "ذَهَبَ"
+  },
+  {
+    "id": "ar_spelling_praise_03a6c23a265f",
+    "file": "/audio/ar_spelling_praise_03a6c23a265f.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ ذَهَبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_54f1b230ca5c",
+    "file": "/audio/ar_spelling_chunk_54f1b230ca5c.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "ذَ"
+  },
+  {
+    "id": "ar_spelling_chunk_6b57727cc810",
+    "file": "/audio/ar_spelling_chunk_6b57727cc810.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "هَ"
+  },
+  {
+    "id": "ar_spelling_word_6c087c6dc408",
+    "file": "/audio/ar_spelling_word_6c087c6dc408.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "حَمِدَ"
+  },
+  {
+    "id": "ar_spelling_praise_4adf2d87f3fa",
+    "file": "/audio/ar_spelling_praise_4adf2d87f3fa.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ حَمِدَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_2a7d11a947f8",
+    "file": "/audio/ar_spelling_chunk_2a7d11a947f8.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "مِ"
+  },
+  {
+    "id": "ar_spelling_chunk_ecfa9b082b21",
+    "file": "/audio/ar_spelling_chunk_ecfa9b082b21.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "دَ"
+  },
+  {
+    "id": "ar_spelling_word_b1cf6d995819",
+    "file": "/audio/ar_spelling_word_b1cf6d995819.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "صَبَرَ"
+  },
+  {
+    "id": "ar_spelling_praise_3be3fc0e2513",
+    "file": "/audio/ar_spelling_praise_3be3fc0e2513.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ صَبَرَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_f66a29b9f1a4",
+    "file": "/audio/ar_spelling_chunk_f66a29b9f1a4.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "صَ"
+  },
+  {
+    "id": "ar_spelling_word_6e91adcca636",
+    "file": "/audio/ar_spelling_word_6e91adcca636.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "زَرَعَ"
+  },
+  {
+    "id": "ar_spelling_praise_28600bcd6076",
+    "file": "/audio/ar_spelling_praise_28600bcd6076.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ زَرَعَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_afa259c21c91",
+    "file": "/audio/ar_spelling_chunk_afa259c21c91.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "زَ"
+  },
+  {
+    "id": "ar_spelling_chunk_ec0a47e47dad",
+    "file": "/audio/ar_spelling_chunk_ec0a47e47dad.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "عَ"
+  },
+  {
+    "id": "ar_spelling_word_b90192e4f606",
+    "file": "/audio/ar_spelling_word_b90192e4f606.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "حَصَدَ"
+  },
+  {
+    "id": "ar_spelling_praise_42cb19db98e1",
+    "file": "/audio/ar_spelling_praise_42cb19db98e1.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ حَصَدَ!"
+  },
+  {
+    "id": "ar_spelling_word_75b122bcf887",
+    "file": "/audio/ar_spelling_word_75b122bcf887.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "دَخَلَ"
+  },
+  {
+    "id": "ar_spelling_praise_3b6fad0a0dfe",
+    "file": "/audio/ar_spelling_praise_3b6fad0a0dfe.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ دَخَلَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_490f5ab0a24d",
+    "file": "/audio/ar_spelling_chunk_490f5ab0a24d.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "خَ"
+  },
+  {
+    "id": "ar_spelling_word_360d846f2cd2",
+    "file": "/audio/ar_spelling_word_360d846f2cd2.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "خَرَجَ"
+  },
+  {
+    "id": "ar_spelling_praise_49ee5a42a163",
+    "file": "/audio/ar_spelling_praise_49ee5a42a163.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ خَرَجَ!"
+  },
+  {
+    "id": "ar_spelling_word_d2f8f55e326b",
+    "file": "/audio/ar_spelling_word_d2f8f55e326b.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "نَظَرَ"
+  },
+  {
+    "id": "ar_spelling_praise_d88b4297aa41",
+    "file": "/audio/ar_spelling_praise_d88b4297aa41.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ نَظَرَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_84780e336f04",
+    "file": "/audio/ar_spelling_chunk_84780e336f04.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "ظَ"
+  },
+  {
+    "id": "ar_spelling_word_e71724fb9ea0",
+    "file": "/audio/ar_spelling_word_e71724fb9ea0.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "سَمِعَ"
+  },
+  {
+    "id": "ar_spelling_praise_489d9bba364a",
+    "file": "/audio/ar_spelling_praise_489d9bba364a.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ سَمِعَ!"
+  },
+  {
+    "id": "ar_spelling_word_f4f4d69b5d33",
+    "file": "/audio/ar_spelling_word_f4f4d69b5d33.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "وَجَدَ"
+  },
+  {
+    "id": "ar_spelling_praise_299ac39f0458",
+    "file": "/audio/ar_spelling_praise_299ac39f0458.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ وَجَدَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_98a7eb53df23",
+    "file": "/audio/ar_spelling_chunk_98a7eb53df23.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "وَ"
+  },
+  {
+    "id": "ar_spelling_word_728e855d3f03",
+    "file": "/audio/ar_spelling_word_728e855d3f03.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "طَلَبَ"
+  },
+  {
+    "id": "ar_spelling_praise_fc8f36e2f0ff",
+    "file": "/audio/ar_spelling_praise_fc8f36e2f0ff.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ طَلَبَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_83cf30e2a5f0",
+    "file": "/audio/ar_spelling_chunk_83cf30e2a5f0.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "طَ"
+  },
+  {
+    "id": "ar_spelling_word_75b94194f673",
+    "file": "/audio/ar_spelling_word_75b94194f673.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "عَمِلَ"
+  },
+  {
+    "id": "ar_spelling_praise_ab16c22bf3cc",
+    "file": "/audio/ar_spelling_praise_ab16c22bf3cc.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ عَمِلَ!"
+  },
+  {
+    "id": "ar_spelling_word_71c72a486360",
+    "file": "/audio/ar_spelling_word_71c72a486360.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "فَهِمَ"
+  },
+  {
+    "id": "ar_spelling_praise_49e44d35dcd4",
+    "file": "/audio/ar_spelling_praise_49e44d35dcd4.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ فَهِمَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_97d09690181f",
+    "file": "/audio/ar_spelling_chunk_97d09690181f.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "هِ"
+  },
+  {
+    "id": "ar_spelling_word_b79ebd15af35",
+    "file": "/audio/ar_spelling_word_b79ebd15af35.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "رَكِضَ"
+  },
+  {
+    "id": "ar_spelling_praise_eb1d12ca66e4",
+    "file": "/audio/ar_spelling_praise_eb1d12ca66e4.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ رَكِضَ!"
+  },
+  {
+    "id": "ar_spelling_chunk_6ab351f87c33",
+    "file": "/audio/ar_spelling_chunk_6ab351f87c33.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "كِ"
+  },
+  {
+    "id": "ar_spelling_chunk_741399c5b1ed",
+    "file": "/audio/ar_spelling_chunk_741399c5b1ed.mp3",
+    "lang": "ar",
+    "category": "spelling_chunk",
+    "text": "ضَ"
+  },
+  {
+    "id": "ar_spelling_word_628964f57584",
+    "file": "/audio/ar_spelling_word_628964f57584.mp3",
+    "lang": "ar",
+    "category": "spelling_word",
+    "text": "صَنَعَ"
+  },
+  {
+    "id": "ar_spelling_praise_88acfc1d5b72",
+    "file": "/audio/ar_spelling_praise_88acfc1d5b72.mp3",
+    "lang": "ar",
+    "category": "spelling_praise",
+    "text": "مُمْتَازٌ! كَلِمَةُ صَنَعَ!"
+  },
+  {
+    "id": "ar_spelling_hint_74d9930109ff",
+    "file": "/audio/ar_spelling_hint_74d9930109ff.mp3",
+    "lang": "ar",
+    "category": "spelling_hint",
+    "text": "ابْدَأْ بِالْحَرْفِ الْأَوَّلِ ثُمَّ الثَّانِي!"
+  },
+  {
+    "id": "ar_word_b7dc77f436de",
+    "file": "/audio/ar_word_b7dc77f436de.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "أَبٌ"
+  },
+  {
+    "id": "ar_word_syllable_9bff1d70f3a6",
+    "file": "/audio/ar_word_syllable_9bff1d70f3a6.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "بٌ"
+  },
+  {
+    "id": "ar_word_sentence_2302ae88eb88",
+    "file": "/audio/ar_word_sentence_2302ae88eb88.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "أَبِي يَحْمِلُ الطِّفْلَ الصَّغِيرَ بِحَنَانٍ."
+  },
+  {
+    "id": "ar_word_9f7f93917ea0",
+    "file": "/audio/ar_word_9f7f93917ea0.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "أُمٌّ"
+  },
+  {
+    "id": "ar_word_syllable_b1d017b61302",
+    "file": "/audio/ar_word_syllable_b1d017b61302.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "أُ"
+  },
+  {
+    "id": "ar_word_syllable_c067e2b993b5",
+    "file": "/audio/ar_word_syllable_c067e2b993b5.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "مٌّ"
+  },
+  {
+    "id": "ar_word_sentence_a4b695598f7f",
+    "file": "/audio/ar_word_sentence_a4b695598f7f.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "أُمِّي تَحْضُنُ الصَّغِيرَ بِكُلِّ حُبٍّ."
+  },
+  {
+    "id": "ar_word_syllable_98a321e82868",
+    "file": "/audio/ar_word_syllable_98a321e82868.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "ةٌ"
+  },
+  {
+    "id": "ar_word_sentence_cd414d679c12",
+    "file": "/audio/ar_word_sentence_cd414d679c12.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الشَّجَرَةُ كَبِيرَةٌ وَمُثْمِرَةٌ فِي الْحَدِيقَةِ."
+  },
+  {
+    "id": "ar_word_syllable_af215070e349",
+    "file": "/audio/ar_word_syllable_af215070e349.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "مَدْ"
+  },
+  {
+    "id": "ar_word_sentence_aca3b68c9fd1",
+    "file": "/audio/ar_word_sentence_aca3b68c9fd1.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "أَذْهَبُ إِلَى الْمَدْرَسَةِ فَرِحًا كُلَّ صَبَاحٍ."
+  },
+  {
+    "id": "ar_word_syllable_c0bd2fbf1b84",
+    "file": "/audio/ar_word_syllable_c0bd2fbf1b84.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "تَا"
+  },
+  {
+    "id": "ar_word_sentence_d5160f998caa",
+    "file": "/audio/ar_word_sentence_d5160f998caa.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْكِتَابُ فِيهِ صُوَرٌ وَقِصَصٌ رَائِعَةٌ."
+  },
+  {
+    "id": "ar_word_34a0f6717e61",
+    "file": "/audio/ar_word_34a0f6717e61.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "قِطَّةٌ"
+  },
+  {
+    "id": "ar_word_syllable_0421b6999e85",
+    "file": "/audio/ar_word_syllable_0421b6999e85.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "قِطْ"
+  },
+  {
+    "id": "ar_word_sentence_dd07c42b0d39",
+    "file": "/audio/ar_word_sentence_dd07c42b0d39.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْقِطَّةُ أَلِيفَةٌ وَتَمْرَحُ فِي الْبَيْتِ."
+  },
+  {
+    "id": "ar_word_syllable_1d212bd289f2",
+    "file": "/audio/ar_word_syllable_1d212bd289f2.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "بَيْ"
+  },
+  {
+    "id": "ar_word_sentence_91f3daed5768",
+    "file": "/audio/ar_word_sentence_91f3daed5768.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "بَيْتُنَا دَافِئٌ وَجَمِيلٌ مَلِيءٌ بِالْمَحَبَّةِ."
+  },
+  {
+    "id": "ar_word_syllable_a378bad7dfdc",
+    "file": "/audio/ar_word_syllable_a378bad7dfdc.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "زَهْ"
+  },
+  {
+    "id": "ar_word_sentence_887bb5fa609a",
+    "file": "/audio/ar_word_sentence_887bb5fa609a.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الزَّهْرَةُ فَتَّانَةُ اللَّوْنِ وَطَيِّبَةُ الرَّائِحَةِ."
+  },
+  {
+    "id": "ar_word_syllable_cd8f7cb44722",
+    "file": "/audio/ar_word_syllable_cd8f7cb44722.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "شَمْ"
+  },
+  {
+    "id": "ar_word_syllable_6222745fb71e",
+    "file": "/audio/ar_word_syllable_6222745fb71e.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "سٌ"
+  },
+  {
+    "id": "ar_word_sentence_546c2546bd44",
+    "file": "/audio/ar_word_sentence_546c2546bd44.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الشَّمْسُ تُشْرِقُ كُلَّ صَبَاحٍ بِنُورٍ سَاطِعٍ."
+  },
+  {
+    "id": "ar_word_sentence_a3def684d566",
+    "file": "/audio/ar_word_sentence_a3def684d566.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "السَّمَكَةُ تَعُومُ بِمَهَارَةٍ فِي الْمَاءِ."
+  },
+  {
+    "id": "ar_word_a87f8942d321",
+    "file": "/audio/ar_word_a87f8942d321.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "تُفَّاحَةٌ"
+  },
+  {
+    "id": "ar_word_syllable_eafc0b4db56e",
+    "file": "/audio/ar_word_syllable_eafc0b4db56e.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "تُفْ"
+  },
+  {
+    "id": "ar_word_syllable_f3c46bb6d5dc",
+    "file": "/audio/ar_word_syllable_f3c46bb6d5dc.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "فَا"
+  },
+  {
+    "id": "ar_word_sentence_75cf874c6c82",
+    "file": "/audio/ar_word_sentence_75cf874c6c82.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "آكُلُ تُفَّاحَةً حَمْرَاءَ لَذِيذَةً كُلَّ يَوْمٍ."
+  },
+  {
+    "id": "ar_word_89bf32ea4fd6",
+    "file": "/audio/ar_word_89bf32ea4fd6.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "سَيَّارَةٌ"
+  },
+  {
+    "id": "ar_word_syllable_3a39ecdc0919",
+    "file": "/audio/ar_word_syllable_3a39ecdc0919.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "سَيْ"
+  },
+  {
+    "id": "ar_word_syllable_7b15061a6815",
+    "file": "/audio/ar_word_syllable_7b15061a6815.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "يَا"
+  },
+  {
+    "id": "ar_word_sentence_c51be5ccb3d3",
+    "file": "/audio/ar_word_sentence_c51be5ccb3d3.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "السَّيَّارَةُ الْحَمْرَاءُ سَرِيعَةٌ وَمُرِيحَةٌ."
+  },
+  {
+    "id": "ar_word_sentence_1c39e0e89d57",
+    "file": "/audio/ar_word_sentence_1c39e0e89d57.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "أَلْعَبُ بِالْكُرَةِ مَعَ أَصْدِقَائِي فِي الْمَلْعَبِ."
+  },
+  {
+    "id": "ar_word_syllable_28f9b1197426",
+    "file": "/audio/ar_word_syllable_28f9b1197426.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "أَرْ"
+  },
+  {
+    "id": "ar_word_sentence_5f813c6315c3",
+    "file": "/audio/ar_word_sentence_5f813c6315c3.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْأَرْنَبُ يَقْفِزُ بِرَشَاقَةٍ وَيَأْكُلُ الْجَزَرَ."
+  },
+  {
+    "id": "ar_word_syllable_a0ed6787c359",
+    "file": "/audio/ar_word_syllable_a0ed6787c359.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "حِ"
+  },
+  {
+    "id": "ar_word_syllable_12392854a118",
+    "file": "/audio/ar_word_syllable_12392854a118.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "صَا"
+  },
+  {
+    "id": "ar_word_syllable_ed521aaac087",
+    "file": "/audio/ar_word_syllable_ed521aaac087.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "نٌ"
+  },
+  {
+    "id": "ar_word_sentence_d9101ddd3a79",
+    "file": "/audio/ar_word_sentence_d9101ddd3a79.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْحِصَانُ يَرْكُضُ سَرِيعًا فِي الْمَيْدَانِ."
+  },
+  {
+    "id": "ar_word_sentence_c9bd5f70d09b",
+    "file": "/audio/ar_word_sentence_c9bd5f70d09b.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْجَمَلُ سَفِينَةُ الصَّحْرَاءِ يَسِيرُ بِصَبْرٍ."
+  },
+  {
+    "id": "ar_word_92f8c5487870",
+    "file": "/audio/ar_word_92f8c5487870.mp3",
+    "lang": "ar",
+    "category": "word",
+    "text": "أَسَدٌ"
+  },
+  {
+    "id": "ar_word_syllable_19265cd61a82",
+    "file": "/audio/ar_word_syllable_19265cd61a82.mp3",
+    "lang": "ar",
+    "category": "word_syllable",
+    "text": "دٌ"
+  },
+  {
+    "id": "ar_word_sentence_de0c211445ac",
+    "file": "/audio/ar_word_sentence_de0c211445ac.mp3",
+    "lang": "ar",
+    "category": "word_sentence",
+    "text": "الْأَسَدُ قَوِيٌّ وَشُجَاعٌ فِي الْبَرِّيَّةِ."
+  },
+  {
+    "id": "ar_sentence_127255f6650b",
+    "file": "/audio/ar_sentence_127255f6650b.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "أَبِي يَحْمِلُ الطِّفْلَ الصَّغِيرَ."
+  },
+  {
+    "id": "ar_sentence_word_78e4fda2b726",
+    "file": "/audio/ar_sentence_word_78e4fda2b726.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "أَبِي"
+  },
+  {
+    "id": "ar_sentence_word_c3306c013dfe",
+    "file": "/audio/ar_sentence_word_c3306c013dfe.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "يَحْمِلُ"
+  },
+  {
+    "id": "ar_sentence_word_c54111b2c666",
+    "file": "/audio/ar_sentence_word_c54111b2c666.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الطِّفْلَ"
+  },
+  {
+    "id": "ar_sentence_word_7f7dbcf7e952",
+    "file": "/audio/ar_sentence_word_7f7dbcf7e952.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الصَّغِيرَ."
+  },
+  {
+    "id": "ar_sentence_cda54fbd7a83",
+    "file": "/audio/ar_sentence_cda54fbd7a83.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "أُمِّي تَحْضُنُ الصَّغِيرَ بِحُبٍّ."
+  },
+  {
+    "id": "ar_sentence_word_1bc29bbffb49",
+    "file": "/audio/ar_sentence_word_1bc29bbffb49.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "أُمِّي"
+  },
+  {
+    "id": "ar_sentence_word_a3f851810881",
+    "file": "/audio/ar_sentence_word_a3f851810881.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "تَحْضُنُ"
+  },
+  {
+    "id": "ar_sentence_word_80a6f9a62702",
+    "file": "/audio/ar_sentence_word_80a6f9a62702.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الصَّغِيرَ"
+  },
+  {
+    "id": "ar_sentence_word_2a75df47adf5",
+    "file": "/audio/ar_sentence_word_2a75df47adf5.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "بِحُبٍّ."
+  },
+  {
+    "id": "ar_sentence_bbb3528e03b8",
+    "file": "/audio/ar_sentence_bbb3528e03b8.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "الشَّجَرَةُ كَبِيرَةٌ وَمُثْمِرَةٌ."
+  },
+  {
+    "id": "ar_sentence_word_922238fa28b8",
+    "file": "/audio/ar_sentence_word_922238fa28b8.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الشَّجَرَةُ"
+  },
+  {
+    "id": "ar_sentence_word_fc783ec86046",
+    "file": "/audio/ar_sentence_word_fc783ec86046.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "كَبِيرَةٌ"
+  },
+  {
+    "id": "ar_sentence_word_27c93cf189c3",
+    "file": "/audio/ar_sentence_word_27c93cf189c3.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "وَمُثْمِرَةٌ."
+  },
+  {
+    "id": "ar_sentence_b0be99cf218a",
+    "file": "/audio/ar_sentence_b0be99cf218a.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "أَذْهَبُ إِلَى الْمَدْرَسَةِ فَرِحًا."
+  },
+  {
+    "id": "ar_sentence_word_9180e7fcc125",
+    "file": "/audio/ar_sentence_word_9180e7fcc125.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "أَذْهَبُ"
+  },
+  {
+    "id": "ar_sentence_word_fb79621a5725",
+    "file": "/audio/ar_sentence_word_fb79621a5725.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "إِلَى"
+  },
+  {
+    "id": "ar_sentence_word_36aa5931248d",
+    "file": "/audio/ar_sentence_word_36aa5931248d.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الْمَدْرَسَةِ"
+  },
+  {
+    "id": "ar_sentence_word_55867a991570",
+    "file": "/audio/ar_sentence_word_55867a991570.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "فَرِحًا."
+  },
+  {
+    "id": "ar_sentence_874e8089b4e3",
+    "file": "/audio/ar_sentence_874e8089b4e3.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "أَنَا أُحِبُّ أَبِي وَأُمِّي."
+  },
+  {
+    "id": "ar_sentence_word_a63d7f6d8b32",
+    "file": "/audio/ar_sentence_word_a63d7f6d8b32.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "أَنَا"
+  },
+  {
+    "id": "ar_sentence_word_250d6c35aeee",
+    "file": "/audio/ar_sentence_word_250d6c35aeee.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "أُحِبُّ"
+  },
+  {
+    "id": "ar_sentence_word_ed908c0b4079",
+    "file": "/audio/ar_sentence_word_ed908c0b4079.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "وَأُمِّي."
+  },
+  {
+    "id": "ar_sentence_353e45b73317",
+    "file": "/audio/ar_sentence_353e45b73317.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "الْقِطَّةُ تَلْعَبُ بِالْكُرَةِ."
+  },
+  {
+    "id": "ar_sentence_word_22a71256df9f",
+    "file": "/audio/ar_sentence_word_22a71256df9f.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الْقِطَّةُ"
+  },
+  {
+    "id": "ar_sentence_word_954fa42433e2",
+    "file": "/audio/ar_sentence_word_954fa42433e2.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "تَلْعَبُ"
+  },
+  {
+    "id": "ar_sentence_word_90687065b677",
+    "file": "/audio/ar_sentence_word_90687065b677.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "بِالْكُرَةِ."
+  },
+  {
+    "id": "ar_sentence_3ff1565c38bb",
+    "file": "/audio/ar_sentence_3ff1565c38bb.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "الْكِتَابُ فِيهِ صُوَرٌ جَمِيلَةٌ."
+  },
+  {
+    "id": "ar_sentence_word_15f652ad0e3a",
+    "file": "/audio/ar_sentence_word_15f652ad0e3a.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "الْكِتَابُ"
+  },
+  {
+    "id": "ar_sentence_word_c57bb3ef937c",
+    "file": "/audio/ar_sentence_word_c57bb3ef937c.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "فِيهِ"
+  },
+  {
+    "id": "ar_sentence_word_cf49d7f0d329",
+    "file": "/audio/ar_sentence_word_cf49d7f0d329.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "صُوَرٌ"
+  },
+  {
+    "id": "ar_sentence_word_2a6c663f433c",
+    "file": "/audio/ar_sentence_word_2a6c663f433c.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "جَمِيلَةٌ."
+  },
+  {
+    "id": "ar_sentence_0ba1cb110cbd",
+    "file": "/audio/ar_sentence_0ba1cb110cbd.mp3",
+    "lang": "ar",
+    "category": "sentence",
+    "text": "بَيْتُنَا دَافِئٌ وَمَلِيءٌ بِالْفَرَحِ."
+  },
+  {
+    "id": "ar_sentence_word_e6439d660f01",
+    "file": "/audio/ar_sentence_word_e6439d660f01.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "بَيْتُنَا"
+  },
+  {
+    "id": "ar_sentence_word_141f21499f0e",
+    "file": "/audio/ar_sentence_word_141f21499f0e.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "دَافِئٌ"
+  },
+  {
+    "id": "ar_sentence_word_2f999d042047",
+    "file": "/audio/ar_sentence_word_2f999d042047.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "وَمَلِيءٌ"
+  },
+  {
+    "id": "ar_sentence_word_d6714a7b7c91",
+    "file": "/audio/ar_sentence_word_d6714a7b7c91.mp3",
+    "lang": "ar",
+    "category": "sentence_word",
+    "text": "بِالْفَرَحِ."
+  },
+  {
+    "id": "ar_sentence_praise_a1974db84c0f",
+    "file": "/audio/ar_sentence_praise_a1974db84c0f.mp3",
+    "lang": "ar",
+    "category": "sentence_praise",
+    "text": "بَارَكَ اللَّهُ فِيكَ يَا بَطَل! قِرَاءَةٌ مُمَيَّزَةٌ جِدًّا!"
+  },
+  {
+    "id": "ar_story_sentence_d9f565021bdc",
+    "file": "/audio/ar_story_sentence_d9f565021bdc.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "سَارَ سَامِي مَعَ أُمِّهِ فِي مَمَرِّ الْحَدِيقَةِ الْمَلِيئَةِ بِالْأَزْهَارِ."
+  },
+  {
+    "id": "ar_story_hotspot_75795ba526d0",
+    "file": "/audio/ar_story_hotspot_75795ba526d0.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْأُمُّ الْحَنُونَةُ"
+  },
+  {
+    "id": "ar_story_hotspot_e7dc00fb7a5c",
+    "file": "/audio/ar_story_hotspot_e7dc00fb7a5c.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْوَلَدُ سَامِي"
+  },
+  {
+    "id": "ar_story_hotspot_ed0954a22fa2",
+    "file": "/audio/ar_story_hotspot_ed0954a22fa2.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَزْهَارٌ مُلَوَّنَةٌ"
+  },
+  {
+    "id": "ar_story_hotspot_faacecaa3812",
+    "file": "/audio/ar_story_hotspot_faacecaa3812.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "مَقْعَدُ الْحَدِيقَةِ"
+  },
+  {
+    "id": "ar_story_hotspot_694ef77d833a",
+    "file": "/audio/ar_story_hotspot_694ef77d833a.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَشْجَارٌ خَضْرَاءُ"
+  },
+  {
+    "id": "ar_story_sentence_415286fd0d40",
+    "file": "/audio/ar_story_sentence_415286fd0d40.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "لَعِبَ سَامِي بِكُرَةِ الْقَدَمِ بِمَرَحٍ فَوْقَ الْعُشْبِ الْأَخْضَرِ."
+  },
+  {
+    "id": "ar_story_hotspot_867e7c47750e",
+    "file": "/audio/ar_story_hotspot_867e7c47750e.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "كُرَةُ الْقَدَمِ"
+  },
+  {
+    "id": "ar_story_hotspot_99fa1185d2fd",
+    "file": "/audio/ar_story_hotspot_99fa1185d2fd.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الطِّفْلُ يَرْكُضُ"
+  },
+  {
+    "id": "ar_story_hotspot_6ee64e679a70",
+    "file": "/audio/ar_story_hotspot_6ee64e679a70.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "عُشْبٌ أَخْضَرُ"
+  },
+  {
+    "id": "ar_story_hotspot_017b8f85babd",
+    "file": "/audio/ar_story_hotspot_017b8f85babd.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "حِذَاءٌ رِيَاضِيٌّ"
+  },
+  {
+    "id": "ar_story_hotspot_4cd59f78b85f",
+    "file": "/audio/ar_story_hotspot_4cd59f78b85f.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "سَمَاءٌ زَرْقَاءُ"
+  },
+  {
+    "id": "ar_story_sentence_f26140aa897f",
+    "file": "/audio/ar_story_sentence_f26140aa897f.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "رَأَى سَامِي قِطَّةً صَغِيرَةً لَطِيفَةً تَسْتَرِيحُ بِهُدُوءٍ فِي الْحَدِيقَةِ."
+  },
+  {
+    "id": "ar_story_hotspot_21df2ed4d183",
+    "file": "/audio/ar_story_hotspot_21df2ed4d183.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْقِطَّةُ اللَّطِيفَةُ"
+  },
+  {
+    "id": "ar_story_hotspot_cb64d5bb2f3a",
+    "file": "/audio/ar_story_hotspot_cb64d5bb2f3a.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "عَيْنَا الْقِطَّةِ"
+  },
+  {
+    "id": "ar_story_hotspot_ba6ab8be1375",
+    "file": "/audio/ar_story_hotspot_ba6ab8be1375.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "شَوَارِبُ الْقِطَّةِ"
+  },
+  {
+    "id": "ar_story_hotspot_942b05f91c5b",
+    "file": "/audio/ar_story_hotspot_942b05f91c5b.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "فَرْوٌ نَاعِمٌ"
+  },
+  {
+    "id": "ar_story_sentence_d3fd6c46d44b",
+    "file": "/audio/ar_story_sentence_d3fd6c46d44b.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "قَطَفَ سَامِي تُفَّاحَةً حَمْرَاءَ لَذِيذَةً مِنْ شَجَرَةِ التُّفَّاحِ الْكَبِيرَةِ."
+  },
+  {
+    "id": "ar_story_hotspot_cbc32f184c1a",
+    "file": "/audio/ar_story_hotspot_cbc32f184c1a.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "تُفَّاحَةٌ حَمْرَاءُ"
+  },
+  {
+    "id": "ar_story_hotspot_97a44a5112e2",
+    "file": "/audio/ar_story_hotspot_97a44a5112e2.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "غُصْنُ الشَّجَرَةِ"
+  },
+  {
+    "id": "ar_story_hotspot_76143607d477",
+    "file": "/audio/ar_story_hotspot_76143607d477.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَوْرَاقٌ خَضْرَاءُ"
+  },
+  {
+    "id": "ar_story_sentence_ae1e1a5f6d0c",
+    "file": "/audio/ar_story_sentence_ae1e1a5f6d0c.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "تَنَاوَلَتْ نُورُ فَطُورَ الصَّبَاحِ الصِّحِّيَّ مَعَ أُمِّهَا وَأَبِيهَا فِي بَهْجَةٍ."
+  },
+  {
+    "id": "ar_story_hotspot_d27a560e6b5a",
+    "file": "/audio/ar_story_hotspot_d27a560e6b5a.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "خُبْزٌ طَازَجٌ"
+  },
+  {
+    "id": "ar_story_hotspot_0f5240b8dc4c",
+    "file": "/audio/ar_story_hotspot_0f5240b8dc4c.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "تُفَّاحٌ أَحْمَرُ"
+  },
+  {
+    "id": "ar_story_hotspot_6ccabcca4e82",
+    "file": "/audio/ar_story_hotspot_6ccabcca4e82.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "كُوبُ حَلِيبٍ"
+  },
+  {
+    "id": "ar_story_hotspot_91aa64001cfe",
+    "file": "/audio/ar_story_hotspot_91aa64001cfe.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "عَسَلٌ نَقِيٌّ"
+  },
+  {
+    "id": "ar_story_hotspot_761e4ebbab4d",
+    "file": "/audio/ar_story_hotspot_761e4ebbab4d.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْبِنْتُ نُورُ"
+  },
+  {
+    "id": "ar_story_hotspot_855b854e951f",
+    "file": "/audio/ar_story_hotspot_855b854e951f.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْأَبُ وَالْأُمُّ"
+  },
+  {
+    "id": "ar_story_sentence_e21df5014e88",
+    "file": "/audio/ar_story_sentence_e21df5014e88.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "جَلَسَتْ نُورُ فِي غُرْفَتِهَا تَقْرَأُ كِتَابَ الْقِصَصِ قَبْلَ النَّوْمِ."
+  },
+  {
+    "id": "ar_story_hotspot_998070517f86",
+    "file": "/audio/ar_story_hotspot_998070517f86.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "كِتَابُ الْقِصَصِ"
+  },
+  {
+    "id": "ar_story_hotspot_214b36341864",
+    "file": "/audio/ar_story_hotspot_214b36341864.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "دُبٌّ قُمَاشِيٌّ"
+  },
+  {
+    "id": "ar_story_hotspot_94ca3ad932c4",
+    "file": "/audio/ar_story_hotspot_94ca3ad932c4.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "مِصْبَاحُ الْإِضَاءَةِ"
+  },
+  {
+    "id": "ar_story_hotspot_403f2336c3e2",
+    "file": "/audio/ar_story_hotspot_403f2336c3e2.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "سَاعَةُ الْمُنَبِّهِ"
+  },
+  {
+    "id": "ar_story_hotspot_08616b8a8265",
+    "file": "/audio/ar_story_hotspot_08616b8a8265.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "سَرِيرٌ مُرَتَّبٌ"
+  },
+  {
+    "id": "ar_story_sentence_805983a28058",
+    "file": "/audio/ar_story_sentence_805983a28058.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "حَمَلَ الْأَبُ طِفْلَهُ الصَّغِيرَ بِحَنَانٍ وَفَرَحٍ كَبِيرٍ."
+  },
+  {
+    "id": "ar_story_hotspot_388f537d67ae",
+    "file": "/audio/ar_story_hotspot_388f537d67ae.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْأَبُ الطَّيِّبُ"
+  },
+  {
+    "id": "ar_story_hotspot_3e8de82492e9",
+    "file": "/audio/ar_story_hotspot_3e8de82492e9.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الطِّفْلُ الصَّغِيرُ"
+  },
+  {
+    "id": "ar_story_hotspot_f1acbb610403",
+    "file": "/audio/ar_story_hotspot_f1acbb610403.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "ابْتِسَامَةٌ سَعِيدَةٌ"
+  },
+  {
+    "id": "ar_story_sentence_579c0760b56e",
+    "file": "/audio/ar_story_sentence_579c0760b56e.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "شَاهَدَتْ سَلْمَى خَرُوفًا أَبْيَضَ ذَا صُوفٍ نَاعِمٍ فِي الْمَزْرَعَةِ."
+  },
+  {
+    "id": "ar_story_hotspot_944adcc2a0b7",
+    "file": "/audio/ar_story_hotspot_944adcc2a0b7.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "خَرُوفٌ أَبْيَضُ"
+  },
+  {
+    "id": "ar_story_hotspot_5f7b5c455d2c",
+    "file": "/audio/ar_story_hotspot_5f7b5c455d2c.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الْبِنْتُ سَلْمَى"
+  },
+  {
+    "id": "ar_story_hotspot_b7d0f67d325d",
+    "file": "/audio/ar_story_hotspot_b7d0f67d325d.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَزْهَارُ الْأُقْحُوَانِ"
+  },
+  {
+    "id": "ar_story_hotspot_9ce9237171a0",
+    "file": "/audio/ar_story_hotspot_9ce9237171a0.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "حَظِيرَةُ الْمَزْرَعَةِ"
+  },
+  {
+    "id": "ar_story_hotspot_0f8fdfdef9d6",
+    "file": "/audio/ar_story_hotspot_0f8fdfdef9d6.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "سِيَاجٌ خَشَبِيٌّ"
+  },
+  {
+    "id": "ar_story_sentence_58a92048e721",
+    "file": "/audio/ar_story_sentence_58a92048e721.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "وَقَفَ الْحِصَانُ الْأَصِيلُ فِي الْمَرْعَى الْأَخْضَرِ بِشَجَاعَةٍ وَجَمَالٍ."
+  },
+  {
+    "id": "ar_story_hotspot_9a47c5b1f234",
+    "file": "/audio/ar_story_hotspot_9a47c5b1f234.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "حِصَانٌ قَوِيٌّ"
+  },
+  {
+    "id": "ar_story_hotspot_8cf02f6717fa",
+    "file": "/audio/ar_story_hotspot_8cf02f6717fa.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "عُرْفُ الْحِصَانِ"
+  },
+  {
+    "id": "ar_story_hotspot_f1b39fb44d2c",
+    "file": "/audio/ar_story_hotspot_f1b39fb44d2c.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "مَرْعَى أَخْضَرُ"
+  },
+  {
+    "id": "ar_story_sentence_f082c71b1f19",
+    "file": "/audio/ar_story_sentence_f082c71b1f19.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "أَكَلَ الْأَرْنَبُ الْأَبْيَضُ الصَّغِيرُ حَبَّةَ الْجَزَرِ الطَّازَجَةَ."
+  },
+  {
+    "id": "ar_story_hotspot_4f217629dfa4",
+    "file": "/audio/ar_story_hotspot_4f217629dfa4.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَرْنَبٌ أَبْيَضُ"
+  },
+  {
+    "id": "ar_story_hotspot_35255d91c55a",
+    "file": "/audio/ar_story_hotspot_35255d91c55a.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أُذُنَانِ طَوِيلَتَانِ"
+  },
+  {
+    "id": "ar_story_hotspot_ae35019d77ad",
+    "file": "/audio/ar_story_hotspot_ae35019d77ad.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "جَزَرٌ بُرْتُقَالِيٌّ"
+  },
+  {
+    "id": "ar_story_sentence_ee2841be8e8e",
+    "file": "/audio/ar_story_sentence_ee2841be8e8e.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "بَنَتْ مَرْيَمُ قَلْعَةً رَمْلِيَّةً كَبِيرَةً بِالدَّلْوِ الْأَحْمَرِ وَالْمِجْرَفَةِ عَلَى الشَّاطِئِ."
+  },
+  {
+    "id": "ar_story_hotspot_31f173da4d68",
+    "file": "/audio/ar_story_hotspot_31f173da4d68.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "قَلْعَةُ الرَّمْلِ"
+  },
+  {
+    "id": "ar_story_hotspot_e664b3a88eaf",
+    "file": "/audio/ar_story_hotspot_e664b3a88eaf.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "دَلْوٌ أَحْمَرُ"
+  },
+  {
+    "id": "ar_story_hotspot_28528d4b3cf0",
+    "file": "/audio/ar_story_hotspot_28528d4b3cf0.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "مِجْرَفَةٌ صَغِيرَةٌ"
+  },
+  {
+    "id": "ar_story_hotspot_32e5f907131e",
+    "file": "/audio/ar_story_hotspot_32e5f907131e.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "الطِّفْلَةُ مَرْيَمُ"
+  },
+  {
+    "id": "ar_story_hotspot_7b20a05e69ac",
+    "file": "/audio/ar_story_hotspot_7b20a05e69ac.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "أَمْوَاجُ الْبَحْرِ"
+  },
+  {
+    "id": "ar_story_hotspot_3860dda38cde",
+    "file": "/audio/ar_story_hotspot_3860dda38cde.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "رِمَالٌ ذَهَبِيَّةٌ"
+  },
+  {
+    "id": "ar_story_sentence_8c348956751d",
+    "file": "/audio/ar_story_sentence_8c348956751d.mp3",
+    "lang": "ar",
+    "category": "story_sentence",
+    "text": "سَبَحَتِ السَّمَكَةُ الذَّهَبِيَّةُ الصَّغِيرَةُ بِمَرَحٍ فِي الْمَاءِ النَّقِيِّ."
+  },
+  {
+    "id": "ar_story_hotspot_209b53a7fb59",
+    "file": "/audio/ar_story_hotspot_209b53a7fb59.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "سَمَكَةٌ ذَهَبِيَّةٌ"
+  },
+  {
+    "id": "ar_story_hotspot_51047e4fa80d",
+    "file": "/audio/ar_story_hotspot_51047e4fa80d.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "زَعَانِفُ السَّمَكَةِ"
+  },
+  {
+    "id": "ar_story_hotspot_9aa641c218d7",
+    "file": "/audio/ar_story_hotspot_9aa641c218d7.mp3",
+    "lang": "ar",
+    "category": "story_hotspot",
+    "text": "مَاءٌ صَافٍ"
+  },
+  {
+    "id": "ar_story_praise_f2fdbe886d79",
+    "file": "/audio/ar_story_praise_f2fdbe886d79.mp3",
+    "lang": "ar",
+    "category": "story_praise",
+    "text": "مُمْتَازٌ! لَقَدْ تَعَرَّفْتَ عَلَى جَمِيعِ الْأَشْيَاءِ!"
+  },
+  {
+    "id": "ar_math_number_269810339b37",
+    "file": "/audio/ar_math_number_269810339b37.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "1"
+  },
+  {
+    "id": "ar_math_number_e3fbea210eca",
+    "file": "/audio/ar_math_number_e3fbea210eca.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "2"
+  },
+  {
+    "id": "ar_math_number_5906cccfbcae",
+    "file": "/audio/ar_math_number_5906cccfbcae.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "3"
+  },
+  {
+    "id": "ar_math_number_b487c9e21857",
+    "file": "/audio/ar_math_number_b487c9e21857.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "4"
+  },
+  {
+    "id": "ar_math_number_f2adc609782a",
+    "file": "/audio/ar_math_number_f2adc609782a.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "5"
+  },
+  {
+    "id": "ar_math_number_e2ceb0bfb48a",
+    "file": "/audio/ar_math_number_e2ceb0bfb48a.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "6"
+  },
+  {
+    "id": "ar_math_number_8927e37988cb",
+    "file": "/audio/ar_math_number_8927e37988cb.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "7"
+  },
+  {
+    "id": "ar_math_number_ef0575cbcaa4",
+    "file": "/audio/ar_math_number_ef0575cbcaa4.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "8"
+  },
+  {
+    "id": "ar_math_number_0f478a3c93be",
+    "file": "/audio/ar_math_number_0f478a3c93be.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "9"
+  },
+  {
+    "id": "ar_math_number_33745c3203ee",
+    "file": "/audio/ar_math_number_33745c3203ee.mp3",
+    "lang": "ar",
+    "category": "math_number",
+    "text": "10"
+  },
+  {
+    "id": "ar_math_compare_prompt_fd881504d3ea",
+    "file": "/audio/ar_math_compare_prompt_fd881504d3ea.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 5 وَ 4. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_a1051b1eb575",
+    "file": "/audio/ar_math_compare_praise_a1051b1eb575.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 5 أَكْبَرُ مِنْ 4!"
+  },
+  {
+    "id": "ar_math_compare_prompt_ffa4cd9b63ac",
+    "file": "/audio/ar_math_compare_prompt_ffa4cd9b63ac.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 3 وَ 7. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_160bc27384dc",
+    "file": "/audio/ar_math_compare_praise_160bc27384dc.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 3 أَصْغَرُ مِنْ 7!"
+  },
+  {
+    "id": "ar_math_compare_prompt_0b6409db5672",
+    "file": "/audio/ar_math_compare_prompt_0b6409db5672.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 5 وَ 7. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_8f88762a8a7d",
+    "file": "/audio/ar_math_compare_praise_8f88762a8a7d.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 5 أَصْغَرُ مِنْ 7!"
+  },
+  {
+    "id": "ar_math_compare_prompt_4b290f0e5535",
+    "file": "/audio/ar_math_compare_prompt_4b290f0e5535.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 6 وَ 2. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_e7894b386ee0",
+    "file": "/audio/ar_math_compare_praise_e7894b386ee0.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 6 أَكْبَرُ مِنْ 2!"
+  },
+  {
+    "id": "ar_math_compare_prompt_ab8553ee04bd",
+    "file": "/audio/ar_math_compare_prompt_ab8553ee04bd.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 4 وَ 4. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_b45c40ae1bbf",
+    "file": "/audio/ar_math_compare_praise_b45c40ae1bbf.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 4 يُسَاوِي 4!"
+  },
+  {
+    "id": "ar_math_compare_prompt_c7e2bf862902",
+    "file": "/audio/ar_math_compare_prompt_c7e2bf862902.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 8 وَ 4. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_26a6fe0066b8",
+    "file": "/audio/ar_math_compare_praise_26a6fe0066b8.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 8 أَكْبَرُ مِنْ 4!"
+  },
+  {
+    "id": "ar_math_compare_prompt_31b70d32df26",
+    "file": "/audio/ar_math_compare_prompt_31b70d32df26.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 2 وَ 5. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_516876cc2c43",
+    "file": "/audio/ar_math_compare_praise_516876cc2c43.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 2 أَصْغَرُ مِنْ 5!"
+  },
+  {
+    "id": "ar_math_compare_prompt_412fd76d825d",
+    "file": "/audio/ar_math_compare_prompt_412fd76d825d.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 5 وَ 5. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_2110b338d17e",
+    "file": "/audio/ar_math_compare_praise_2110b338d17e.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 5 يُسَاوِي 5!"
+  },
+  {
+    "id": "ar_math_compare_prompt_fdfbcb0f80c6",
+    "file": "/audio/ar_math_compare_prompt_fdfbcb0f80c6.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 7 وَ 3. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_b1f74ed07d80",
+    "file": "/audio/ar_math_compare_praise_b1f74ed07d80.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 7 أَكْبَرُ مِنْ 3!"
+  },
+  {
+    "id": "ar_math_compare_prompt_419b855bca54",
+    "file": "/audio/ar_math_compare_prompt_419b855bca54.mp3",
+    "lang": "ar",
+    "category": "math_compare_prompt",
+    "text": "قَارِنْ بَيْنَ 6 وَ 6. ضَعْ إِشَارَةَ أَكْبَر مِنْ، أَصْغَر مِنْ، أَوْ يُسَاوِي!"
+  },
+  {
+    "id": "ar_math_compare_praise_85d376b2f6a3",
+    "file": "/audio/ar_math_compare_praise_85d376b2f6a3.mp3",
+    "lang": "ar",
+    "category": "math_compare_praise",
+    "text": "صَحِيح! 6 يُسَاوِي 6!"
+  },
+  {
+    "id": "ar_math_problem_b55040e2c52d",
+    "file": "/audio/ar_math_problem_b55040e2c52d.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا 3 تُفَّاحَاتٍ حُمْرٍ، ثُمَّ قَطَفْنَا تُفَّاحَتَيْنِ أُخْرَيَيْنِ، كَمْ تُفَّاحَةً لَدَيْنَا الآن؟"
+  },
+  {
+    "id": "ar_math_problem_494ec2a971db",
+    "file": "/audio/ar_math_problem_494ec2a971db.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "ظَهَرَتْ 4 نُجُومٍ لَامِعَةٍ، ثُمَّ انْضَمَّتْ إِلَيْهَا 3 نُجُومٍ أُخْرَى، كَمْ نَجْمَةً تَلْمَعُ فِي السَّمَاءِ؟"
+  },
+  {
+    "id": "ar_math_problem_19f1f4a69c96",
+    "file": "/audio/ar_math_problem_19f1f4a69c96.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "فِي الصُّنْدُوقِ كُرَتَانِ، وَوَضَعْنَا فِيهِ 4 كُرَاتٍ أُخْرَى، كَمْ كُرَةً صَارَتْ فِي الصُّنْدُوقِ؟"
+  },
+  {
+    "id": "ar_math_problem_493c4f1924d8",
+    "file": "/audio/ar_math_problem_493c4f1924d8.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "5 تُفَّاحَاتٍ كَبِيرَةٍ أُضِيفَ إِلَيْهَا 4 تُفَّاحَاتٍ، كَمْ مَجْمُوعُ التُّفَّاحِ؟"
+  },
+  {
+    "id": "ar_math_problem_fc3202740803",
+    "file": "/audio/ar_math_problem_fc3202740803.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "3 سَيَّارَاتٍ فِي الْمَوْقِفِ وَجَاءَتْ 3 سَيَّارَاتٍ أُخْرَى، كَمْ سَيَّارَةً فِي الْمَوْقِفِ؟"
+  },
+  {
+    "id": "ar_math_problem_d7a14fb6fde6",
+    "file": "/audio/ar_math_problem_d7a14fb6fde6.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "كَانَ عَلَى الطَّاوِلَةِ 5 تُفَّاحَاتٍ، أَكَلَ الْأَرْنَبُ مِنْهَا تُفَّاحَتَيْنِ، كَمْ تُفَّاحَةً بَقِيَتْ؟"
+  },
+  {
+    "id": "ar_math_problem_64a00d4475cf",
+    "file": "/audio/ar_math_problem_64a00d4475cf.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "كَانَ هُنَاكَ 6 أَرَانِبَ بَيْضَاءَ، ذَهَبَ 3 مِنْهَا لِلنَّوْمِ، كَمْ أَرْنَبًا بَقِيَ يَلْعَبُ؟"
+  },
+  {
+    "id": "ar_math_problem_2a670c55e352",
+    "file": "/audio/ar_math_problem_2a670c55e352.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "7 سَيَّارَاتٍ انْطَلَقَتْ 4 مِنْهَا فِي الرِّحْلَةِ، كَمْ سَيَّارَةً مَازَالَتْ وَاقِفَةً؟"
+  },
+  {
+    "id": "ar_math_problem_ad6509cc131c",
+    "file": "/audio/ar_math_problem_ad6509cc131c.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "8 نُجُومٍ فِي السَّمَاءِ غَطَّتِ السَّحَابَةُ 3 مِنْهَا، كَمْ نَجْمَةً تَبْدُو لَنَا؟"
+  },
+  {
+    "id": "ar_math_problem_3c00f592bcbf",
+    "file": "/audio/ar_math_problem_3c00f592bcbf.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا مَجْمُوعَتَانِ (2)، فِي كُلِّ مَجْمُوعَةٍ 3 تُفَّاحَاتٍ، كَمْ تُفَّاحَةً فِي الْمَجْمُوعَتَيْنِ مَعًا؟ (2 × 3)"
+  },
+  {
+    "id": "ar_math_problem_a6c623bca565",
+    "file": "/audio/ar_math_problem_a6c623bca565.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا 3 مَجْمُوعَاتٍ، فِي كُلِّ مَجْمُوعَةٍ نَجْمَتَانِ (2)، كَمْ نَجْمَةً مَعًا؟ (3 × 2)"
+  },
+  {
+    "id": "ar_math_problem_ef787619882f",
+    "file": "/audio/ar_math_problem_ef787619882f.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "كِيسَانِ (2) فِي كُلِّ كِيسٍ 4 كُرَاتٍ، كَمْ كُرَةً لَدَيْنَا إِجْمَالًا؟ (2 × 4)"
+  },
+  {
+    "id": "ar_math_problem_ccbfbe1cb32d",
+    "file": "/audio/ar_math_problem_ccbfbe1cb32d.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "مَجْمُوعَتَانِ فِي كُلِّ وَاحِدَةٍ أَرْنَبَانِ، كَمْ أَرْنَبًا لَدَيْنَا؟ (2 × 2)"
+  },
+  {
+    "id": "ar_math_problem_b5ed3128c36c",
+    "file": "/audio/ar_math_problem_b5ed3128c36c.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا 6 تُفَّاحَاتٍ نُرِيدُ تَوْزِيعَهَا بِالتَّسَاوِي عَلَى صَحْنَيْنِ (2)، كَمْ تُفَّاحَةً يَأْخُذُ كُلُّ صَحْنٍ؟"
+  },
+  {
+    "id": "ar_math_problem_44a25a403048",
+    "file": "/audio/ar_math_problem_44a25a403048.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا 8 نُجُومٍ ذَهَبِيَّةٍ نُوَزِّعُهَا عَلَى 4 أَطْفَالٍ بِالتَّسَاوِي، كَمْ نَجْمَةً يَأْخُذُ كُلُّ طِفْلٍ؟"
+  },
+  {
+    "id": "ar_math_problem_7bab16b36a8a",
+    "file": "/audio/ar_math_problem_7bab16b36a8a.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "لَدَيْنَا 4 كُرَاتٍ نُقَسِّمُهَا بَيْنَ صَدِيقَيْنِ (2)، كَمْ كُرَةً لِكُلِّ صَدِيقٍ؟"
+  },
+  {
+    "id": "ar_math_problem_c13b5b0f3472",
+    "file": "/audio/ar_math_problem_c13b5b0f3472.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "9 نُجُومٍ نُوَزِّعُهَا بِالتَّسَاوِي فِي 3 صَنَادِيقَ، كَمْ نَجْمَةً فِي كُلِّ صُنْدُوقٍ؟"
+  },
+  {
+    "id": "ar_math_problem_7ae962cac08f",
+    "file": "/audio/ar_math_problem_7ae962cac08f.mp3",
+    "lang": "ar",
+    "category": "math_problem",
+    "text": "8 تُفَّاحَاتٍ لَذِيذَةٍ نَقْسِمُهَا بَيْنَ طِفْلَيْنِ، كَمْ تُفَّاحَةً لِكُلِّ طِفْلٍ؟"
+  },
+  {
+    "id": "ar_math_praise_0b1927c44398",
+    "file": "/audio/ar_math_praise_0b1927c44398.mp3",
+    "lang": "ar",
+    "category": "math_praise",
+    "text": "صَحِيحٌ مُمْتَاز! أَنْتَ بَطَلُ الرِّيَاضِيَّاتِ!"
+  },
+  {
+    "id": "ar_math_retry_0ae5f61d2a03",
+    "file": "/audio/ar_math_retry_0ae5f61d2a03.mp3",
+    "lang": "ar",
+    "category": "math_retry",
+    "text": "حَاوِلْ مَرَّةً أُخْرَى، عُدَّ الرُّسُومَ بِهُدُوءٍ!"
+  },
+  {
+    "id": "ar_math_compare_retry_6f20ee53e5fa",
+    "file": "/audio/ar_math_compare_retry_6f20ee53e5fa.mp3",
+    "lang": "ar",
+    "category": "math_compare_retry",
+    "text": "حَاوِلْ مَرَّةً أُخْرَى، قَارِنْ بَيْنَ الْعَدَدَيْنِ!"
+  },
+  {
+    "id": "ar_focus_intro_e195142e7fde",
+    "file": "/audio/ar_focus_intro_e195142e7fde.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: تُفَّاحَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_486890ffe2c3",
+    "file": "/audio/ar_focus_praise_486890ffe2c3.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ تُفَّاحَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_0ea87fe97eae",
+    "file": "/audio/ar_focus_intro_0ea87fe97eae.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: كُرَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_139a8b2e385e",
+    "file": "/audio/ar_focus_praise_139a8b2e385e.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ كُرَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_3d231b818b12",
+    "file": "/audio/ar_focus_intro_3d231b818b12.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: بَيْتٌ"
+  },
+  {
+    "id": "ar_focus_praise_0c45d5c361d1",
+    "file": "/audio/ar_focus_praise_0c45d5c361d1.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ بَيْتٌ"
+  },
+  {
+    "id": "ar_focus_intro_01c6aca32241",
+    "file": "/audio/ar_focus_intro_01c6aca32241.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: شَمْسٌ"
+  },
+  {
+    "id": "ar_focus_praise_823099b9ec37",
+    "file": "/audio/ar_focus_praise_823099b9ec37.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ شَمْسٌ"
+  },
+  {
+    "id": "ar_focus_intro_6b4de3597bd0",
+    "file": "/audio/ar_focus_intro_6b4de3597bd0.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: سَيَّارَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_df12c7013020",
+    "file": "/audio/ar_focus_praise_df12c7013020.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ سَيَّارَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_a4d2e4cd27ec",
+    "file": "/audio/ar_focus_intro_a4d2e4cd27ec.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: شَجَرَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_2fceefca7e75",
+    "file": "/audio/ar_focus_praise_2fceefca7e75.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ شَجَرَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_d6fbd32bf5c1",
+    "file": "/audio/ar_focus_intro_d6fbd32bf5c1.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: نَجْمَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_58942ed9781f",
+    "file": "/audio/ar_focus_praise_58942ed9781f.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ نَجْمَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_00e759bdd910",
+    "file": "/audio/ar_focus_intro_00e759bdd910.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: سَمَكَةٌ"
+  },
+  {
+    "id": "ar_focus_praise_deb4fa18f0ae",
+    "file": "/audio/ar_focus_praise_deb4fa18f0ae.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ سَمَكَةٌ"
+  },
+  {
+    "id": "ar_focus_intro_7b50376518b9",
+    "file": "/audio/ar_focus_intro_7b50376518b9.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: قِطَّةٌ"
+  },
+  {
+    "id": "ar_focus_praise_287524c94f9e",
+    "file": "/audio/ar_focus_praise_287524c94f9e.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ قِطَّةٌ"
+  },
+  {
+    "id": "ar_focus_intro_74e3131048b5",
+    "file": "/audio/ar_focus_intro_74e3131048b5.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: كِتَابٌ"
+  },
+  {
+    "id": "ar_focus_praise_55f3a39c1b7d",
+    "file": "/audio/ar_focus_praise_55f3a39c1b7d.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ كِتَابٌ"
+  },
+  {
+    "id": "ar_focus_intro_8af2b0509221",
+    "file": "/audio/ar_focus_intro_8af2b0509221.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: قَلَمٌ"
+  },
+  {
+    "id": "ar_focus_praise_f71157b04667",
+    "file": "/audio/ar_focus_praise_f71157b04667.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ قَلَمٌ"
+  },
+  {
+    "id": "ar_focus_item_4aa4d62b40d4",
+    "file": "/audio/ar_focus_item_4aa4d62b40d4.mp3",
+    "lang": "ar",
+    "category": "focus_item",
+    "text": "قَمَرٌ"
+  },
+  {
+    "id": "ar_focus_intro_0a7bb607597f",
+    "file": "/audio/ar_focus_intro_0a7bb607597f.mp3",
+    "lang": "ar",
+    "category": "focus_intro",
+    "text": "انْظُرْ جَيِّدًا إِلَى هَذَا الشَّكْلِ: قَمَرٌ"
+  },
+  {
+    "id": "ar_focus_praise_67c8157394ee",
+    "file": "/audio/ar_focus_praise_67c8157394ee.mp3",
+    "lang": "ar",
+    "category": "focus_praise",
+    "text": "مُمْتَازٌ! كَانَتْ قَمَرٌ"
+  },
+  {
+    "id": "ar_focus_prompt_3e5af2bc84ef",
+    "file": "/audio/ar_focus_prompt_3e5af2bc84ef.mp3",
+    "lang": "ar",
+    "category": "focus_prompt",
+    "text": "رَكِّزْ فِي هَذَيْنِ الشَّكْلَيْنِ"
+  },
+  {
+    "id": "ar_focus_prompt_1a56d1cd808f",
+    "file": "/audio/ar_focus_prompt_1a56d1cd808f.mp3",
+    "lang": "ar",
+    "category": "focus_prompt",
+    "text": "رَكِّزْ جَيِّدًا فِي هَذِهِ الْأَشْكَالِ"
+  },
+  {
+    "id": "ar_focus_prompt_dc9fb82f0e45",
+    "file": "/audio/ar_focus_prompt_dc9fb82f0e45.mp3",
+    "lang": "ar",
+    "category": "focus_prompt",
+    "text": "انْظُرْ جَيِّدًا وَتَذَكَّرْ هَذِهِ الْأَشْكَالَ"
+  },
+  {
+    "id": "ar_focus_question_d62ee507878d",
+    "file": "/audio/ar_focus_question_d62ee507878d.mp3",
+    "lang": "ar",
+    "category": "focus_question",
+    "text": "مَا هُوَ الشَّكْلُ الَّذِي كَانَ مَوْجُودًا؟"
+  },
+  {
+    "id": "ar_focus_question_128a84532126",
+    "file": "/audio/ar_focus_question_128a84532126.mp3",
+    "lang": "ar",
+    "category": "focus_question",
+    "text": "مَا هُمَا الشَّيْئَانِ اللَّذَانِ اخْتَفَيَا؟"
+  },
+  {
+    "id": "ar_focus_question_95d31e564cf2",
+    "file": "/audio/ar_focus_question_95d31e564cf2.mp3",
+    "lang": "ar",
+    "category": "focus_question",
+    "text": "مَا هُوَ الشَّكْلُ الَّذِي اخْتَفَى؟"
+  },
+  {
+    "id": "ar_focus_prompt_19ce8a5da102",
+    "file": "/audio/ar_focus_prompt_19ce8a5da102.mp3",
+    "lang": "ar",
+    "category": "focus_prompt",
+    "text": "شَاهِدِ الْأَشْكَالَ مَرَّةً أُخْرَى بِهُدُوءٍ"
+  },
+  {
+    "id": "ar_focus_praise_prefix_1670abc3b760",
+    "file": "/audio/ar_focus_praise_prefix_1670abc3b760.mp3",
+    "lang": "ar",
+    "category": "focus_praise_prefix",
+    "text": "أَحْسَنْتَ! الشَّكْلُ الَّذِي اخْتَفَى هُوَ"
+  },
+  {
+    "id": "ar_animal_voice_2abbff3418f4",
+    "file": "/audio/ar_animal_voice_2abbff3418f4.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ الْقِطَّةُ هُوَ الْمُوَاءُ .. مِيَاوْ مِيَاوْ!"
+  },
+  {
+    "id": "ar_animal_desc_b9f4bf8828d1",
+    "file": "/audio/ar_animal_desc_b9f4bf8828d1.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "الْقِطَّةُ. حَيَوَانٌ أَلِيفٌ جَمِيلٌ وَنَظِيفٌ، يُحِبُّ اللَّعِبَ وَيَمْسَحُ فَرْوَهُ بِعِنَايَةٍ.. طَعَامُهُ: تُحِبُّ شُرْبَ الْحَلِيبِ وَالْأَسْمَاكَ الطَّازَجَةَ.. بِيئَتُهُ: تَعِيشُ فِي الْبُيُوتِ مَعَ الْإِنْسَانِ أَوْ فِي الْحَدَائِقِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_aee2d57728cd",
+    "file": "/audio/ar_animal_quiz_praise_aee2d57728cd.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ الْقِطَّةُ"
+  },
+  {
+    "id": "ar_animal_name_4dab7e32597d",
+    "file": "/audio/ar_animal_name_4dab7e32597d.mp3",
+    "lang": "ar",
+    "category": "animal_name",
+    "text": "الْأَرْنَبُ"
+  },
+  {
+    "id": "ar_animal_voice_f3bc3742f94b",
+    "file": "/audio/ar_animal_voice_f3bc3742f94b.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ الْأَرْنَبُ هُوَ صَوْتٌ خَفِيفٌ .. طَقْ طَقْ!"
+  },
+  {
+    "id": "ar_animal_desc_f81d39b627e8",
+    "file": "/audio/ar_animal_desc_f81d39b627e8.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "الْأَرْنَبُ. حَيَوَانٌ ظَرِيفٌ لَهُ أُذُنَانِ طَوِيلَتَانِ يَسْمَعُ بِهِمَا جَيِّدًا وَيَقْفِزُ بِرَشَاقَةٍ.. طَعَامُهُ: يَعْشَقُ الْجَزَرَ وَالْخَسَّ وَالْأَعْشَابَ الْخَضْرَاءَ.. بِيئَتُهُ: يَعِيشُ فِي جُحُورٍ دَافِئَةٍ تَحْتَ الْأَرْضِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_994ba9d071a3",
+    "file": "/audio/ar_animal_quiz_praise_994ba9d071a3.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ الْأَرْنَبُ"
+  },
+  {
+    "id": "ar_animal_name_a4310bd5123b",
+    "file": "/audio/ar_animal_name_a4310bd5123b.mp3",
+    "lang": "ar",
+    "category": "animal_name",
+    "text": "السَّمَكَةُ"
+  },
+  {
+    "id": "ar_animal_voice_229c8ea4fd5b",
+    "file": "/audio/ar_animal_voice_229c8ea4fd5b.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ السَّمَكَةُ هُوَ فَقَاقِيعُ الْمَاءِ .. بَلْبَلَةُ الْمَاءِ!"
+  },
+  {
+    "id": "ar_animal_desc_45818ffbb21a",
+    "file": "/audio/ar_animal_desc_45818ffbb21a.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "السَّمَكَةُ. تَسْبَحُ بِحُرِّيَّةٍ فِي الْمَاءِ بِاسْتِخْدَامِ زَعَانِفِهَا الْمُلَوَّنَةِ.. طَعَامُهُ: تَتَغَذَّى عَلَى نَبَاتَاتِ الْمَاءِ الصَّغِيرَةِ.. بِيئَتُهُ: تَعِيشُ فِي الْبِحَارِ وَالْأَنْهَارِ وَالْبُحَيْرَاتِ الْعَذْبَةِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_fc0280a6fec8",
+    "file": "/audio/ar_animal_quiz_praise_fc0280a6fec8.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ السَّمَكَةُ"
+  },
+  {
+    "id": "ar_animal_name_b644694d31f4",
+    "file": "/audio/ar_animal_name_b644694d31f4.mp3",
+    "lang": "ar",
+    "category": "animal_name",
+    "text": "الْأَسَدُ"
+  },
+  {
+    "id": "ar_animal_voice_4a2f74f3f20c",
+    "file": "/audio/ar_animal_voice_4a2f74f3f20c.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ الْأَسَدُ هُوَ الزَّئِيرُ .. رَوْوَوور!"
+  },
+  {
+    "id": "ar_animal_desc_65584e093773",
+    "file": "/audio/ar_animal_desc_65584e093773.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "الْأَسَدُ. يُلَقَّبُ بِمَلِكِ الْغَابَةِ، لَهُ فَرْوٌ ذَهَبِيٌّ وَهُوَ قَوِيٌّ وَشُجَاعٌ.. طَعَامُهُ: يَأْكُلُ اللَّحْمَ فِي الْبَرِّيَّةِ.. بِيئَتُهُ: يَعِيشُ فِي غَابَاتِ وَسُهُولِ السَّافَانَا الْوَاسِعَةِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_7bbd9cc89b25",
+    "file": "/audio/ar_animal_quiz_praise_7bbd9cc89b25.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ الْأَسَدُ"
+  },
+  {
+    "id": "ar_animal_name_8b1dc660202d",
+    "file": "/audio/ar_animal_name_8b1dc660202d.mp3",
+    "lang": "ar",
+    "category": "animal_name",
+    "text": "الْحِصَانُ"
+  },
+  {
+    "id": "ar_animal_voice_19489aa40ebb",
+    "file": "/audio/ar_animal_voice_19489aa40ebb.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ الْحِصَانُ هُوَ الصَّهِيلُ .. حِييييه!"
+  },
+  {
+    "id": "ar_animal_desc_4b5e8d971136",
+    "file": "/audio/ar_animal_desc_4b5e8d971136.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "الْحِصَانُ. حَيَوَانٌ أَصِيلٌ وَرَشِيقٌ، لَهُ عُرْفٌ جَمِيلٌ وَيَرْكُضُ بِسُرْعَةٍ فَائِقَةٍ.. طَعَامُهُ: يَأْكُلُ الْعُشْبَ الْأَخْضَرَ وَالشَّعِيرَ النَّقِيَّ.. بِيئَتُهُ: يَعِيشُ فِي الْمَرَاعِي الْوَاسِعَةِ وَالْإِسْطَبْلِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_e6afb3d9b138",
+    "file": "/audio/ar_animal_quiz_praise_e6afb3d9b138.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ الْحِصَانُ"
+  },
+  {
+    "id": "ar_animal_name_8894e31aa370",
+    "file": "/audio/ar_animal_name_8894e31aa370.mp3",
+    "lang": "ar",
+    "category": "animal_name",
+    "text": "الْجَمَلُ"
+  },
+  {
+    "id": "ar_animal_voice_21d4a8faaa4f",
+    "file": "/audio/ar_animal_voice_21d4a8faaa4f.mp3",
+    "lang": "ar",
+    "category": "animal_voice",
+    "text": "صَوْتُ الْجَمَلُ هُوَ الرُّغَاءُ .. رُوووغ!"
+  },
+  {
+    "id": "ar_animal_desc_5c3d79fb255e",
+    "file": "/audio/ar_animal_desc_5c3d79fb255e.mp3",
+    "lang": "ar",
+    "category": "animal_desc",
+    "text": "الْجَمَلُ. يُلَقَّبُ بِسَفِينَةِ الصَّحْرَاءِ، صَبُورٌ جِدًّا وَيَتَحَمَّلُ الْحَرَّ وَالْعَطَشَ.. طَعَامُهُ: يَأْكُلُ النَّبَاتَاتِ الصَّحْرَاوِيَّةَ وَالْأَشْوَاكَ.. بِيئَتُهُ: يَعِيشُ فِي الصَّحْرَاءِ ذَاتِ الرِّمَالِ الذَّهَبِيَّةِ."
+  },
+  {
+    "id": "ar_animal_quiz_praise_32b8b084fd19",
+    "file": "/audio/ar_animal_quiz_praise_32b8b084fd19.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_praise",
+    "text": "أَحْسَنْتَ يَا بَطَلُ! إِجَابَةٌ صَحِيحَةٌ! هَذَا هُوَ الْجَمَلُ"
+  },
+  {
+    "id": "ar_animal_quiz_question_6e4c550030f6",
+    "file": "/audio/ar_animal_quiz_question_6e4c550030f6.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ هُوَ الْحَيَوَانُ الْأَلِيفُ الَّذِي يَقُولُ مِيَاوْ مِيَاوْ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_c44319f8cb0a",
+    "file": "/audio/ar_animal_quiz_question_c44319f8cb0a.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ لَهُ أُذُنَانِ طَوِيلَتَانِ وَيَقْفِزُ بِرَشَاقَةٍ وَيَأْكُلُ الْجَزَرَ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_52812d2be5b1",
+    "file": "/audio/ar_animal_quiz_question_52812d2be5b1.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يَسْبَحُ فِي الْمَاءِ بِحُرِّيَّةٍ بِاسْتِخْدَامِ زَعَانِفِهِ الْمُلَوَّنَةِ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_1fd1fc2b2762",
+    "file": "/audio/ar_animal_quiz_question_1fd1fc2b2762.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يُلَقَّبُ بِمَلِكِ الْغَابَةِ الشُّجَاعِ ذِي الزَّئِيرِ الْقَوِيِّ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_40b00a5ae462",
+    "file": "/audio/ar_animal_quiz_question_40b00a5ae462.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ هُوَ الْحَيَوَانُ السَّرِيعُ الْأَصِيلُ الَّذِي صَوْتُهُ الصَّهِيلُ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_8d480d8c6aa3",
+    "file": "/audio/ar_animal_quiz_question_8d480d8c6aa3.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يُسَمَّى سَفِينَةَ الصَّحْرَاءِ وَيَتَحَمَّلُ الْحَرَّ وَالْعَطَشَ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_03fec53dd4b4",
+    "file": "/audio/ar_animal_quiz_question_03fec53dd4b4.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يَعِيشُ فِي الْبُيُوتِ مَعَ الْإِنْسَانِ وَيَمْسَحُ فَرْوَهُ بِنَظَافَةٍ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_a1538910003c",
+    "file": "/audio/ar_animal_quiz_question_a1538910003c.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يَعْشَقُ أَكْلَ الْخَسِّ وَالْجَزَرِ الطَّازَجِ وَأُذُنَاهُ طَوِيلَتَانِ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_1b982cf60d2a",
+    "file": "/audio/ar_animal_quiz_question_1b982cf60d2a.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يَعِيشُ فِي الْإِسْطَبْلِ وَيَأْكُلُ الشَّعِيرَ وَالْعُشْبَ الْأَخْضَرَ؟"
+  },
+  {
+    "id": "ar_animal_quiz_question_029550ed4c97",
+    "file": "/audio/ar_animal_quiz_question_029550ed4c97.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_question",
+    "text": "مَنْ يَشْرَبُ الْمَاءَ وَيَسِيرُ مَسَافَاتٍ طَوِيلَةً فَوْقَ الرِّمَالِ؟"
+  },
+  {
+    "id": "ar_animal_quiz_retry_883f2dac3268",
+    "file": "/audio/ar_animal_quiz_retry_883f2dac3268.mp3",
+    "lang": "ar",
+    "category": "animal_quiz_retry",
+    "text": "حَاوِلْ مَرَّةً أُخْرَى، اسْتَمِعْ لِلسُّؤَالِ جَيِّدًا!"
+  },
+  {
+    "id": "ar_chem_welcome_46ff51322e50",
+    "file": "/audio/ar_chem_welcome_46ff51322e50.mp3",
+    "lang": "ar",
+    "category": "chem_welcome",
+    "text": "أَهْلًا بِكَ فِي مُخْتَبَرِ الْكِيمْيَاءِ الْبَسِيطَةِ! هَيَّا نَكْتَشِفْ سِرَّ الْمَاءِ وَالْأَلْوَانِ مَعًا!"
+  },
+  {
+    "id": "ar_chem_topic_4d951de9bf69",
+    "file": "/audio/ar_chem_topic_4d951de9bf69.mp3",
+    "lang": "ar",
+    "category": "chem_topic",
+    "text": "حَالَاتُ الْمَاءِ السِّحْرِيَّةُ .. الْمَاءُ فِي الْحَرَارَةِ الْعَادِيَّةِ يَكُونُ سَائِلًا نَشْرَبُهُ، عِنْدَمَا نُبَرِّدُهُ فِي الثَّلَّاجَةِ يُصْبِحُ ثَلْجًا صَلْبًا، وَعِنْدَمَا نُسَخِّنُهُ يَتَصَاعَدُ بُخَارًا فِي الْهَوَاءِ!"
+  },
+  {
+    "id": "ar_chem_fact_232ccc786a19",
+    "file": "/audio/ar_chem_fact_232ccc786a19.mp3",
+    "lang": "ar",
+    "category": "chem_fact",
+    "text": "الْمَاءُ فِي الْحَرَارَةِ الْعَادِيَّةِ يَكُونُ سَائِلًا نَشْرَبُهُ، عِنْدَمَا نُبَرِّدُهُ فِي الثَّلَّاجَةِ يُصْبِحُ ثَلْجًا صَلْبًا، وَعِنْدَمَا نُسَخِّنُهُ يَتَصَاعَدُ بُخَارًا فِي الْهَوَاءِ!. مَعْلُومَةٌ مُمْتِعَةٌ: الْمَاءُ هُوَ الْمَادَّةُ الْوَحِيدَةُ الَّتِي نَرَاهَا بِسُهُولَةٍ فِي حَالَاتِهَا الثَّلَاثِ!"
+  },
+  {
+    "id": "ar_chem_topic_51dabbea7adb",
+    "file": "/audio/ar_chem_topic_51dabbea7adb.mp3",
+    "lang": "ar",
+    "category": "chem_topic",
+    "text": "سِحْرُ خَلْطِ الْأَلْوَانِ .. عِنْدَمَا نَخْلِطُ الْأَحْمَرَ مَعَ الْأَصْفَرِ يَتَكَوَّنُ اللَّوْنُ الْبُرْتُقَالِيُّ! وَعِنْدَمَا نَخْلِطُ الْأَزْرَقَ مَعَ الْأَصْفَرِ يَتَكَوَّنُ اللَّوْنُ الْأَخْضَرُ!"
+  },
+  {
+    "id": "ar_chem_fact_5c0130c6dad9",
+    "file": "/audio/ar_chem_fact_5c0130c6dad9.mp3",
+    "lang": "ar",
+    "category": "chem_fact",
+    "text": "عِنْدَمَا نَخْلِطُ الْأَحْمَرَ مَعَ الْأَصْفَرِ يَتَكَوَّنُ اللَّوْنُ الْبُرْتُقَالِيُّ! وَعِنْدَمَا نَخْلِطُ الْأَزْرَقَ مَعَ الْأَصْفَرِ يَتَكَوَّنُ اللَّوْنُ الْأَخْضَرُ!. مَعْلُومَةٌ مُمْتِعَةٌ: كُلُّ أَلْوَانِ قَوْسِ قُزَحِ تَتَكَوَّنُ مِنْ مَزْجِ أَلْوَانٍ بَسِيطَةٍ!"
+  },
+  {
+    "id": "ar_chem_topic_ccdf8dc2b527",
+    "file": "/audio/ar_chem_topic_ccdf8dc2b527.mp3",
+    "lang": "ar",
+    "category": "chem_topic",
+    "text": "مَنْ يَطْفُو وَمَنْ يَغْرَقُ؟ .. الْأَشْيَاءُ الْخَفِيفَةُ الَّتِي تَحْبِسُ الْهَوَاءَ مِثْلَ التُّفَّاحِ وَالْخَشَبِ تَطْفُو فَوْقَ الْمَاءِ، بَيْنَمَا الْأَشْيَاءُ الثَّقِيلَةُ مِثْلَ الْحَجَرِ تَغْرَقُ فِي الْقَاعِ."
+  },
+  {
+    "id": "ar_chem_fact_17ea113a3c5d",
+    "file": "/audio/ar_chem_fact_17ea113a3c5d.mp3",
+    "lang": "ar",
+    "category": "chem_fact",
+    "text": "الْأَشْيَاءُ الْخَفِيفَةُ الَّتِي تَحْبِسُ الْهَوَاءَ مِثْلَ التُّفَّاحِ وَالْخَشَبِ تَطْفُو فَوْقَ الْمَاءِ، بَيْنَمَا الْأَشْيَاءُ الثَّقِيلَةُ مِثْلَ الْحَجَرِ تَغْرَقُ فِي الْقَاعِ.. مَعْلُومَةٌ مُمْتِعَةٌ: السَّفِينَةُ الْعِمْلَاقَةُ تَطْفُو لِأَنَّهَا مُصَمَّمَةٌ بِشَكْلٍ يَحْبِسُ الْهَوَاءَ!"
+  },
+  {
+    "id": "ar_chem_topic_321f0c1b36f1",
+    "file": "/audio/ar_chem_topic_321f0c1b36f1.mp3",
+    "lang": "ar",
+    "category": "chem_topic",
+    "text": "أَيْنَ اخْتَفَى السُّكَّرُ؟ (الذَّوَبَانُ) .. عِنْدَمَا نَضَعُ مِلْعَقَةَ سُكَّرٍ فِي كَوْبِ مَاءٍ وَنُحَرِّكُهَا، يَذُوبُ السُّكَّرُ وَيَخْتَفِي تَمَامًا لِيُصْبِحَ الْمَاءُ حُلْوًا، بَيْنَمَا الرَّمْلُ لَا يَذُوبُ!"
+  },
+  {
+    "id": "ar_chem_fact_51a4ac7c261d",
+    "file": "/audio/ar_chem_fact_51a4ac7c261d.mp3",
+    "lang": "ar",
+    "category": "chem_fact",
+    "text": "عِنْدَمَا نَضَعُ مِلْعَقَةَ سُكَّرٍ فِي كَوْبِ مَاءٍ وَنُحَرِّكُهَا، يَذُوبُ السُّكَّرُ وَيَخْتَفِي تَمَامًا لِيُصْبِحَ الْمَاءُ حُلْوًا، بَيْنَمَا الرَّمْلُ لَا يَذُوبُ!. مَعْلُومَةٌ مُمْتِعَةٌ: الْمَاءُ يُسَمَّى الْمُذِيبَ السِّحْرِيَّ لِأَنَّهُ يُذِيبُ أَشْيَاءَ كَثِيرَةً نَسْتَفِيدُ مِنْهَا!"
+  },
+  {
+    "id": "ar_chem_water_438b66e916d5",
+    "file": "/audio/ar_chem_water_438b66e916d5.mp3",
+    "lang": "ar",
+    "category": "chem_water",
+    "text": "عِنْدَ التَّبْرِيدِ الشَّدِيدِ يَتَحَوَّلُ الْمَاءُ إِلَى ثَلْجٍ صَلْبٍ يُمْكِنُ إِمْسَاكُهُ!"
+  },
+  {
+    "id": "ar_chem_water_b81450d00a36",
+    "file": "/audio/ar_chem_water_b81450d00a36.mp3",
+    "lang": "ar",
+    "category": "chem_water",
+    "text": "فِي حَرَارَةِ الْغُرْفَةِ يَكُونُ الْمَاءُ سَائِلًا عَذْبًا نَشْرَبُهُ وَنَسْبَحُ فِيهِ!"
+  },
+  {
+    "id": "ar_chem_water_80c5c4a7afda",
+    "file": "/audio/ar_chem_water_80c5c4a7afda.mp3",
+    "lang": "ar",
+    "category": "chem_water",
+    "text": "عِنْدَ التَّسْخِينِ عَلَى النَّارِ يَتَصَاعَدُ الْمَاءُ فِي الْهَوَاءِ عَلَى شَكْلِ بُخَارٍ!"
+  },
+  {
+    "id": "ar_chem_color_mix_531690636ed9",
+    "file": "/audio/ar_chem_color_mix_531690636ed9.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْبُرْتُقَالِيَّ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_color_mix_9a9fd56e1306",
+    "file": "/audio/ar_chem_color_mix_9a9fd56e1306.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْأَخْضَرَ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_color_mix_474f2164bdf6",
+    "file": "/audio/ar_chem_color_mix_474f2164bdf6.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْبَنَفْسَجِيَّ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_color_mix_f86204929342",
+    "file": "/audio/ar_chem_color_mix_f86204929342.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْأَحْمَرَ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_color_mix_9cf8d6ac58de",
+    "file": "/audio/ar_chem_color_mix_9cf8d6ac58de.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْأَصْفَرَ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_color_mix_97df580149a6",
+    "file": "/audio/ar_chem_color_mix_97df580149a6.mp3",
+    "lang": "ar",
+    "category": "chem_color_mix",
+    "text": "عِنْدَمَا مَزَجْنَا اللَّوْنَيْنِ، تَكَوَّنَ اللَّوْنُ الْأَزْرَقَ! سِحْرُ الْكِيمْيَاءِ!"
+  },
+  {
+    "id": "ar_chem_float_a541ddf91c45",
+    "file": "/audio/ar_chem_float_a541ddf91c45.mp3",
+    "lang": "ar",
+    "category": "chem_float",
+    "text": "تُفَّاحَةٌ لَذِيذَةٌ تَطْفُو فَوْقَ الْمَاءِ لِأَنَّهَا خَفِيفَةٌ!"
+  },
+  {
+    "id": "ar_chem_float_ee3d11d9eb63",
+    "file": "/audio/ar_chem_float_ee3d11d9eb63.mp3",
+    "lang": "ar",
+    "category": "chem_float",
+    "text": "قِطْعَةُ خَشَبٍ تَطْفُو فَوْقَ الْمَاءِ لِأَنَّهَا خَفِيفَةٌ!"
+  },
+  {
+    "id": "ar_chem_sink_1572697f4818",
+    "file": "/audio/ar_chem_sink_1572697f4818.mp3",
+    "lang": "ar",
+    "category": "chem_sink",
+    "text": "حَجَرٌ صَغِيرٌ غَرِقَتْ فِي قَاعِ الْمَاءِ لِأَنَّهَا ثَقِيلَةٌ!"
+  },
+  {
+    "id": "ar_chem_sink_8028f6dd1bc7",
+    "file": "/audio/ar_chem_sink_8028f6dd1bc7.mp3",
+    "lang": "ar",
+    "category": "chem_sink",
+    "text": "مِفْتَاحٌ مَعْدِنِيٌّ غَرِقَتْ فِي قَاعِ الْمَاءِ لِأَنَّهَا ثَقِيلَةٌ!"
+  },
+  {
+    "id": "ar_chem_dissolve_e27a75d837f8",
+    "file": "/audio/ar_chem_dissolve_e27a75d837f8.mp3",
+    "lang": "ar",
+    "category": "chem_dissolve",
+    "text": "عِنْدَ تَحْرِيكِ السُّكَّرِ فِي الْمَاءِ يَذُوبُ تَمَامًا وَيَخْتَفِي، وَيُصْبِحُ الْمَاءُ كُلُّهُ حُلْوَ الْمَذَاقِ!"
+  },
+  {
+    "id": "ar_chem_dissolve_613517d82af5",
+    "file": "/audio/ar_chem_dissolve_613517d82af5.mp3",
+    "lang": "ar",
+    "category": "chem_dissolve",
+    "text": "الرَّمْلُ لَا يَذُوبُ فِي الْمَاءِ، بَلْ يَبْقَى فِي الْأَسْفَلِ لِأَنَّ حَبَّاتِهِ لَا تَذُوبُ!"
+  },
+  {
+    "id": "ar_coloring_color_cd9739d9a053",
+    "file": "/audio/ar_coloring_color_cd9739d9a053.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ أَحْمَر"
+  },
+  {
+    "id": "ar_coloring_color_37efa91a5be3",
+    "file": "/audio/ar_coloring_color_37efa91a5be3.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ أَصْفَر"
+  },
+  {
+    "id": "ar_coloring_color_544cdb3e5e6b",
+    "file": "/audio/ar_coloring_color_544cdb3e5e6b.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ أَزْرَق"
+  },
+  {
+    "id": "ar_coloring_color_0a4d1285cc55",
+    "file": "/audio/ar_coloring_color_0a4d1285cc55.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ أَخْضَر"
+  },
+  {
+    "id": "ar_coloring_color_7a58f4a2f18e",
+    "file": "/audio/ar_coloring_color_7a58f4a2f18e.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ بُرْتُقَالِي"
+  },
+  {
+    "id": "ar_coloring_color_f3971b0ddce7",
+    "file": "/audio/ar_coloring_color_f3971b0ddce7.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ بَنَفْسَجِي"
+  },
+  {
+    "id": "ar_coloring_color_d67e6bfb65e7",
+    "file": "/audio/ar_coloring_color_d67e6bfb65e7.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ وَرْدِي"
+  },
+  {
+    "id": "ar_coloring_color_bdeea7058be9",
+    "file": "/audio/ar_coloring_color_bdeea7058be9.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ بُنِّي"
+  },
+  {
+    "id": "ar_coloring_color_4cf599f0e28f",
+    "file": "/audio/ar_coloring_color_4cf599f0e28f.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ سَمَاوِي"
+  },
+  {
+    "id": "ar_coloring_color_85be27feae20",
+    "file": "/audio/ar_coloring_color_85be27feae20.mp3",
+    "lang": "ar",
+    "category": "coloring_color",
+    "text": "لَوْنُ أَبْيَض"
+  },
+  {
+    "id": "ar_coloring_praise_87f0834235bb",
+    "file": "/audio/ar_coloring_praise_87f0834235bb.mp3",
+    "lang": "ar",
+    "category": "coloring_praise",
+    "text": "لَوْحَةٌ فَنِّيَّةٌ رَائِعَةٌ يَا فَنَّانِي الصَّغِير! أَنْتَ مَوْهُوبٌ جِدًّا!"
+  },
+  {
+    "id": "ar_game_shape_praise_aba5738c25dc",
+    "file": "/audio/ar_game_shape_praise_aba5738c25dc.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُثَلَّثُ (لَهُ 3 أَضْلَاعٍ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_66763f5859af",
+    "file": "/audio/ar_game_shape_praise_66763f5859af.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الدَّائِرَةُ (مُسْتَدِيرَةٌ كَالشَّمْسِ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_19c043195e54",
+    "file": "/audio/ar_game_shape_praise_19c043195e54.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُرَبَّعُ (أَضْلَاعُهُ الْأَرْبَعَةُ مُتَسَاوِيَةٌ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_f873e1a53a00",
+    "file": "/audio/ar_game_shape_praise_f873e1a53a00.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُسْتَطِيلُ (شَكْلُهُ مِثْلُ الْبَابِ أَوِ الدَّفْتَرِ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_c55f7867821d",
+    "file": "/audio/ar_game_shape_praise_c55f7867821d.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُثَلَّثُ (مِثْلُ قِطْعَةِ الْجُبْنِ أَوِ الْهَرَمِ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_a71413d8cdff",
+    "file": "/audio/ar_game_shape_praise_a71413d8cdff.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الدَّائِرَةُ (مِثْلُ السَّاعَةِ أَوِ الصَّحْنِ)!"
+  },
+  {
+    "id": "ar_game_shape_praise_3a26edb877ce",
+    "file": "/audio/ar_game_shape_praise_3a26edb877ce.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُرَبَّعُ (مِثْلُ صُنْدُوقِ الْهَدَايَا)!"
+  },
+  {
+    "id": "ar_game_shape_praise_a1bb7ddc3001",
+    "file": "/audio/ar_game_shape_praise_a1bb7ddc3001.mp3",
+    "lang": "ar",
+    "category": "game_shape_praise",
+    "text": "أَحْسَنْتَ يَا عَبْقَرِيّ! هَذَا هُوَ الْمُسْتَطِيلُ (لَهُ ضِلْعَانِ طَوِيلَانِ وَضِلْعَانِ قَصِيرَانِ)!"
+  },
+  {
+    "id": "ar_game_shape_retry_1b27f9705129",
+    "file": "/audio/ar_game_shape_retry_1b27f9705129.mp3",
+    "lang": "ar",
+    "category": "game_shape_retry",
+    "text": "حَاوِلْ مَرَّةً أُخْرَى، تَأَمَّلْ عَدَدَ الْأَضْلَاعِ وَالانْحِنَاءَاتِ!"
+  },
+  {
+    "id": "ar_game_pattern_praise_7fa666a320a8",
+    "file": "/audio/ar_game_pattern_praise_7fa666a320a8.mp3",
+    "lang": "ar",
+    "category": "game_pattern_praise",
+    "text": "إِجَابَةٌ ذَكِيَّةٌ جِدًّا! لَقَدِ اكْتَشَفْتَ النَّمَطَ الصَّحِيحَ!"
+  },
+  {
+    "id": "ar_game_pattern_retry_8cceb75e50e9",
+    "file": "/audio/ar_game_pattern_retry_8cceb75e50e9.mp3",
+    "lang": "ar",
+    "category": "game_pattern_retry",
+    "text": "انْظُرْ لِلتَّسَلْسُلِ مَرَّةً أُخْرَى، مَا هُوَ الشَّكْلُ الَّذِي يَتَكَرَّرُ؟"
+  },
+  {
+    "id": "ar_game_match_praise_e2f8b95d7fbd",
+    "file": "/audio/ar_game_match_praise_e2f8b95d7fbd.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ أَبٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_bf73d0efe4f6",
+    "file": "/audio/ar_game_match_praise_bf73d0efe4f6.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ أُمٌّ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_8789937dd7d9",
+    "file": "/audio/ar_game_match_praise_8789937dd7d9.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ شَجَرَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_3db8be87cff3",
+    "file": "/audio/ar_game_match_praise_3db8be87cff3.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ مَدْرَسَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_20bf54089983",
+    "file": "/audio/ar_game_match_praise_20bf54089983.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ كِتَابٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_35924d65afcc",
+    "file": "/audio/ar_game_match_praise_35924d65afcc.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ قِطَّةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_b860c8146235",
+    "file": "/audio/ar_game_match_praise_b860c8146235.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ بَيْتٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_01c384adf725",
+    "file": "/audio/ar_game_match_praise_01c384adf725.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ زَهْرَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_f19f401387f3",
+    "file": "/audio/ar_game_match_praise_f19f401387f3.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ شَمْسٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_e699e9eed002",
+    "file": "/audio/ar_game_match_praise_e699e9eed002.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ سَمَكَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_d2fdf428a62a",
+    "file": "/audio/ar_game_match_praise_d2fdf428a62a.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ تُفَّاحَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_8937c3a6f1a4",
+    "file": "/audio/ar_game_match_praise_8937c3a6f1a4.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ سَيَّارَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_c1fdfdbbc46b",
+    "file": "/audio/ar_game_match_praise_c1fdfdbbc46b.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ كُرَةٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_abc12b8019bc",
+    "file": "/audio/ar_game_match_praise_abc12b8019bc.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ أَرْنَبٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_5e1a1e404002",
+    "file": "/audio/ar_game_match_praise_5e1a1e404002.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ حِصَانٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_d564522efdd0",
+    "file": "/audio/ar_game_match_praise_d564522efdd0.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ جَمَلٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_praise_84e4c4a80941",
+    "file": "/audio/ar_game_match_praise_84e4c4a80941.mp3",
+    "lang": "ar",
+    "category": "game_match_praise",
+    "text": "صَحِيح! هَذِهِ كَلِمَةُ أَسَدٌ! أَنْتَ ذَكِيٌّ جِدًّا!"
+  },
+  {
+    "id": "ar_game_match_retry_91a9b53dc288",
+    "file": "/audio/ar_game_match_retry_91a9b53dc288.mp3",
+    "lang": "ar",
+    "category": "game_match_retry",
+    "text": "حَاوِلْ مَرَّةً أُخْرَى، انْظُرْ لِلصُّورَةِ جَيِّدًا!"
+  },
+  {
+    "id": "ar_game_memory_praise_855cf9571be9",
+    "file": "/audio/ar_game_memory_praise_855cf9571be9.mp3",
+    "lang": "ar",
+    "category": "game_memory_praise",
+    "text": "أَحْسَنْت! تَطَابَقَ نجمة!"
+  },
+  {
+    "id": "ar_game_memory_praise_3ffe38d89810",
+    "file": "/audio/ar_game_memory_praise_3ffe38d89810.mp3",
+    "lang": "ar",
+    "category": "game_memory_praise",
+    "text": "أَحْسَنْت! تَطَابَقَ تفاحة!"
+  },
+  {
+    "id": "ar_game_memory_praise_f0ab4ea0577b",
+    "file": "/audio/ar_game_memory_praise_f0ab4ea0577b.mp3",
+    "lang": "ar",
+    "category": "game_memory_praise",
+    "text": "أَحْسَنْت! تَطَابَقَ سيارة!"
+  },
+  {
+    "id": "ar_avatar_cheer_86b6b4383ec1",
+    "file": "/audio/ar_avatar_cheer_86b6b4383ec1.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "أَهْلًا بِالْمُسْتَكْشِفِ الصَّغِيرِ! هَيَّا نَسْتَكْشِفْ عَالَمَ التَّعَلُّمِ مَعًا!"
+  },
+  {
+    "id": "en_avatar_cheer_166358f88136",
+    "file": "/audio/en_avatar_cheer_166358f88136.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "Welcome Little Explorer! Let us discover the joyful world of learning together!"
+  },
+  {
+    "id": "ar_avatar_confirm_d657cf9d8a27",
+    "file": "/audio/ar_avatar_confirm_d657cf9d8a27.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ الْمُسْتَكْشِفُ الصَّغِيرُ!"
+  },
+  {
+    "id": "en_avatar_confirm_b0a2653fa561",
+    "file": "/audio/en_avatar_confirm_b0a2653fa561.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Little Explorer!"
+  },
+  {
+    "id": "ar_avatar_cheer_65187b3da1ca",
+    "file": "/audio/ar_avatar_cheer_65187b3da1ca.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "أَهْلًا بِالْفَنَّانَةِ الْمُبْدِعَةِ! يَوْمُنَا مَلِيءٌ بِالْأَلْوَانِ وَالْفَرَحِ!"
+  },
+  {
+    "id": "en_avatar_cheer_f0d950efd609",
+    "file": "/audio/en_avatar_cheer_f0d950efd609.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "Hello Creative Artist! Our day is full of colors, imagination, and fun!"
+  },
+  {
+    "id": "ar_avatar_confirm_d6a00bd56d32",
+    "file": "/audio/ar_avatar_confirm_d6a00bd56d32.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ الْفَنَّانَةُ الْمُبْدِعَةُ!"
+  },
+  {
+    "id": "en_avatar_confirm_097857c5002f",
+    "file": "/audio/en_avatar_confirm_097857c5002f.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Creative Artist!"
+  },
+  {
+    "id": "ar_avatar_cheer_e55670f64f74",
+    "file": "/audio/ar_avatar_cheer_e55670f64f74.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "مَرْحَبًا يَا رَائِدَ الْفَضَاءِ الصَّغِيرَ! سَنَنْطَلِقُ إِلَى قِمَّةِ النَّجَاحِ!"
+  },
+  {
+    "id": "en_avatar_cheer_fb0779670ac0",
+    "file": "/audio/en_avatar_cheer_fb0779670ac0.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "Hello Little Astronaut! We will launch together toward the stars of success!"
+  },
+  {
+    "id": "ar_avatar_confirm_899785ade9e0",
+    "file": "/audio/ar_avatar_confirm_899785ade9e0.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ رَائِدُ الْفَضَاءِ!"
+  },
+  {
+    "id": "en_avatar_confirm_1ff8b591f898",
+    "file": "/audio/en_avatar_confirm_1ff8b591f898.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Little Astronaut!"
+  },
+  {
+    "id": "ar_avatar_cheer_5fd3fcb146b2",
+    "file": "/audio/ar_avatar_cheer_5fd3fcb146b2.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "يَا لَهُ مِنْ صَقْرٍ رَائِعٍ! أَنْتَ سَرِيعُ الْفَهْمِ وَالنَّبَاهَةِ!"
+  },
+  {
+    "id": "en_avatar_cheer_ae828a5dc76a",
+    "file": "/audio/en_avatar_cheer_ae828a5dc76a.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "What a magnificent falcon! You are swift, bright, and observant!"
+  },
+  {
+    "id": "ar_avatar_confirm_644f829d55f8",
+    "file": "/audio/ar_avatar_confirm_644f829d55f8.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ الصَّقْرُ اللَّطِيفُ!"
+  },
+  {
+    "id": "en_avatar_confirm_b9d3fc418065",
+    "file": "/audio/en_avatar_confirm_b9d3fc418065.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Gentle Falcon!"
+  },
+  {
+    "id": "ar_avatar_cheer_0709798cb087",
+    "file": "/audio/ar_avatar_cheer_0709798cb087.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "نَجْمُورُ سَعِيدٌ جِدًّا بِكَ! سَنَتَعَلَّمُ وَنَمْرَحُ كُلَّ يَوْمٍ!"
+  },
+  {
+    "id": "en_avatar_cheer_e8df07a563e9",
+    "file": "/audio/en_avatar_cheer_e8df07a563e9.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "Najmour is so thrilled to be with you! Let us learn and celebrate every single day!"
+  },
+  {
+    "id": "ar_avatar_confirm_78f348cda81e",
+    "file": "/audio/ar_avatar_confirm_78f348cda81e.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ نَجْمُورُ اللَّامِعُ!"
+  },
+  {
+    "id": "en_avatar_confirm_9ee0d3f293cf",
+    "file": "/audio/en_avatar_confirm_9ee0d3f293cf.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Shining Star Najmour!"
+  },
+  {
+    "id": "ar_avatar_cheer_3802e640f5db",
+    "file": "/audio/ar_avatar_cheer_3802e640f5db.mp3",
+    "lang": "ar",
+    "category": "avatar_cheer",
+    "text": "أَنْتَ أَسَدٌ شُجَاعٌ وَقَوِيٌّ! تَقَدَّمْ يَا بَطَلِي!"
+  },
+  {
+    "id": "en_avatar_cheer_3c6767f8f139",
+    "file": "/audio/en_avatar_cheer_3c6767f8f139.mp3",
+    "lang": "en",
+    "category": "avatar_cheer",
+    "text": "You are a strong and brave lion! March forward, little hero!"
+  },
+  {
+    "id": "ar_avatar_confirm_6f29c10b6bdd",
+    "file": "/audio/ar_avatar_confirm_6f29c10b6bdd.mp3",
+    "lang": "ar",
+    "category": "avatar_confirm",
+    "text": "رَائِعٌ جِدًّا! أَصْبَحْتَ الآنَ الْأَسَدُ الشُّجَاعُ!"
+  },
+  {
+    "id": "en_avatar_confirm_5c5c7bb378b6",
+    "file": "/audio/en_avatar_confirm_5c5c7bb378b6.mp3",
+    "lang": "en",
+    "category": "avatar_confirm",
+    "text": "Awesome! You are now Brave Little Lion!"
+  },
+  {
+    "id": "ar_avatar_welcome_a17b5a1b31d7",
+    "file": "/audio/ar_avatar_welcome_a17b5a1b31d7.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا الْبَطَلُ الصَّغِيرُ!"
+  },
+  {
+    "id": "ar_avatar_welcome_d013908da2ef",
+    "file": "/audio/ar_avatar_welcome_d013908da2ef.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا الْمُسْتَكْشِفُ!"
+  },
+  {
+    "id": "ar_avatar_welcome_af0958a696a8",
+    "file": "/audio/ar_avatar_welcome_af0958a696a8.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا الْمُبْدِعُ الذَّكِيُّ!"
+  },
+  {
+    "id": "ar_avatar_welcome_b251c63c8ccb",
+    "file": "/audio/ar_avatar_welcome_b251c63c8ccb.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا الْأَمِيرُ اللَّطِيفُ!"
+  },
+  {
+    "id": "ar_avatar_welcome_98116807a39f",
+    "file": "/audio/ar_avatar_welcome_98116807a39f.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا الْأَمِيرَةُ الْجَمِيلَةُ!"
+  },
+  {
+    "id": "ar_avatar_welcome_8fb335eec560",
+    "file": "/audio/ar_avatar_welcome_8fb335eec560.mp3",
+    "lang": "ar",
+    "category": "avatar_welcome",
+    "text": "أَهْلًا بِكَ يَا نَجْمُ التَّفَوُّقِ!"
+  },
+  {
+    "id": "en_avatar_welcome_3d5480244a85",
+    "file": "/audio/en_avatar_welcome_3d5480244a85.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Little Hero!"
+  },
+  {
+    "id": "en_avatar_welcome_9750b50b2cfe",
+    "file": "/audio/en_avatar_welcome_9750b50b2cfe.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Explorer!"
+  },
+  {
+    "id": "en_avatar_welcome_cd74d897f25f",
+    "file": "/audio/en_avatar_welcome_cd74d897f25f.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Creative Mind!"
+  },
+  {
+    "id": "en_avatar_welcome_c58c6a6afe4f",
+    "file": "/audio/en_avatar_welcome_c58c6a6afe4f.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Super Star!"
+  },
+  {
+    "id": "en_avatar_welcome_044c306e91c0",
+    "file": "/audio/en_avatar_welcome_044c306e91c0.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Little Champion!"
+  },
+  {
+    "id": "en_avatar_welcome_f32caf4120ca",
+    "file": "/audio/en_avatar_welcome_f32caf4120ca.mp3",
+    "lang": "en",
+    "category": "avatar_welcome",
+    "text": "Welcome Curious Brain!"
+  },
+  {
+    "id": "ar_subscription_0f76138e3e34",
+    "file": "/audio/ar_subscription_0f76138e3e34.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم إلغاء عملية الاشتراك من قِبل المستخدم."
+  },
+  {
+    "id": "ar_subscription_b85c317da7ab",
+    "file": "/audio/ar_subscription_b85c317da7ab.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تعذر إتمام عملية الاشتراك عبر متجر Google Play."
+  },
+  {
+    "id": "ar_subscription_29fa9ad56834",
+    "file": "/audio/ar_subscription_29fa9ad56834.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم تأكيد الاشتراك عبر Google Play Billing بنجاح! فُتحت جميع الدروس."
+  },
+  {
+    "id": "ar_subscription_ca57c07b52cd",
+    "file": "/audio/ar_subscription_ca57c07b52cd.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم تأكيد الاشتراك عبر Apple App Store بنجاح! فُتحت جميع الدروس."
+  },
+  {
+    "id": "ar_subscription_627febe8008d",
+    "file": "/audio/ar_subscription_627febe8008d.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم الاشتراك بنجاح! فُتحت جميع الأقسام والدروس."
+  },
+  {
+    "id": "ar_subscription_8716a1e0302a",
+    "file": "/audio/ar_subscription_8716a1e0302a.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تعذر إتمام عملية الدفع. يرجى المحاولة مرة أخرى."
+  },
+  {
+    "id": "ar_subscription_ceff5b527c08",
+    "file": "/audio/ar_subscription_ceff5b527c08.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم استعادة اشتراكك الفعّال بنجاح عبر حساب Google Play!"
+  },
+  {
+    "id": "ar_subscription_84e8e38c7cea",
+    "file": "/audio/ar_subscription_84e8e38c7cea.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم استعادة اشتراكك الفعّال بنجاح عبر حساب Apple ID!"
+  },
+  {
+    "id": "ar_subscription_15b72a40e3c1",
+    "file": "/audio/ar_subscription_15b72a40e3c1.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "تم استعادة اشتراكك الفعّال بنجاح!"
+  },
+  {
+    "id": "ar_subscription_9e4d3a51061a",
+    "file": "/audio/ar_subscription_9e4d3a51061a.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "لم يتم العثور على اشتراكات فعّالة مسجلة بحساب Google Play الحالي."
+  },
+  {
+    "id": "ar_subscription_0ab6b80dcdf5",
+    "file": "/audio/ar_subscription_0ab6b80dcdf5.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "لم يتم العثور على اشتراكات فعّالة مسجلة بحساب Apple ID الحالي."
+  },
+  {
+    "id": "ar_subscription_1f02e2fff2ef",
+    "file": "/audio/ar_subscription_1f02e2fff2ef.mp3",
+    "lang": "ar",
+    "category": "subscription",
+    "text": "لم يتم العثور على اشتراك سابق فعال."
+  }
+]

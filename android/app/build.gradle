@@ -1,0 +1,63 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.lumi.kids'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.lumi.kids"
+        minSdk 24
+        targetSdk 34
+        versionCode 2
+        versionName "1.0.1"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // AdMob App ID loaded from environment variable (empty by default if unconfigured)
+        manifestPlaceholders = [
+            admobAppId: System.getenv("ADMOB_APP_ID") ?: System.getenv("VITE_ADMOB_APP_ID_ANDROID") ?: ""
+        ]
+    }
+
+    signingConfigs {
+        release {
+            storeFile file(System.getenv("RELEASE_STORE_FILE") ?: "release-key.jks")
+            storePassword System.getenv("RELEASE_STORE_PASSWORD") ?: ""
+            keyAlias System.getenv("RELEASE_KEY_ALIAS") ?: ""
+            keyPassword System.getenv("RELEASE_KEY_PASSWORD") ?: ""
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            minifyEnabled false
+            applicationIdSuffix ".debug"
+            debuggable true
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'com.android.billingclient:billing:6.1.0'
+    implementation 'com.google.android.gms:play-services-ads:23.0.0'
+    implementation platform('com.google.firebase:firebase-bom:32.8.0')
+    implementation 'com.google.firebase:firebase-auth'
+    implementation 'com.google.firebase:firebase-firestore'
+    implementation 'com.google.firebase:firebase-analytics'
+}

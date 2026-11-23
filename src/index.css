@@ -1,0 +1,163 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Cairo', 'Noto Naskh Arabic', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+/* Standard schoolbook print font for Arabic with Tashkeel */
+.tashkeel-word {
+  font-family: 'Noto Naskh Arabic', 'Cairo', serif;
+  line-height: 2.1;
+  letter-spacing: 0.03em;
+  word-spacing: 0.12em;
+}
+
+.tashkeel-display-word {
+  font-family: 'Noto Naskh Arabic', 'Cairo', serif;
+  line-height: 2.3;
+  letter-spacing: 0.04em;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  overflow: visible;
+}
+
+
+/* Soft floating animation for friendly mascot */
+@keyframes softFloat {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(2deg);
+  }
+}
+
+@keyframes gentleWiggle {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-5deg);
+  }
+  75% {
+    transform: rotate(5deg);
+  }
+}
+
+.animate-soft-float {
+  animation: softFloat 3s ease-in-out infinite;
+}
+
+.animate-gentle-wiggle {
+  animation: gentleWiggle 2s ease-in-out infinite;
+}
+
+/* Bouncing and animated Tashkeel (harakat) for cognitive focus */
+@keyframes harakaBounce {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  40% {
+    transform: translateY(-14px) scale(1.4);
+  }
+  70% {
+    transform: translateY(-4px) scale(1.15);
+  }
+}
+
+@keyframes harakaPulseGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 4px rgba(245, 158, 11, 0.5));
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    filter: drop-shadow(0 0 16px rgba(245, 158, 11, 1)) drop-shadow(0 0 28px rgba(234, 88, 12, 0.9));
+    transform: translateY(-10px) scale(1.35);
+  }
+}
+
+/* Directional Tashkeel Animations: Fatha/Damma move UP, Kasra moves DOWN */
+@keyframes harakaBounceUp {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  40% {
+    transform: translateY(-16px) scale(1.4);
+  }
+  70% {
+    transform: translateY(-5px) scale(1.15);
+  }
+}
+
+@keyframes harakaBounceDown {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  40% {
+    transform: translateY(16px) scale(1.4);
+  }
+  70% {
+    transform: translateY(5px) scale(1.15);
+  }
+}
+
+@keyframes harakaPulseGlowUp {
+  0%, 100% {
+    filter: drop-shadow(0 0 4px rgba(245, 158, 11, 0.5));
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    filter: drop-shadow(0 0 16px rgba(245, 158, 11, 1)) drop-shadow(0 0 28px rgba(234, 88, 12, 0.9));
+    transform: translateY(-16px) scale(1.35);
+  }
+}
+
+@keyframes harakaPulseGlowDown {
+  0%, 100% {
+    filter: drop-shadow(0 0 4px rgba(16, 185, 129, 0.5));
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    filter: drop-shadow(0 0 16px rgba(16, 185, 129, 1)) drop-shadow(0 0 28px rgba(5, 150, 105, 0.9));
+    transform: translateY(16px) scale(1.35);
+  }
+}
+
+.haraka-animated {
+  display: inline-block;
+  animation: harakaBounce 0.8s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
+.haraka-active-glow {
+  display: inline-block;
+  animation: harakaPulseGlow 0.85s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
+.haraka-animated-up {
+  display: inline-block;
+  animation: harakaBounceUp 0.8s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
+.haraka-animated-down {
+  display: inline-block;
+  animation: harakaBounceDown 0.8s ease-in-out infinite;
+  transform-origin: center top;
+}
+
+.haraka-glow-up {
+  display: inline-block;
+  animation: harakaPulseGlowUp 0.85s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
+.haraka-glow-down {
+  display: inline-block;
+  animation: harakaPulseGlowDown 0.85s ease-in-out infinite;
+  transform-origin: center top;
+}
+

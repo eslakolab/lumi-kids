@@ -1,0 +1,8 @@
+{
+  "name": "Remix لُومِي - تَعَلَّمْ وَامْرَحْ",
+  "description": "تطبيق لومي التعليمي التفاعلي للأطفال ذوي صعوبات التعلم وبطء الإدراك: الحروف، الكلمات بالحركات، قراءة الجمل، الحساب وألعاب الذكاء بالصور الواقعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

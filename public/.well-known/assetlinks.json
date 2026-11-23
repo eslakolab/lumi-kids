@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lumi.kids",
+      "sha256_cert_fingerprints": [
+        "E9:4A:64:9A:93:01:BB:E1:2A:A6:00:B8:E9:E1:76:B1:1F:E4:21:87:9D:A1:3A:D0:B8:7F:20:76:1B:1B:FE:42"
+      ]
+    }
+  }
+]
